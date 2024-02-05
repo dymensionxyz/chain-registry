@@ -1,0 +1,33 @@
+{
+  "chainId": "jlcripto_8142480-1",
+  "chainName": "JLCRIPTO",
+  "rpc": "http://38.242.202.42:26657",
+  "rest": "http://38.242.202.42:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "JML",
+      "baseDenom": "uJML",
+      "decimals": 18,
+      "logo": "/logos/jlcripto_8142480-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://medium.com/@juanlopes3972",
+  "logo": "/logos/jlcripto_8142480-1.png",
+  "ibc": {
+    "hubChannel": "channel-9290",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7c3e90",
+    "rpc": "http://38.242.202.42:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "I breath, walk, dream and live on crypto... But now, I'm just running some nodes",
+  "analytics": true
+}
