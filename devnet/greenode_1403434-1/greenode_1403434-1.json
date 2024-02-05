@@ -1,0 +1,35 @@
+{
+  "chainId": "greenode_1403434-1",
+  "chainName": "greenode_1403434-1",
+  "rpc": "http://http://77.85.211.29:26657",
+  "rest": "http://77.85.211.29:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DYM",
+      "baseDenom": "uDYM",
+      "decimals": 18,
+      "logo": "/logos/greenode_1403434-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/greenode_1403434-1.png",
+  "ibc": {
+    "hubChannel": "channel-9351",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x156a2a",
+    "rpc": "http://77.85.211.29:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5Cm2MPcgecxxDRBzuoGmQiFPcke4hwEtknue6YurdSsEW6bJ",
+  "description": "",
+  "analytics": true
+}
