@@ -1,7 +1,7 @@
 {
     "chainId": "dymension_1100-1",
     "chainName": "Dymension",
-    "rpc": "https://rpc-dymension.mzonder.com",
+    "rpc": "https://dymension.liquify.com/rpc",
     "rest": "https://api-dymension.mzonder.com",
     "evm": {
         "chainId": "0x44C",
