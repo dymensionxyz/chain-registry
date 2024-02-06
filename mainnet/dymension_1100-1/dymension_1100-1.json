@@ -5,7 +5,7 @@
     "rest": "https://dymension.blockpi.network/lcd/v1/648a6f092eeda6ddbd8b7e4991e40c7eb31143f1",
     "evm": {
         "chainId": "0x44C",
-        "rpc": "https://dymension.liquify/json-rpc"
+        "rpc": "https://dymension-evm.blockpi.network/v1/rpc/public"
     },    
     "explorerUrl": "",
     "exploreTxUrl": "",
