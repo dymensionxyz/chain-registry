@@ -5,7 +5,7 @@
     "rest": "https://lcd.osmosis.zone",
     "explorerUrl": "https://www.mintscan.io/osmosis/",
     "exploreTxUrl": "https://www.mintscan.io/osmosis/tx/",
-    "active": false,
+    "active": true,
     "bech32Prefix": "osmo",
     "currencies": [
         {
@@ -19,8 +19,8 @@
     "coinType": 118,
     "ibc": {
         "timeout": 172800000,
-        "hubChannel": "",
-        "channel": ""
+        "hubChannel": "channel-2",
+        "channel": "channel-19774"
     },
     "gasPriceSteps": {
         "low": 0.0025,
