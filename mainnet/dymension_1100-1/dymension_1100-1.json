@@ -1,11 +1,11 @@
 {
     "chainId": "dymension_1100-1",
     "chainName": "Dymension",
-    "rest": "https://dymension.blockpi.network/lcd/v1/648a6f092eeda6ddbd8b7e4991e40c7eb31143f1",
-    "rpc": "https://dymension.blockpi.network/rpc/v1/648a6f092eeda6ddbd8b7e4991e40c7eb31143f1",
+    "rest": "https://dymension.blockpi.network/lcd/v1/7d39c7fe74b38eb364204349e35b3ded6188ed53",
+    "rpc": "https://dymension.blockpi.network/rpc/v1/7d39c7fe74b38eb364204349e35b3ded6188ed53",
     "evm": {
         "chainId": "0x44C",
-        "rpc": "https://dymension-evm.blockpi.network/v1/rpc/943818d74020ae6b6c148d2453727cc9bf356fcd"
+        "rpc": "https://dymension-evm.blockpi.network/v1/rpc/7414b8f945ecfedf1d5c5f5da06714fc8cee94c0"
     },
     "explorerUrl": "",
     "exploreTxUrl": "",
