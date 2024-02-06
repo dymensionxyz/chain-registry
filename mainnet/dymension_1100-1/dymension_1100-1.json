@@ -1,11 +1,11 @@
 {
     "chainId": "dymension_1100-1",
     "chainName": "Dymension",
-    "rest": "https://api-archive.dymd.bitszn.com",
-    "rpc": "https://rpc-archive.dymd.bitszn.com",
+    "rpc": "https://rpc-dymension.mzonder.com",
+    "rest": "https://api-dymension.mzonder.com",
     "evm": {
         "chainId": "0x44C",
-        "rpc": "https://evm-archive.dymd.bitszn.com"
+        "rpc": "https://jsonrpc-dymension.mzonder.com"
     },    
     "explorerUrl": "",
     "exploreTxUrl": "",
