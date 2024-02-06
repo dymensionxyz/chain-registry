@@ -1,11 +1,11 @@
 {
     "chainId": "dymension_1100-1",
     "chainName": "Dymension",
-    "rest": "https://dymension.blockpi.network/lcd/v1/public",
-    "rpc": "https://dymension.blockpi.network/rpc/v1/public",
+    "rest": "https://api-archive.dymd.bitszn.com",
+    "rpc": "https://rpc-archive.dymd.bitszn.com",
     "evm": {
         "chainId": "0x44C",
-        "rpc": "https://dymension-evm.blockpi.network/v1/rpc/public"
+        "rpc": "https://evm-archive.dymd.bitszn.com"
     },    
     "explorerUrl": "",
     "exploreTxUrl": "",
