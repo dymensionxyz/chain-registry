@@ -31,6 +31,6 @@
     },
     "logo": "/logos/dymension-logo.svg",
     "type": "Hub",
-    "analytics": false,
+    "analytics": true,
     "website": "https://portal.dymension.xyz"
 }
