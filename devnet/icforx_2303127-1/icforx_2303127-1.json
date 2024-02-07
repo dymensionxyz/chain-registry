@@ -1,8 +1,8 @@
 {
   "chainId": "icforx_2303127-1",
   "chainName": "Icforx",
-  "rpc": "https://froopyland.dymension.xyz/9/icforx_2303127-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/9/icforx_2303127-1/rest",
+  "rpc": "http://78.46.138.228:26657",
+  "rest": "http://78.46.138.228:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -18,16 +18,18 @@
   "website": "",
   "logo": "/logos/icforx_2303127-1.png",
   "ibc": {
-    "hubChannel": "channel-5502",
+    "hubChannel": "channel-8905",
     "channel": "channel-0",
     "timeout": 172800000
   },
   "evm": {
     "chainId": "0x232497",
-    "rpc": "https://froopyland.dymension.xyz/9/icforx_2303127-1/evmrpc"
+    "rpc": "https://78.46.138.228:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
+   "goldberg": true,
   "analytics": true
+  "availAddress": "5C4njzgtwXmm6ChBLMzVnG2UPRS5W3uJA65owuuhJLaErDGN",
 }
