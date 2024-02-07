@@ -1,0 +1,35 @@
+{
+  "chainId": "talentbuilder_5444446-1",
+  "chainName": "MANZ Roller Chain",
+  "rpc": "https://rpc.dym.mischiio.xyz",
+  "rest": "https://rest.dym.mischiio.xyz",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MANZ",
+      "baseDenom": "uMANZ",
+      "decimals": 18,
+      "logo": "talentbuilder_5444446-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://faucet.dym.mischiio.xyz",
+  "logo": "talentbuilder_5444446-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8636",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x53135e",
+    "rpc": "https://evmrpc.dym.mischiio.xyz"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "This is MANZ Rollapp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Gs7stBH3RfX5WTDh5p5vB5BwAACq1XwZgJTn8Hf87Zf3YRT"
+}
