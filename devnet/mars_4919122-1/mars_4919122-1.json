@@ -15,7 +15,6 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
   "logo": "logos/mars_4919122-1.png",
   "ibc": {
     "hubChannel": "channel-9243",
@@ -28,6 +27,11 @@
   },
   "type": "RollApp",
   "da": "Avail",
+  "description": "A NFT",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Dbxm4EKgKFHaBDWkB6qrt3DLafcCc2U8nK5QBQ35hfRd8Bj"
+}
   "description": "A NFT",
   "analytics": true,
   "goldberg": true,
