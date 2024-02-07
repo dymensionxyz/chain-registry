@@ -1,8 +1,8 @@
 {
   "chainId": "hkn_4495935-1",
-  "chainName": "Hkn",
-  "rpc": "https://froopyland.dymension.xyz/15/hkn_4495935-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/15/hkn_4495935-1/rest",
+  "chainName": "hkn_4495935-1",
+  "rpc": "http://65.21.177.58:26657",
+  "rest": "http://65.21.177.58:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "website": "https://github.com/0xHakann",
   "logo": "/logos/hkn.jpg",
   "ibc": {
     "hubChannel": "channel-6617",
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x449a3f",
-    "rpc": "https://froopyland.dymension.xyz/15/hkn_4495935-1/evmrpc"
+    "rpc": "http://65.21.177.58:26657"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
+  "goldberg": true,
+  "availAddress": "",
   "analytics": true
 }
