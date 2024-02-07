@@ -10,7 +10,7 @@
     "explorerUrl": "https://dym.fyi",
     "exploreTxUrl": "https://dym.fyi/tx/",
     "bech32Prefix": "dym",
-    "gasAdjustment": 1.1,
+    "gasAdjustment": 1,
     "currencies": [
         {
             "displayDenom": "DYM",
