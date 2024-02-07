@@ -28,6 +28,7 @@
   },
   "type": "RollApp",
   "da": "Avail",
+  "description": "Coin Hunters Community",
   "goldberg": true,
   "availAddress": "5E7RvG9HW1jdYRYXTUKnMNC1wpip5M4gb4x5L33JJWkgwpCj",
   "analytics": true
