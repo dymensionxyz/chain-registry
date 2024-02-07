@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/25/okpoko_5246893-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "NewzPay is a socialFi where users can post news on different sectors/industries, get rewards for posting news and users can like/dislike posts.",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CXd7xHznP3tmFbF3MeNmc78nbvcPpeVEn2Zq6U5XKcdkec8"
 }
