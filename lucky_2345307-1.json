@@ -29,7 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "Lucky chain",
-  "analytics": true
+  "analytics": true,
   "goldberg": true,
   "availAddress": "5FRLQU4NbaidLB9usMaTVAvp8eTkBQ5ictGVgF6S7Nwx3FLn"
 }
