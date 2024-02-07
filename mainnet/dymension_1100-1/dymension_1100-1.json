@@ -10,6 +10,7 @@
     "explorerUrl": "",
     "exploreTxUrl": "",
     "bech32Prefix": "dym",
+    "gasAdjustment": 1,
     "currencies": [
         {
             "displayDenom": "DYM",
