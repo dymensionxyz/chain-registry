@@ -24,11 +24,13 @@
     },
     "evm": {
       "chainId": "0x7b3822",
-      "rpc": ""
+      "rpc": "http://86.48.0.75:26657"
     },
     "type": "RollApp",
     "da": "Avail",
     "description": "",
+    "goldberg": true,
+    "availAddress": "CUZDAN",
     "analytics": true
   }
   
