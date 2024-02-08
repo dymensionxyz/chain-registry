@@ -1,8 +1,8 @@
 {
   "chainId": "mgcrypto_1398867-1",
   "chainName": "mgcrypto",
-  "rpc": "https://62.171.167.166:26650",
-  "rest": "https://62.171.167.166:1310",
+  "rpc": "https://mg3crypto.com:26650",
+  "rest": "https://mg3crypto.com:1310",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x155853",
-    "rpc": "https://62.171.167.166:8540"
+    "rpc": "https://mg3crypto.com:8540"
   },
   "type": "RollApp",
   "da": "Avail",
