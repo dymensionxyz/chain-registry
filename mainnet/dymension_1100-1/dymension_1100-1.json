@@ -7,7 +7,7 @@
         "chainId": "0x44C",
         "rpc": "https://dymension-evm.blockpi.network/v1/rpc/public"
     },    
-    "explorerUrl": "https://dym.fyi",
+    "explorerUrl": "https://dym.fyi/",
     "exploreTxUrl": "https://dym.fyi/tx/",
     "bech32Prefix": "dym",
     "gasAdjustment": 1,
