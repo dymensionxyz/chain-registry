@@ -1,8 +1,8 @@
 {
   "chainId": "tuanphamit_9894234-1",
   "chainName": "tuanphamit_9894234-1",
-  "rpc": "http://185.217.125.110:26657",
-  "rest": "http://185.217.125.110:1317",
+  "rpc": "https://rpc.tuanpham.dev",
+  "rest": "https://rest.tuanpham.dev",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x96f95a",
-    "rpc": "http://185.217.125.110:8545"
+    "rpc": "https://evm.tuanpham.dev"
   },
   "type": "RollApp",
   "da": "Avail",
