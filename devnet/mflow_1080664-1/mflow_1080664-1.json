@@ -1,0 +1,36 @@
+{
+  "chainId": "mflow_1080664-1",
+  "chainName": "mflow_1080664-1",
+  "rpc": "https://rpc-availtask.mflow.tech",
+  "rest": "https://rest-availtask.mflow.tech",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MFL",
+      "baseDenom": "uMFL",
+      "decimals": 18,
+      "logo": "/logos/mflow_1080664-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://VNBnode.com",
+  "logo": "/logos/mflow_1080664-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-9465",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x107d58",
+    "rpc": "https://evm-availtask.mflow.tech"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Description of your RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "analytics": true,
+  "availAddress": "5Ct9pyb3QLSeRtXkRALH3hcBKKFY1NFptabLtcG8n5WRFrA6"
+}
