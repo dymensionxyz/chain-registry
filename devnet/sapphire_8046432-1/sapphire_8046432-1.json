@@ -21,6 +21,11 @@
     "hubChannel": "channel-9191",
     "channel": "channel-0",
     "timeout": 172800000
+ },
+    "gasPriceSteps": {
+        "low": 0.0025,
+        "average": 0.025,
+        "high": 0.04  
   },
   "evm": {
     "chainId": "0x7ac760",
