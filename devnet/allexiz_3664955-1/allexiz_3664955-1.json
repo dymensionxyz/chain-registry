@@ -1,6 +1,6 @@
 {
   "chainId": "allexiz_3664955-1",
-  "chainName": "allexiz_3664955-1",
+  "chainName": "allexiz",
   "rpc": "http://31.220.95.65:26657",
   "rest": "http://31.220.95.65:1317",
   "bech32Prefix": "ethm",
@@ -18,7 +18,7 @@
   "website": "",
   "logo": "/logos/allexiz_3664955-1.png",
   "ibc": {
-    "hubChannel": "channel-8536",
+    "hubChannel": "channel-8123",
     "channel": "channel-0",
     "timeout": 172800000
   },
@@ -26,8 +26,9 @@
     "chainId": "0x37ec3b",
     "rpc": "http://31.220.95.65:8545"
   },
+  "type": "RollApp",
   "da": "Avail",
-  "description": "allexiz_3664955-1",
+  "description": "Allexiz",
   "analytics": true,
   "goldberg": true,
   "availAddress": "5GxRgSRnLbBYp6GdUAWCF1wsP4dHqm4k38KcWZSGtpi5LYmH"
