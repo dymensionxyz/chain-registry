@@ -1,8 +1,8 @@
 {                                                                                                                                                                             
   "chainId": "blockchaindev_5542733-1",                                                                                                                                       
   "chainName": "blockchaindev_5542733-1",                                                                                                                                     
-  "rpc": "http://37.60.229.99:26657",                                                                                                                                                                  
-  "rest": "http://37.60.229.99:1317",                                                                                                                                                                 
+  "rpc": "https://37.60.229.99:26657",                                                                                                                                                                  
+  "rest": "https://37.60.229.99:1317",                                                                                                                                                                 
   "bech32Prefix": "ethm",                                                                                                                                                     
   "currencies": [                                                                                                                                                             
     {                                                                                                                                                                         
@@ -24,7 +24,7 @@
   },                                                                                                                                                                          
   "evm": {                                                                                                                                                                    
     "chainId": "0x54934d",                                                                                                                                                    
-    "rpc": "http://37.60.229.99:8545"                                                                                                                                                                 
+    "rpc": "https://37.60.229.99:8545"                                                                                                                                                                 
   },                                                                                                                                                                          
   "type": "RollApp",                                                                                                                                                          
   "da": "Avail",                                                                                                                                                              
