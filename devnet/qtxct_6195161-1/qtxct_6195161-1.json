@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "description": "This is the RollApp of QTxCT",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DttsJ4kioa92rUVww4EYt5ufm6sDrgFfCB4j966K3qw2szV"
 }
