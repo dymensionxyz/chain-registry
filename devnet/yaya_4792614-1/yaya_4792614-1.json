@@ -1,8 +1,8 @@
 {
   "chainId": "yaya_4792614-1",
   "chainName": "yaya_4792614-1",
-  "rpc": "https://194.163.151.0:26657",
-  "rest": "https://194.163.151.0:1317",
+  "rpc": "http://194.163.151.0:26657",
+  "rest": "http://194.163.151.0:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x492126",
-    "rpc": "https://194.163.151.0:8545"
+    "rpc": "http://194.163.151.0:8545"
   },
   "type": "RollApp",
   "da": "Avail",
