@@ -2,7 +2,7 @@
   "chainId": "vernom_4852138-1",
   "chainName": "vernom_4852138-1",
   "rpc": "http://167.86.100.153:26657",
-  "rest": "https://167.86.100.153:1317",
+  "rest": "http://167.86.100.153:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
