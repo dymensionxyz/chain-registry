@@ -1,8 +1,8 @@
 {
   "chainId": "hardcore_6577068-1",
   "chainName": "hardcore_6577068-1",
-  "rpc": "http://207.180.243.37:26657",
-  "rest": "http://207.180.243.37:1317",
+  "rpc": "https://207.180.243.37:26657",
+  "rest": "https://207.180.243.37:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
