@@ -1,8 +1,8 @@
 {
   "chainId": "drollapp_2480108-1",
   "chainName": "drollapp_2480108-1",
-  "rpc": "https://31.220.100.140:26657",
-  "rest": "https://31.220.100.140:1317",
+  "rpc": "https://naturesgut.com:26657",
+  "rest": "https://naturesgut.com:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x25d7ec",
-    "rpc": "https://31.220.100.140:8545"
+    "rpc": "https://naturesgut.com:8545"
   },
   "type": "RollApp",
   "da": "Avail",
