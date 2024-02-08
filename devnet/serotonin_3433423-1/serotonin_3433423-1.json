@@ -1,8 +1,8 @@
 {
   "chainId": "serotonin_3433423-1",
   "chainName": "serotonin",
-  "rpc": "https://froopyland.dymension.xyz/19/serotonin_3433423-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/19/serotonin_3433423-1/rest",
+  "rpc": "http://49.13.31.163:26657",
+  "rest": "http://49.13.31.163:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
