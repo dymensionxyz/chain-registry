@@ -1,8 +1,8 @@
 {
   "chainId": "algobird_7336167-1",
   "chainName": "algobird_7336167-1",
-  "rpc": "http://37.60.252.183:26657",
-  "rest": "http://37.60.252.183:1317",
+  "rpc": "https://37.60.252.183:26657",
+  "rest": "https://37.60.252.183:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -21,6 +21,12 @@
     "hubChannel": "channel-9350",
     "channel": "channel-0",
     "timeout": 172800000
+ },
+    "gasPriceSteps": {
+        "low": 0.0025,
+        "average": 0.025,
+        "high": 0.04
+  
   },
   "evm": {
     "chainId": "0x6ff0e7",
@@ -28,7 +34,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
-"availAddress": "5H9ajUZjqoGaEPCYJa1BM8qXppP41DsXX9BgX5AuFm2MAocR"
-}
+  "description": "Algobird",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5H9ajUZjqoGaEPCYJa1BM8qXppP41DsXX9BgX5AuFm2MAocR"
+  }
