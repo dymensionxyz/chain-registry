@@ -1,20 +1,21 @@
 {
   "chainId": "quochaivietnam_4064585-1",
-  "chainName": "quochaivietnam",
-  "rpc": "https://froopyland.dymension.xyz/quochaivietnam_4064585-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/quochaivietnam_4064585-1/rest",
+  "chainName": "quochaivietnam_4064585-1",
+  "rpc": "http://38.242.196.73:26657",
+  "rest": "http://38.242.196.73:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
       "displayDenom": "avl",
       "baseDenom": "uavl",
       "decimals": 18,
-      "logo": "/logos/quochaivietnam_4064585-1.png",
+      "logo": "logos/quochaivietnam_4064585-1",
       "type": "main"
     }
   ],
   "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/1065831819154563132/1171414018028740698",
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
   "logo": "/logos/quochaivietnam_4064585-1",
   "ibc": {
     "hubChannel": "channel-9105",
@@ -23,13 +24,13 @@
   },
   "evm": {
     "chainId": "0x3e0549",
-    "rpc": "https://froopyland.dymension.xyz/quochaivietnam_4064585-1/evmrpc"
+    "rpc": "http://38.242.196.73:8545"
   },
   "type": "RollApp",
   "da": "Avail",
+  "description": "make to new build",
   "analytics": true,
-  "rewards": true,
   "goldberg": true,
   "availAddress": "5DqY1VUzaSfW9NGJAkLMhwpXvFugbMmsQDoqAjgwWZyTxdR5",
-  "validator": true
+  "rewards": true
 }
