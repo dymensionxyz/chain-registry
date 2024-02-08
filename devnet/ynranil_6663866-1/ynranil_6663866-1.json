@@ -1,0 +1,35 @@
+{
+  "chainId": "ynranil_6663866-1",
+  "chainName": "ynranil_6663866-1",
+  "rpc": "http://45.79.184.174:26657",
+  "rest": "http://45.79.184.174:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ynr",
+      "baseDenom": "uynr",
+      "decimals": 18,
+      "logo": "/logos/ynranil_6663866-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/ynranil_6663866-1.png",
+  "ibc": {
+    "hubChannel": "channel-9407",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6912de",
+    "rpc": "http://45.79.184.174:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "goldberg": true,
+  "availAddress": "5GGhxVPDHsMkYb4HRpfhammxZn8dp9gykqZBr7xQxyUYixgP",
+  "analytics": true
+}
