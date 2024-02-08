@@ -1,8 +1,8 @@
 {
    "chainId":"sea_3998836-1",
    "chainName":"sea_3998836-1",
-   "rpc":"http://167.86.121.11:26657",
-   "rest":"http://167.86.121.11:1317",
+   "rpc":"https://seaabcxy.shop:26657",
+   "rest":"https://seaabcxy.shop:1317",
    "bech32Prefix":"ethm",
    "currencies":[
       {
@@ -24,7 +24,7 @@
    },
    "evm":{
       "chainId":"0x3d0474",
-      "rpc":"http://167.86.121.11:8485"
+      "rpc":"https://seaabcxy.shop:8545"
    },
    "type":"RollApp",
    "da":"Avail",
