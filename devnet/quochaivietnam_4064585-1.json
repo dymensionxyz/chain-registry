@@ -1,8 +1,8 @@
 {
   "chainId": "quochaivietnam_4064585-1",
   "chainName": "quochaivietnam_4064585-1",
-  "rpc": "http://38.242.196.73:26657",
-  "rest": "http://38.242.196.73:1317",
+  "rpc": "https://38.242.196.73:26657",
+  "rest": "https://38.242.196.73:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3e0549",
-    "rpc": "http://38.242.196.73:8545"
+    "rpc": "https://38.242.196.73:8545"
      },
   "type": "RollApp",
   "da": "Avail",
