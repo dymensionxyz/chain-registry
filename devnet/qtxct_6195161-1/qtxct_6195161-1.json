@@ -1,0 +1,33 @@
+{
+  "chainId": "qtxct_6195161-1",
+  "chainName": "qtxct_6195161-1",
+  "rpc": "http://207.180.229.108:26657",
+  "rest": "http://207.180.229.108:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "QTxCT",
+      "baseDenom": "uQTxCT",
+      "decimals": 18,
+      "logo": "/logos/qtxct_6195161-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/qtxct_6195161-1.png",
+  "ibc": {
+    "hubChannel": "channel-9396",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5e87d9",
+    "rpc": "http://207.180.229.108:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
