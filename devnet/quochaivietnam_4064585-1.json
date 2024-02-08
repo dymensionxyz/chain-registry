@@ -1,8 +1,8 @@
 {
   "chainId": "quochaivietnam_4064585-1",
-  "chainName": "quochaivietnam_4064585-1",
-  "rpc": "https://38.242.196.73:26657",
-  "rest": "https://38.242.196.73:1317",
+  "chainName": "quochaivietnam",
+  "rpc": "https://froopyland.dymension.xyz/quochaivietnam_4064585-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/quochaivietnam_4064585-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -15,8 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
-  "logo": "/logos/quochaivietnam_4064585-1.png",
+  "logo": "/logos/quochaivietnam_4064585-1",
   "ibc": {
     "hubChannel": "channel-9105",
     "channel": "channel-0",
@@ -24,10 +23,14 @@
   },
   "evm": {
     "chainId": "0x3e0549",
-    "rpc": "https://38.242.196.73:8545"
-     },
+    "rpc": "https://froopyland.dymension.xyz/quochaivietnam_4064585-1/evmrpc"
+  },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
-  "analytics": true
+  "analytics": true,
+  "rewards": true,
+  "goldberg": true,
+  "availAddress": "5DqY1VUzaSfW9NGJAkLMhwpXvFugbMmsQDoqAjgwWZyTxdR5
+",
+  "validator": true
 }
