@@ -1,8 +1,8 @@
 {
   "chainId": "alex_5091105-1",
   "chainName": "alex_5091105-1",
-  "rpc": "http://144.91.100.123:26657",
-  "rest": "http://144.91.100.123:1317",
+  "rpc": "https://144.91.100.123:26657",
+  "rest": "https://144.91.100.123:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4daf21",
-    "rpc": "http://144.91.100.123:8545"
+    "rpc": "https://144.91.100.123:8545"
   },
   "type": "RollApp",
   "da": "Avail",
