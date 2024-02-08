@@ -1,8 +1,8 @@
 {
   "chainId": "emberstake_3838714-1",
   "chainName": "emberstake_3838714-1",
-  "rpc": "http://dym-avail.emberstake.xyz:31357",
-  "rest": "http://dym-avail.emberstake.xyz:31358",
+  "rpc": "https://dym-avail.emberstake.xyz",
+  "rest": "https://dym-avail-rest.emberstake.xyz",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3a92fa",
-    "rpc": "http://dym-avail.emberstake.xyz:31359"
+    "rpc": "https://dym-avail-evm.emberstake.xyz"
   },
   "type": "RollApp",
   "da": "Avail",
