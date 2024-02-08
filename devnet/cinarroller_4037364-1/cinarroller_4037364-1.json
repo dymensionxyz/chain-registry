@@ -26,9 +26,10 @@
     "chainId": "0x3d9af4",
     "rpc": "https://froopyland.dymension.xyz/2/cinarroller_4037364-1/evmrpc"
   },
-  "type": "RollApp",
+ "type": "RollApp",
   "da": "Avail",
-  "description": "Experimental First Rollapp",
+  "description": "This is Cinar Rollapp",
+  "goldberg": true,
   "analytics": true,
-  "rewards": true
+  "availAddress": "5GqMdcDtRZhnz8epyKhs7uHQhPvgrkBfGrYHGQn8mXJEasNA"
 }
