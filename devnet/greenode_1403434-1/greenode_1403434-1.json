@@ -1,7 +1,7 @@
 {
   "chainId": "greenode_1403434-1",
   "chainName": "greenode_1403434-1",
-  "rpc": "http://http://77.85.211.29:26657",
+  "rpc": "http://77.85.211.29:26657",
   "rest": "http://77.85.211.29:1317",
   "bech32Prefix": "ethm",
   "currencies": [
