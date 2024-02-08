@@ -1,8 +1,8 @@
 {
   "chainId": "ilaybilge_4650277-1",
   "chainName": "ilaybilge_4650277-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://194.163.159.100:26657",
+  "rest": "http://194.163.159.100:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x46f525",
-    "rpc": ""
+    "rpc": "http://194.163.159.100:8545"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "Ilay Bilge's Roller",
+  "goldberg": true,
+  "availAddress": "5GdwV9o9ZcZrpngVRfQ9K6Qgy7CHncr1SmXJNJLTYfxfAFvx",
   "analytics": true
 }
