@@ -27,7 +27,10 @@
     "rpc": "https://froopyland.dymension.xyz/22/lavenil_9813763-1-a/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5ERW6pJDsLNtgpsJP6XbY8gH33axRRAqbz9zDKD3of7o2W1o",
+  "validator": true
 }
