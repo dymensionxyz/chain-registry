@@ -1,1 +1,35 @@
-
+{
+  "chainId": "hero_6272393-1",
+  "chainName": "hero",
+  "rpc": "http://rpc.hernodevietnamese.xyz:26657",
+  "rest": "http://rest.hernodevietnamese.xyz:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "hero",
+      "baseDenom": "uhero",
+      "decimals": 18,
+      "logo": "/logos/hero_6272393-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "http://hernodevietnamese.xyz",
+  "logo": "/logos/hero_6272393-1.png",
+  "ibc": {
+    "hubChannel": "channel-8427",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5fb589",
+    "rpc": "http://hernodevietnamese.xyz:8445"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Avail HeroNodeVietNam RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FRZDFaM7avR3VADjMWXDU1qW2TqwwaBPTZ3mrgsAbav27Fx"
+}
