@@ -1,8 +1,8 @@
 {
   "chainId": "animus_7251253-1",
   "chainName": "animus_7251253-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "https://d1.animusthelight.xyz",
+  "rest": "https://d2.animusthelight.xyz",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6ea535",
-    "rpc": ""
+    "rpc": "https://d3.animusthelight.xyz"
   },
   "goldberg": true,
   "availAddress": "5GKDFBrYUAtdZCtxnqbHgeTzq2zyMRY2kg69j9YxgjVeb2JB",
