@@ -1,0 +1,35 @@
+{
+  "chainId": "devilmaycry_9105274-1",
+  "chainName": "devilmaycry_9105274-1",
+  "rpc": "https://d1.dmcthelight.xyz/",
+  "rest": "https://d2.dmcthelight.xyz/",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "DMC",
+      "baseDenom": "uDMC",
+      "decimals": 18,
+      "logo": "/logos/devilmaycry_9105274-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/devilmaycry_9105274-1.png",
+  "ibc": {
+    "hubChannel": "channel-9477",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8aef7a",
+    "rpc": "https://d3.dmcthelight.xyz/"
+  },
+  "goldberg": true,
+  "availAddress": "5GLSSE947x5egQ7piLNbRrN1xoRhLbAnVCmL7P9EKCGzeX76",
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
