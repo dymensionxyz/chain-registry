@@ -1,8 +1,8 @@
 {
   "chainId": "kalyzom_8150940-1",
   "chainName": "kaly chain",
-  "rpc": "http://5.189.172.185:26657",
-  "rest": "http://5.189.172.185:1317",
+  "rpc": "https://rpc.kalyz.online",
+  "rest": "https://rest.kalyz.online",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7c5f9c",
-    "rpc": "http://5.189.172.185:8545"
+    "rpc": "https://evm.kalyz.online"
   },
   "type": "RollApp",
   "da": "Avail",
