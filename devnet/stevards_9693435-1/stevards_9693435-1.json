@@ -1,8 +1,8 @@
 {
   "chainId": "stevards_9693435-1",
   "chainName": "stevards_9693435-1",
-  "rpc": "http://185.249.225.183:26657",
-  "rest": "http://185.249.225.183:1317",
+  "rpc": "https://rpc-avail.scannerx.net/",
+  "rest": "https://rest-avail.scannerx.net",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -23,13 +23,13 @@
     "timeout": 172800000
   },
   "evm": {
-    "chainId": "0x93e8fb",
-    "rpc": "http://185.249.225.183:8545"
+    "chainId": "0x54fc10",
+    "rpc": "https://evm-rpc.scannerx.net"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
+  "analytics": true,
   "goldberg": true,
-  "availAddress": "5GxVQ4MqGm8rJyYWNzYArhvFtXq7kuZB6Di6TRqeeyVBwnm9",
-  "analytics": true
+  "availAddress": "5GxVQ4MqGm8rJyYWNzYArhvFtXq7kuZB6Di6TRqeeyVBwnm9"
 }
