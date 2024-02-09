@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6965b4",
-    "rpc": "https://d3.tryscatter.xyz/"
+    "rpc": "https://avail.tryscatter.xyz"
   },
   "goldberg": true,
   "availAddress": "5H8c4jdjza2EF8GwKjhMcwE2ELdCqwnYZVSrZqthvEGVb7jy",
