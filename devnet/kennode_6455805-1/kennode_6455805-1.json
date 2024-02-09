@@ -1,8 +1,8 @@
 {
   "chainId": "kennode_6455805-1",
   "chainName": "kennode_6455805-1",
-  "rpc": "http://65.21.182.182:26657",
-  "rest": "http://65.21.182.182:1317",
+  "rpc": "https://avl-rpc.kennode.xyz",
+  "rest": "https://avl-rest.kennode.xyz",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6281fd",
-    "rpc": "http://65.21.182.182:8545"
+    "rpc": "https://avl-evm.kennode.xyz"
   },
   "type": "RollApp",
   "da": "Avail",
