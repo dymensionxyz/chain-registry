@@ -1,8 +1,8 @@
 {
   "chainId": "frinchity_9289836-1",
   "chainName": "Frinchy Tacata",
-  "rpc": "https://froopyland.dymension.xyz/20/frinchity_9289836-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/20/frinchity_9289836-1/rest",
+  "rpc": "http://84.247.133.41:26677",
+  "rest": "http://84.247.133.41:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7f21fb",
-    "rpc": "https://froopyland.dymension.xyz/20/frinchity_9289836-1/evmrpc"
+    "rpc": "http://84.247.133.41:8545"
   },
   "type": "RollApp",
   "da": "Celestia",
