@@ -1,8 +1,8 @@
 {
   "chainId": "devilmaycry_9105274-1",
   "chainName": "devilmaycry_9105274-1",
-  "rpc": "https://d1.dmcthelight.xyz/",
-  "rest": "https://d2.dmcthelight.xyz/",
+  "rpc": "https://d1.dmcthelight.xyz",
+  "rest": "https://d2.dmcthelight.xyz",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x8aef7a",
-    "rpc": "https://d3.dmcthelight.xyz/"
+    "rpc": "https://d3.dmcthelight.xyz"
   },
   "goldberg": true,
   "availAddress": "5GLSSE947x5egQ7piLNbRrN1xoRhLbAnVCmL7P9EKCGzeX76",
