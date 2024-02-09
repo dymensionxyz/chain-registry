@@ -1,0 +1,33 @@
+{
+  "chainId": "frinchity_9289836-1",
+  "chainName": "Frinchy Tacata",
+  "rpc": "http://84.247.133.41:26677",
+  "rest": "http://84.247.133.41:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "FRIN",
+      "baseDenom": "ufrin",
+      "decimals": 18,
+      "logo": "/logos/frinchity_9289836-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "frinchy.store",
+  "logo": "/logos/frinchity_9289836-1.png",
+  "ibc": {
+    "hubChannel": "channel-8782",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7f21fb",
+    "rpc": "http://84.247.133.41:8545"
+  },
+  "type": "RollApp",
+  "da": "Celestia",
+  "description": "Let's go barber pole",
+  "analytics": true
+}
