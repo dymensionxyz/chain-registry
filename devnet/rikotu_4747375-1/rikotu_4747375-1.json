@@ -29,5 +29,7 @@
   "type": "RollApp",
   "da": "Celestia",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5H1M39Cq8oFf97NyCWqoScaVjmokud3oYVd8g2mrLUFQWXLP"
 }
