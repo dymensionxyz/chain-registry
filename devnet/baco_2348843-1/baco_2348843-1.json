@@ -1,8 +1,8 @@
 {
   "chainId": "baco_2348843-1",
   "chainName": "baco_2348843-1",
-  "rpc": "http://161.97.142.3:26657",
-  "rest": "http://161.97.142.3:1317",
+  "rpc": "https://baybaco.site:26657",
+  "rest": "https://baybaco.site:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x23d72b",
-    "rpc": "http://161.97.142.3:8545"
+    "rpc": "https://baybaco.site:8545"
   },
   "type": "RollApp",
   "da": "Avail",
