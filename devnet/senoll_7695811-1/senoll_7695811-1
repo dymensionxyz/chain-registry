@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "website": "https://senol10-lxma-k5p3ds0g8-senols-projects-32f337d1.vercel.app/",
   "logo": "/logos/photo_2023-10-23_19-56-52.jpg",
   "ibc": {
     "hubChannel": "channel-6741",
