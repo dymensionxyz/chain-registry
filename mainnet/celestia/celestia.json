@@ -6,6 +6,7 @@
     "explorerUrl": "https://www.mintscan.io/celestia/",
     "exploreTxUrl": "https://www.mintscan.io/celestia/tx/",
     "active": false,
+    "staging": true,
     "bech32Prefix": "celestia",
     "currencies": [
         {
@@ -19,8 +20,8 @@
     "coinType": 118,
     "ibc": {
         "timeout": 172800000,
-        "hubChannel": "",
-        "channel": ""
+        "hubChannel": "channel-4",
+        "channel": "channel-27"
     },
     "gasPriceSteps": {
         "low": 0.01,
