@@ -1,7 +1,7 @@
 {
   "chainId": "stevards_9693435-1",
   "chainName": "stevards_9693435-1",
-  "rpc": "https://rpc-avail.scannerx.net/",
+  "rpc": "https://rpc-avail.scannerx.net",
   "rest": "https://rest-avail.scannerx.net",
   "bech32Prefix": "ethm",
   "currencies": [
