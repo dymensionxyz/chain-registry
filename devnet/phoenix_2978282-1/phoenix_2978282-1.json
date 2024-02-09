@@ -1,8 +1,8 @@
 {
   "chainId": "phoenix_2978282-1",
   "chainName": "phoenix_2978282-1",
-  "rpc": "https://d1.makingmemories.xyz/",
-  "rest": "https://d2.makingmemories.xyz/",
+  "rpc": "https://d1.makingmemories.xyz",
+  "rest": "https://d2.makingmemories.xyz",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2d71ea",
-    "rpc": "https://d3.makingmemories.xyz/"
+    "rpc": "https://d3.makingmemories.xyz"
   },
   "goldberg": true,
   "availAddress": "5Cw9sDRnpfszqCGtaeTbHHzWYZFB4J1WFTzVCo1ZMhm9P8Yh",
