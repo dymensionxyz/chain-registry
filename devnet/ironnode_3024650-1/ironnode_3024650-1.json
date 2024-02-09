@@ -1,8 +1,8 @@
 {
   "chainId": "ironnode_3024650-1",
   "chainName": "ironnode_3024650-1",
-  "rpc": "http://89.117.55.159:26657",
-  "rest": "http://89.117.55.159:1317",
+  "rpc": "https://rpc.ironnode.click",
+  "rest": "https://lcd.ironnode.click",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "http://caginagirdemir.github.io/availrollapp/",
+  "website": "https://ironnode.click",
   "logo": "/logos/ironnode_3024650-1.png",
   "ibc": {
     "hubChannel": "channel-9277",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2e270a",
-    "rpc": "http://89.117.55.159:8545"
+    "rpc": "https://evmrpc.ironnode.click"
   },
   "type": "RollApp",
   "da": "Avail",
