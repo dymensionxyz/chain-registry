@@ -1,8 +1,8 @@
 {
   "chainId": "adaconna_1309299-1",
   "chainName": "Adaconna",
-  "rpc": "http://194.60.201.42:10545",
-  "rest": "http://194.60.201.42:1317",
+  "rpc": "https://rpc.avail.adaconna.xyz",
+  "rest": "https://rest.avail.adaconna.xyz",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x13fa73",
-    "rpc": "http://194.60.201.42:8545"
+    "rpc": "https://rpc_evm.avail.adaconna.xyz"
   },
   "type": "RollApp",
   "da": "Avail",
