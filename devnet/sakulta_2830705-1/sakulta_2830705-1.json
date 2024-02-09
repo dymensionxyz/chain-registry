@@ -1,7 +1,7 @@
 {
   "chainId": "sakulta_2830705-1",
   "chainName": "sakulta_2830705-1",
-  "rpc": "http://185.188.249.147:26657",
+  "rpc": "https://185.188.249.147:26657",
   "rest": "http://185.188.249.147:1317",
   "bech32Prefix": "ethm",
   "currencies": [
