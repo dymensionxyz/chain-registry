@@ -1,8 +1,8 @@
 {
   "chainId": "secard_1563833-1",
   "chainName": "Secard",
-  "rpc": "http://89.233.108.118:26657",
-  "rest": "http://89.233.108.118:1317",
+  "rpc": "https://froopyland.dymension.xyz/24/secard_1563833-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/24/secard_1563833-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x17dcb9",
-    "rpc": "http://89.233.108.118:8545"
+    "rpc": "https://froopyland.dymension.xyz/24/secard_1563833-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
