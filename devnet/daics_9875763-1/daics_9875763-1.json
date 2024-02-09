@@ -1,8 +1,8 @@
 {
   "chainId": "daics_9875763-1",
   "chainName": "daics_9875763-1",
-  "rpc": "http://128.140.0.126:26657/",
-  "rest": "http://128.140.0.126:1317/",
+  "rpc": "https://dymavail.daic.capital/rpc/",
+  "rest": "https://dymavail.daic.capital/rest/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x96b133",
-    "rpc": "http://128.140.0.126:8545/"
+    "rpc": "https://dymavail.daic.capital/api/"
   },
   "type": "RollApp",
   "da": "Avail",
