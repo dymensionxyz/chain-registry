@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x96b133",
-    "rpc": "https://dymavail.daic.capital/api/"
+    "rpc": "https://dymavail.daic.capital/eth/"
   },
   "type": "RollApp",
   "da": "Avail",
