@@ -22,7 +22,7 @@
         "timeout": 172800000,
         "hubChannel": "channel-4",
         "channel": "channel-27",
-        "sendOnly": true
+        "allowedDenoms": ["utia"]
     },
     "gasPriceSteps": {
         "low": 0.01,
