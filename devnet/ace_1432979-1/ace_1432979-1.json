@@ -24,12 +24,12 @@
   },
   "evm": {
     "chainId": "0x15dd93",
-    "rpc": ""
+    "rpc": "https://d3.acethelight.xyz"
   },
   "goldberg": true,
   "availAddress": "5HmaSMFDoSTGxYUq1PjbZfPntuBx2HnKJXa1m3q1jm5j9UbH",
   "type": "RollApp",
   "da": "Avail",
-  "description": "https://d3.acethelight.xyz",
+  "description": "",
   "analytics": true
 }
