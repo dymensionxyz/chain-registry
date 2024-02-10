@@ -1,8 +1,8 @@
 {
   "chainId": "lay_4295783-1",
   "chainName": "lay_4295783-1",
-  "rpc": "https://164.68.111.223:26657",
-  "rest": "https://164.68.111.223:1317",
+  "rpc": "http://164.68.111.223:26657",
+  "rest": "http://164.68.111.223:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x418c67",
-    "rpc": "https://164.68.111.223:8545"
+    "rpc": "http://164.68.111.223:8545"
   },
   "type": "RollApp",
   "da": "Avail",
