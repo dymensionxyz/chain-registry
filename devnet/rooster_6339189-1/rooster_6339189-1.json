@@ -1,0 +1,34 @@
+{
+  "chainId": "rooster_6339189-1",
+  "chainName": "rooster_6339189-1",
+  "rpc": "http://103.75.197.49:26657",
+  "rest": "http://103.75.197.49:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "rstr",
+      "baseDenom": "urstr",
+      "decimals": 18,
+      "logo": "/logos/rooster_6339189-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/rooster_6339189-1.png",
+  "ibc": {
+    "hubChannel": "channel-9534",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x60ba75",
+    "rpc": "http://103.75.197.49:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "As an node operator, I expertly manage and maintain blockchain nodes, ensuring their optimal performance and security. I'm committed to the smooth operation and integrity of blockchain nodes and RollApps",
+  "analytics": true
+}
+
