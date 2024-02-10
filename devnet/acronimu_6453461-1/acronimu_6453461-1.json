@@ -1,8 +1,8 @@
 {
   "chainId": "acronimu_6453461-1",
   "chainName": "acronimu_6453461-1",
-  "rpc": "",
-  "rest": "",
+  "rpc": "http://104.251.219.130:26657",
+  "rest": "http://104.251.219.130:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,10 @@
   },
   "evm": {
     "chainId": "0x6278d5",
-    "rpc": ""
+    "rpc": "http://104.251.219.130:8545"
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "As an node operator, I expertly manage and maintain blockchain nodes, ensuring their optimal performance and security.",
   "analytics": true
 }
