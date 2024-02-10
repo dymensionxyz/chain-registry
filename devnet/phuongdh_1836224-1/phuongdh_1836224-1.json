@@ -1,8 +1,8 @@
 {
   "chainId": "phuongdh_1836224-1",
   "chainName": "phuongdh_1836224-1",
-  "rpc": "http://84.247.191.53:26657",
-  "rest": "http://84.247.191.53:1317",
+  "rpc": "https://rpc.daulac.xyz",
+  "rest": "https://rest.daulac.xyz",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1c04c0",
-    "rpc": "http://84.247.191.53:8545"
+    "rpc": "https://evm-rpc.daulac.xyz"
   },
   "goldberg": true,
   "availAddress": "5D7j1r2kqomQnRZKmCNwURdcSVUJBMChPtdGkyz47tERjEkQ",
