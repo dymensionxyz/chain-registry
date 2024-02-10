@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3c50e5",
-    "rpc": "http://5.78.90.139:8545"
+    "rpc": "https://5.78.90.139:8545"
   },
   "type": "RollApp",
   "da": "Avail",
