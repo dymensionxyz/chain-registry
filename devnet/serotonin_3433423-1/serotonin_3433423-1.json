@@ -1,8 +1,8 @@
 {
   "chainId": "serotonin_3433423-1",
   "chainName": "serotonin",
-  "rpc": "https://froopyland.dymension.xyz/19/serotonin_3433423-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/19/serotonin_3433423-1/rest",
+  "rpc": "rollapp-26657.serotonins.com.tr",
+  "rest": "rollapp-1317.serotonins.com.tr",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "website": "https://serotonins.vercel.app",
   "logo": "/logos/serotonin_3433423-1.jpeg",
   "ibc": {
     "hubChannel": "channel-7140",
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x3463cf",
-    "rpc": "https://froopyland.dymension.xyz/19/serotonin_3433423-1/evmrpc"
+    "rpc": "rollapp-8545.serotonins.com.tr"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EnAqLHeKXa1BezwK9P1xNSYBqJWWnGocPAviWme4ePt7F3j"
 }
