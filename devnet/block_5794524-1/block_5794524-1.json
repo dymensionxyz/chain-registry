@@ -1,8 +1,8 @@
 {
     "chainId": "block_5794524-1",
     "chainName": "Blocks Network",
-    "rpc": "https://rpc.blocksnetwork.xyz/",
-    "rest": "https://rest.blocksnetwork.xyz/",
+    "rpc": "https://rpc.blocksnetwork.xyz",
+    "rest": "https://rest.blocksnetwork.xyz",
     "bech32Prefix": "ethm",
     "currencies": [
       {
@@ -24,7 +24,7 @@
     },
     "evm": {
       "chainId": "0x586adc",
-      "rpc": "https://evm.blocksnetwork.xyz/"
+      "rpc": "https://evm.blocksnetwork.xyz"
     },
     "type": "RollApp",
     "da": "Avail",
