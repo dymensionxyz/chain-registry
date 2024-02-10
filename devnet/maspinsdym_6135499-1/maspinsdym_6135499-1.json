@@ -1,8 +1,8 @@
 {
   "chainId": "maspinsdym_6135499-1",
   "chainName": "maspinsdym_6135499-1",
-  "rpc": "161.97.96.97:26657",
-  "rest": "161.97.96.97:1317",
+  "rpc": "rpc.madhouse.cloud",
+  "rest": "rest.madhouse.cloud",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,12 +24,10 @@
   },
   "evm": {
     "chainId": "0x5d9ecb",
-    "rpc": "161.97.96.97:8545"
+    "rpc": "evm.madhouse.cloud"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
   "analytics": true
- "goldberg": true,
-  "availAddress": "5Evz2konaxXUGXihKkTXbgsKx9CecVYjYfkvHj8XJQRMqpzR"
 }
