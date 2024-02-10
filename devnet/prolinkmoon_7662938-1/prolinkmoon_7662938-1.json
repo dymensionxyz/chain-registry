@@ -1,0 +1,35 @@
+{
+    "chainId": "prolinkmoon_7662938-1",
+    "chainName": "Prolinkmoon Chain",
+    "rpc": "https://node-endpoint.prolinkmoon.xyz/rpc",
+    "rest": "https://rest-api.prolinkmoon.xyz/rollapp",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "PMO",
+        "baseDenom": "uPMO",
+        "decimals": 18,
+        "logo": "/logos/prolinkmoon_7662938-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://dev.prolinkmoon.xyz/",
+    "logo": "/logos/prolinkmoon_7662938-1.png",
+    "ibc": {
+      "hubChannel": "channel-9333",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x74ed5a",
+      "rpc": "https://evm-rollapp.prolinkmoon.xyz/rpc"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "Prolinkmoon, Empowering Decentralization.",
+    "analytics": true,
+    "goldberg": true,
+    "availAddress": "5GKs4Y3xcE8sbiAvtFEe8TTfRPAG1DyauB6zCSL3uB5U3k6w"
+  }
