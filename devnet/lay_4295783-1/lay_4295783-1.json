@@ -29,5 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "As a node operator, we maintain the blockchain for safe operation and ensure the smooth operation of rollups.",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HTUwWbqp9GTFAVpCp6dr7APqLJCZJNKLuga5VdPyzHiP21J"
 }
