@@ -1,8 +1,8 @@
 {
   "chainId": "corenodekutlu_8127585-1",
   "chainName": "corenodekutlu_8127585-1",
-  "rpc": "http://46.196.214.35:26657",
-  "rest": "http://46.196.214.35:1317",
+  "rpc": "https://rpc.minenn.com.tr:26657",
+  "rest": "https://rest.minenn.com.tr:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7c0461",
-    "rpc": "http://46.196.214.35:8545"
+    "rpc": "https://evm.minenn.com.tr:8545"
   },
   "type": "RollApp",
   "da": "Avail",
