@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "a node operator, blockchain and security enthusiast",
-  "analytics": true
+  "description": "a node operator, blockchain and security enthusiast, very fast rollup",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DXBt3dgDTzck5XGwWWURAjGw7q9mq75eMAttepEkKvq5kZ9"
 }
