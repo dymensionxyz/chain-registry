@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x82b38b",
-    "rpc": "http://evm.gracecampo.online"
+    "rpc": "https://evm.gracecampo.online"
   },
   "type": "RollApp",
   "da": "Avail",
