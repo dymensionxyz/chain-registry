@@ -1,7 +1,7 @@
 {
   "chainId": "baco_2348843-1",
   "chainName": "baco_2348843-1",
-  "rpc": "https://baybaco.site:26657",
+  "rpc": "https://rpc.baybaco.site",
   "rest": "https://baybaco.site:1317",
   "bech32Prefix": "ethm",
   "currencies": [
