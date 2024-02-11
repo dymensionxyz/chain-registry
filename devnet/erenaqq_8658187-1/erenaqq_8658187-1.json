@@ -1,7 +1,7 @@
 {
   "chainId": "erenaqq_8658187-1",
   "chainName": "erenaqq_8658187-1",
-  "rpc": “htps://62.171.186.96:26657”,
+  "rpc": “https://62.171.186.96:26657”,
   "rest": "https://62.171.186.96:1317”,
   "bech32Prefix": "ethm",
   "currencies": [
