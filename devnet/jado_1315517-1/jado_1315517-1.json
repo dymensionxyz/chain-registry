@@ -1,8 +1,8 @@
 {
   "chainId": "jado_1315517-1",
   "chainName": "jado_1315517-1",
-  "rpc": "http://49.12.59.175:26657",
-  "rest": "http://49.12.59.175:1317",
+  "rpc": "https://jado90.xyz/rpc",
+  "rest": "https://jado90.xyz/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1412bd",
-    "rpc": "http://49.12.59.175:8545"
+    "rpc": "https://jado90.xyz/evm"
   },
   "type": "RollApp",
   "da": "Avail",
