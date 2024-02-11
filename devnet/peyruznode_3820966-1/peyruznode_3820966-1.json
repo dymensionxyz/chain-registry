@@ -1,8 +1,8 @@
 {
   "chainId": "peyruznode_3820966-1",
   "chainName": "peyruznode_3820966-1",
-  "rpc": "http://178.128.16.23:26657",
-  "rest": "http://178.128.16.23:1317",
+  "rpc": "https://rpc.peyruznode.xyz",
+  "rest": "https://rest.peyruznode.xyz",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3a4da6",
-    "rpc": "http://178.128.16.23:8545"
+    "rpc": "https://evm.peyruznode.xyz"
   },
   "type": "RollApp",
   "da": "Avail",
