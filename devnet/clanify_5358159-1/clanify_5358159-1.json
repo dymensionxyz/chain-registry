@@ -29,5 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "Clanify is an innovative platform for researching and documenting the life and genealogical information of individuals as a link from one generation to the next until the end of human civilization.",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DbuJ4YXMzdSywriwZiDg1cTAUE6hZBzHs8tQmmPqitzRtzF"
 }
