@@ -1,8 +1,8 @@
 {
   "chainId": "ilanihas_8485150-1",
   "chainName": "ilanihas_8485150-1",
-  "rpc": "http://37.60.230.248:26657",
-  "rest": "http://37.60.230.248:1317",
+  "rpc": "https://rollapp.ilanihas.xyz/status",
+  "rest": "https://rollapp.ilanihas.xyz/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x81791e",
-    "rpc": "http://37.60.230.248:8545"
+    "rpc": "https://rollapp.ilanihas.xyz/evm"
   },
   "type": "RollApp",
   "da": "Avail",
