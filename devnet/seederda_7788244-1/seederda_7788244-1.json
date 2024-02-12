@@ -1,9 +1,8 @@
-💈 networks.json:
 {
   "chainId": "seederda_7788244-1",
   "chainName": "seederda_7788244-1",
-  "rpc": "http://173.249.36.48:26657",
-  "rest": "http://173.249.36.48:1317",
+  "rpc": "https://173.249.36.48:26657",
+  "rest": "https://173.249.36.48:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x76d6d4",
-    "rpc": "173.249.36.48:8545"
+    "rpc": "https://173.249.36.48:8545"
   },
   "type": "RollApp",
   "da": "Avail",
