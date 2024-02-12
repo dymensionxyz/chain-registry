@@ -1,8 +1,8 @@
 {
   "chainId": "sury_5480723-1",
   "chainName": "sury_5480723-1",
-  "rpc": "http://37.60.241.89:26657",
-  "rest": "http://37.60.241.89:1317",
+  "rpc": "https://rpc.sury2k4.click/",
+  "rest": "https://rest.sury2k4.click/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x53a113",
-    "rpc": "http://37.60.241.89:8545"
+    "rpc": "https://evm.sury2k4.click/"
   },
   "type": "RollApp",
   "da": "Avail",
