@@ -1,7 +1,7 @@
 {
     "chainId": "dymension_1100-1",
     "chainName": "Dymension",
-    "rpc": "https://dym.rpc.p2p.world/",
+    "rpc": "https://dym.rpc.p2p.world",
     "rest": "https://dym.rpc.p2p.world/lcd",
     "evm": {
         "chainId": "0x44C",
