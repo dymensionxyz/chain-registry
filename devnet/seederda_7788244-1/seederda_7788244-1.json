@@ -29,5 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "As a node operator, I possess the expertise to proficiently handle and upkeep blockchain nodes, guaranteeing their peak performance and security. My dedication lies in ensuring the seamless operation and integrity of blockchain nodes as well as RollApps.",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": 5Fy7KJB7vEMCuL9fnF5qqiyL4h5vx6jjtxLKo9vSZW8PzuW2
 }
