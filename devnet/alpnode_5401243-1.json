@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://faucet.alpnode.com",
-  "website": "https://nft.alpnode.com/",
+  "website": "https://nft.alpnode.com",
   "logo": "/logos/alpnode_5401243-1.png",
   "ibc": {
     "hubChannel": "channel-9454",
