@@ -26,8 +26,9 @@
     "chainId": "0x56fc89",
     "rpc": "https://froopyland.dymension.xyz/28/gonygogo_5700745-1/evmrpc"
   },
-  "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "just GoGo!",
+  "goldberg": true,
+  "analytics": true,
+  "availAddress": "5ExmSodM6e2Xh8UW837kxyEvvm75JrGQoyrRZPhGeBhnBwVb"
 }
