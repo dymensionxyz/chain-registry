@@ -1,0 +1,34 @@
+💈 networks.json:
+{
+  "chainId": "seederda_7788244-1",
+  "chainName": "seederda_7788244-1",
+  "rpc": "http://173.249.36.48:26657",
+  "rest": "http://173.249.36.48:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SDA",
+      "baseDenom": "uSDA",
+      "decimals": 18,
+      "logo": "/logos/seederda_7788244-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://medium.com/@trilink07",
+  "logo": "/logos/seederda_7788244-1.png",
+  "ibc": {
+    "hubChannel": "channel-9600",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x76d6d4",
+    "rpc": "173.249.36.48:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "As a node operator, I possess the expertise to proficiently handle and upkeep blockchain nodes, guaranteeing their peak performance and security. My dedication lies in ensuring the seamless operation and integrity of blockchain nodes as well as RollApps.",
+  "analytics": true
+}
