@@ -1,7 +1,7 @@
 {
   "chainId": "chamatamunew_8306540-1",
-  "chainName": "Chamatamunew",
-  "rpc": ""http://49.13.147.241:26657,
+  "chainName": "chamatamunew",
+  "rpc": "http://49.13.147.241:26657",
   "rest": "http://49.13.147.241:1317",
   "bech32Prefix": "ethm",
   "currencies": [
