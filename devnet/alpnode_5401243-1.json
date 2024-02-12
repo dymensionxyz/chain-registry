@@ -1,7 +1,7 @@
 {
   "chainId": "alpnode_5401243-1",
   "chainName": "alpnode_5401243-1",
-  "rpc": "https://rpc.alpnode.com",
+  "rpc": "https://rpc-avail.alpnode.com",
   "rest": "https://rest.alpnode.com",
   "bech32Prefix": "ethm",
   "currencies": [
