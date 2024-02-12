@@ -2,10 +2,10 @@
     "chainId": "dymension_1100-1",
     "chainName": "Dymension",
     "rpc": "https://dym.rpc.p2p.world/",
-    "rest": "https://dymension.liquify.com/api",
+    "rest": "https://dym.rpc.p2p.world/lcd",
     "evm": {
         "chainId": "0x44C",
-        "rpc": "https://dymension.liquify.com/json-rpc"
+        "rpc": "https://dym.rpc.p2p.world/evm"
     },    
     "explorerUrl": "https://dym.fyi/",
     "exploreTxUrl": "https://dym.fyi/tx/",
