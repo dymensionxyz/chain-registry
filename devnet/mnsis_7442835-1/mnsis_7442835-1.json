@@ -1,0 +1,33 @@
+{
+  "chainId": "mnsis_7442835-1",
+  "chainName": "mnsis_7442835-1",
+  "rpc": "http://37.27.36.245:26657",
+  "rest": "http://37.27.36.245:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "mns",
+      "baseDenom": "umns",
+      "decimals": 18,
+      "logo": "/logos/mnsis_7442835-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://warpcast.com/mnsis.eth",
+  "logo": "/logos/mnsis_7442835-1.png",
+  "ibc": {
+    "hubChannel": "channel-9556",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x719193",
+    "rpc": "http://37.27.36.245:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "mnsis_7442835-1 RollApp leverages advanced technology to offer reliable node services, aiming to support growth and innovation in the blockchain community.",
+  "analytics": true
+}
