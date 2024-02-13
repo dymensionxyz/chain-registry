@@ -6,7 +6,6 @@
     "explorerUrl": "https://www.mintscan.io/cosmos/",
     "exploreTxUrl": "https://www.mintscan.io/cosmos/tx/",
     "active": true,
-    "staging": true,
     "bech32Prefix": "cosmos",
     "currencies": [
         {
