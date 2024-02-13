@@ -5,7 +5,8 @@
     "rest": "https://cosmoshub-api.lavenderfive.com",
     "explorerUrl": "https://www.mintscan.io/cosmos/",
     "exploreTxUrl": "https://www.mintscan.io/cosmos/tx/",
-    "active": false,
+    "active": true,
+    "staging": true,
     "bech32Prefix": "cosmos",
     "currencies": [
         {
@@ -19,8 +20,8 @@
     "coinType": 118,
     "ibc": {
         "timeout": 172800000,
-        "hubChannel": "",
-        "channel": ""
+        "hubChannel": "channel-1",
+        "channel": "channel-794"
     },
     "gasPriceSteps": {
         "low": 0.01,
