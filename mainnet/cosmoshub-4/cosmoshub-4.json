@@ -1,7 +1,7 @@
 {
     "chainId": "cosmoshub-4",
     "chainName": "Cosmos Hub",
-    "rpc": "https://cosmos-rpc.publicnode.com",
+    "rpc": "https://cosmos-rpc.quickapi.com",
     "rest": "https://cosmoshub-api.lavenderfive.com",
     "explorerUrl": "https://www.mintscan.io/cosmos/",
     "exploreTxUrl": "https://www.mintscan.io/cosmos/tx/",
