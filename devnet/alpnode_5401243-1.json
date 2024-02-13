@@ -1,7 +1,7 @@
 {
   "chainId": "alpnode_5401243-1",
   "chainName": "alpnode_5401243-1",
-  "rpc": "https://rpc-avail.alpnode.com",
+  "rpc": "https://rpc.alpnode.com",
   "rest": "https://rest.alpnode.com",
   "bech32Prefix": "ethm",
   "currencies": [
@@ -14,8 +14,8 @@
     }
   ],
   "coinType": 60,
-  "faucetUrl": "https://faucet.alpnode.com",
-  "website": "https://nftmint.alpnode.com",
+  "faucetUrl": "https://alpfaucet.alpnode.com",
+  "website": "https://nft.alpnode.com",
   "logo": "/logos/alpnode_5401243-1.png",
   "ibc": {
     "hubChannel": "channel-9454",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x526a9b",
-    "rpc": "https://evmrpc.alpnode.com"
+    "rpc": "https://evm.alpnode.com"
   },
   "type": "RollApp",
   "da": "Avail",
