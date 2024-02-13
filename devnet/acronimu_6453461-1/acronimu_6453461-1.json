@@ -1,8 +1,8 @@
 {
   "chainId": "acronimu_6453461-1",
   "chainName": "acronimu_6453461-1",
-  "rpc": "http://104.251.219.130:26657",
-  "rest": "http://104.251.219.130:1317",
+  "rpc": "https://rollapp.acronimu.tech/status",
+  "rest": "https://rollapp.acronimu.tech/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x6278d5",
-    "rpc": "http://104.251.219.130:8545"
+    "rpc": "https://rollapp.acronimu.tech/evm"
   },
   "type": "RollApp",
   "da": "Avail",
