@@ -1,8 +1,8 @@
 {
   "chainId": "hodor_1665461-1",
   "chainName": "hodor_1665461-1",
-  "rpc": "http://82.115.21.157:26657",
-  "rest": "http://82.115.21.157:1317",
+  "rpc": "https://rollapp.ilanihas.xyz/status",
+  "rest": "https://rollapp.ilanihas.xyz/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x1969b5",
-    "rpc": "http://82.115.21.157:8545"
+    "rpc": "https://rollapp.ilanihas.xyz/evm"
   },
   "type": "RollApp",
   "da": "Avail",
