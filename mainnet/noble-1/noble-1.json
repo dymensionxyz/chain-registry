@@ -6,8 +6,7 @@
     "explorerUrl": "https://www.mintscan.io/noble/",
     "exploreTxUrl": "https://www.mintscan.io/noble/txs/",
     "bech32Prefix": "noble",
-    "active": false,
-    "staging": true,
+    "active": true,
     "currencies": [
         {
             "displayDenom": "USDC",
