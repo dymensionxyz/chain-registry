@@ -1,8 +1,8 @@
 {
   "chainId": "krews_5203950-1",
   "chainName": "krews_5203950-1",
-  "rpc": "https://rpc-dym.krews.xyz/",
-  "rest": "https://rest-dym.krews.xyz/",
+  "rpc": "https://rpc-dym.krews.xyz",
+  "rest": "https://rest-dym.krews.xyz",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4f67ee",
-    "rpc": "https://evm-rpc-dym.krews.xyz/"
+    "rpc": "https://evm-rpc-dym.krews.xyz"
   },
   "type": "RollApp",
   "da": "Avail",
