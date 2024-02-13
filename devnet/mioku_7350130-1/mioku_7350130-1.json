@@ -1,22 +1,22 @@
 {
   "chainId": "mioku_7350130-1",
   "chainName": "mioku_7350130-1",
-  "rpc": "http://158.220.116.240:26657",
-  "rest": "http://158.220.116.240: 1317",
+  "rpc": "https://miokutech.site/status",
+  "rest": "https://miokutech.site/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
-      "displayDenom": "mio",
-      "baseDenom": "umio",
+      "displayDenom": "MIO",
+      "baseDenom": "uMIO",
       "decimals": 18,
-      "logo": "/logos/mioku_7350130-1.jpg",
+      "logo": "/logos/mioku_7350130-1.png",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/mioku_7350130-1.jpg",
+  "logo": "/logos/mioku_7350130-1.png",
   "ibc": {
     "hubChannel": "channel-9325",
     "channel": "channel-0",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x702772",
-    "rpc": "http://158.220.116.240:8545"
+    "rpc": "https://miokutech.site/evm"
   },
   "type": "RollApp",
   "da": "Avail",
