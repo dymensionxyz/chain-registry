@@ -1,8 +1,8 @@
 {
   "chainId": "pixeland_9416678-1",
   "chainName": "Pixeland",
-  "rpc": "http://84.247.191.244:26657",
-  "rest": "http://84.247.191.244:1317",
+  "rpc": "https://pixeland.toroblocs.com/status",
+  "rest": "https://pixeland.toroblocs.com/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "https://serendipixel.com",
+  "website": "https://pixeland.toroblocs.com",
   "logo": "/logos/pixeland_9416678-1.png",
   "ibc": {
     "hubChannel": "channel-8971",
@@ -24,10 +24,10 @@
   },
   "evm": {
     "chainId": "0x8fafe6",
-    "rpc": "http://84.247.191.244:8545"
+    "rpc": "https://pixeland.toroblocs.com/evm"
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "A few million pixels. Find pixels, defeat 'em. Win tokens - OliveSkin",
+  "description": "PXL Simple Timelock  Wallet - Lock deposits for a week or period of time after which it can be withdrawn. Time lock period can be extended",
   "analytics": true
 }
