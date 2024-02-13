@@ -1,8 +1,8 @@
 {
   "chainId": "seaflagchain_8805271-1",
   "chainName": "seaflagchain",
-  "rpc": "https://sfcrpc.seaflagchain.online",
-  "rest": "https://sfcrest.seaflagchain.online",
+  "rpc": "https://app.seaflagchain.online/status",
+  "rest": "https://app.seaflagchain.online/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x865b97",
-    "rpc": "https://sfcevmrpc.seaflagchain.online"
+    "rpc": "https://app.seaflagchain.online/evm"
   },
   "type": "RollApp",
   "da": "Avail",
