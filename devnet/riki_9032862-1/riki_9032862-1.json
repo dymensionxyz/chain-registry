@@ -1,8 +1,8 @@
 {
   "chainId": "riki_9032862-1",
   "chainName": "riki",
-  "rpc": "http://84.247.179.97:26657",
-  "rest": "http://84.247.179.97:1317",
+  "rpc": "https://rikiavail.xyz/rpc",
+  "rest": "https://rikiavail.xyz/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x89d49e",
-    "rpc": "http://84.247.179.97:8545"
+    "rpc": "https://rikiavail.xyz/evm"
   },
   "type": "RollApp",
   "da": "Avail",
