@@ -30,4 +30,6 @@
   "da": "Avail",
   "description": "As an experienced node operator, I am dedicated to managing and maintaining blockchain nodes with expert care. My goal is to ensure optimal performance and security, and uphold the smooth operation and integrity of blockchain nodes and RollApps.",
   "analytics": true
+  "goldberg": true,
+  "availAddress": "5GdiVK3BF2sDXuyBxQmfHVbzT4XkFzhd8YJh7PQ5AEUrpEup"
 }
