@@ -1,8 +1,9 @@
 {
-  "chainId": "peyruznode_3820966-1",
+  "chainId": "peyruznode",
   "chainName": "peyruznode_3820966-1",
   "rpc": "https://rpc.peyruznode.xyz",
   "rest": "https://rest.peyruznode.xyz",
+  "website": "https://peyruznodedymensionrollap.vercel.app/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
