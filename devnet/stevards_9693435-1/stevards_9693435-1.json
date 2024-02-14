@@ -9,7 +9,7 @@
       "displayDenom": "STV",
       "baseDenom": "uSTV",
       "decimals": 18,
-      "logo": "/logos/stevards_9693435-1.png",
+      "logo": "/logos/stevards_9693435-1.jpg",
       "type": "main"
     }
   ],
@@ -23,7 +23,7 @@
     "timeout": 172800000
   },
   "evm": {
-    "chainId": "0x54fc10",
+    "chainId": "0x93e8fb",
     "rpc": "https://evm-rpc.scannerx.net"
   },
   "type": "RollApp",
