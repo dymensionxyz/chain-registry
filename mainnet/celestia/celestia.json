@@ -5,8 +5,7 @@
     "rest": "https://public-celestia-lcd.numia.xyz",
     "explorerUrl": "https://www.mintscan.io/celestia/",
     "exploreTxUrl": "https://www.mintscan.io/celestia/tx/",
-    "active": false,
-    "staging": true,
+    "active": true,
     "bech32Prefix": "celestia",
     "currencies": [
         {

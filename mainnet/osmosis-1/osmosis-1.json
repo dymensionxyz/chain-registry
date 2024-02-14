@@ -5,7 +5,7 @@
     "rest": "https://lcd.osmosis.zone",
     "explorerUrl": "https://www.mintscan.io/osmosis/",
     "exploreTxUrl": "https://www.mintscan.io/osmosis/tx/",
-    "active": false,
+    "active": true,
     "bech32Prefix": "osmo",
     "currencies": [
         {
