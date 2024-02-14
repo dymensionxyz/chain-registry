@@ -1,7 +1,7 @@
 {
   "chainId": "acronimu_6453461-1",
   "chainName": "acronimu_6453461-1",
-  "rpc": "https://rollapp.acronimu.tech/status",
+  "rpc": "https://rollapp.acronimu.tech",
   "rest": "https://rollapp.acronimu.tech/rest",
   "bech32Prefix": "ethm",
   "currencies": [
@@ -29,5 +29,7 @@
   "type": "RollApp",
   "da": "Avail",
   "description": "As an node operator, I expertly manage and maintain blockchain nodes, ensuring their optimal performance and security.",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5EJMyj7BpEYfLfdE1bfieCyi8Ri5j5QAMaLEVxJPBJjSD1M8"
 }
