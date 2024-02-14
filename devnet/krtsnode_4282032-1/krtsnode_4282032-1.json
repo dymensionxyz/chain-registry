@@ -1,8 +1,8 @@
 {
   "chainId": "krtsnode_4282032-1",
   "chainName": "krtsnode_4282032-1",
-  "rpc": "https://rpc.krtsnode.click/",
-  "rest": "https://rest.krtsnode.click/",
+  "rpc": "https://rpc.krtsnode.click",
+  "rest": "https://rest.krtsnode.click",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4156b0",
-    "rpc": "https://evmrpc.krtsnode.click/"
+    "rpc": "https://evmrpc.krtsnode.click"
   },
   "type": "RollApp",
   "da": "Avail",
