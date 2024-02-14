@@ -1,7 +1,7 @@
 {
   "chainId": "asima_1134438-1",
   "chainName": "asima_1134438-1",
-  "rpc": "http://rpc-avail.asmval.xyz/",
+  "rpc": "https://rpc-avail.asmval.xyz/",
   "rest": "https://rest-avail.asmval.xyz/",
   "bech32Prefix": "ethm",
   "currencies": [
