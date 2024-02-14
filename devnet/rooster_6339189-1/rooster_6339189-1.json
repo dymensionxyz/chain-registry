@@ -1,8 +1,8 @@
 {
   "chainId": "rooster_6339189-1",
   "chainName": "rooster_6339189-1",
-  "rpc": "http://103.75.197.49:26657",
-  "rest": "http://103.75.197.49:1317",
+  "rpc": "d.nazi-ger.tech/status",
+  "rest": "d.nazi-ger.tech/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x60ba75",
-    "rpc": "http://103.75.197.49:8545"
+    "rpc": "d.nazi-ger.tech/evm"
   },
   "type": "RollApp",
   "da": "Avail",
