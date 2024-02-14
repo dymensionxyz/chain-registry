@@ -1,8 +1,8 @@
 {
   "chainId": "asima_1134438-1",
   "chainName": "asima_1134438-1",
-  "rpc": "http://37.60.252.62:26657",
-  "rest": "http://37.60.252.62:1317",
+  "rpc": "http://rpc-avail.asmval.xyz/",
+  "rest": "https://rest-avail.asmval.xyz/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x114f66",
-    "rpc": "http://37.60.252.62:8545"
+    "rpc": "https://evmrpc-avail.asmval.xyz/"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HMcBuSKLsL9aasSgTZfmUUKJzDrrgKbB1GQpeZaPaQhCkhL"
 }
