@@ -2,8 +2,8 @@
 {
   "chainId": "zerochain_4323630-1",
   "chainName": "zerochain",
-  "rpc": "https://rollapp.zerochain.cloud/status",
-  "rest": "https://rollapp.zerochain.cloud/rest",
+  "rpc": "https://zerorpc.zerochain.cloud",
+  "rest": "https://zerorest.zerochain.cloud",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -25,7 +25,7 @@
   },
   "evm": {
     "chainId": "0x41f92e",
-    "rpc": "https://rollapp.zerochain.cloud/evm"
+    "rpc": "https://zeroevm.zerochain.cloud"
   },
    "type": "RollApp",
   "da": "Avail",
