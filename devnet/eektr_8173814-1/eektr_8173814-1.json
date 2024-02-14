@@ -1,8 +1,8 @@
 {
   "chainId": "eektr_8173814-1",
   "chainName": "eektr_8173814-1",
-  "rpc": "https://rpc.eektravail.click/",
-  "rest": "https://rest.eektravail.click/",
+  "rpc": "https://rpc.eektravail.click",
+  "rest": "https://rest.eektravail.click",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x7cb8f6",
-    "rpc": "https://evmrpc.eektravail.click/"
+    "rpc": "https://evmrpc.eektravail.click"
   },
   "type": "RollApp",
   "da": "Avail",
