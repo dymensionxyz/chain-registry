@@ -1,0 +1,35 @@
+{
+  "chainId": "kennode_6455805-1",
+  "chainName": "kennode_6455805-1",
+  "rpc": "https://avl-rpc.kennode.xyz",
+  "rest": "https://avl-rest.kennode.xyz",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KEN",
+      "baseDenom": "uKEN",
+      "decimals": 18,
+      "logo": "/logos/kennode_6455805-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://uken.vercel.app/",
+  "logo": "/logos/kennode_6455805-1.png",
+  "ibc": {
+    "hubChannel": "channel-9422",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6281fd",
+    "rpc": "https://avl-evm.kennode.xyz"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DSE9bc62DeC34SqJLqezzwQLsjcTSzbUWjWXTRewocWE9MR"
+}
