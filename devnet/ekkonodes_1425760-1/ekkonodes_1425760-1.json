@@ -1,8 +1,8 @@
 {
   "chainId": "ekkonodes_1425760-1",
   "chainName": "ekkonodes_1425760-1",
-  "rpc": "http://149.102.139.16:26657",
-  "rest": "http://149.102.139.16:1317",
+  "rpc": "https://rollapp.ekkonodes.online/status",
+  "rest": "https://rollapp.ekkonodes.online/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x15c160",
-    "rpc": "http://149.102.139.16:8545"
+    "rpc": "https://rollapp.ekkonodes.online/evm"
   },
   "type": "RollApp",
   "da": "Avail",
