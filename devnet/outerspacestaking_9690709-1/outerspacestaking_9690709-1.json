@@ -1,0 +1,35 @@
+{
+  "chainId": "outerspacestaking_9690709-1",
+  "chainName": "outerspacestaking_9690709-1",
+  "rpc": "https://88.198.2.58:26657",
+  "rest": "https://88.198.2.58:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "AVAIL",
+      "baseDenom": "uAVAIL",
+      "decimals": 18,
+      "logo": "/logos/outerspace_staking_logo.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/outerspace_staking_logo.png",
+  "ibc": {
+    "hubChannel": "channel-8406",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x93de55",
+    "rpc": "https://88.198.2.58:1317:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Outerspace Staking",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DFZXdLCvZqRTy4p4pQfqmjob7Ht5CFohZDPZaX6GXeS6xAN"
+}
