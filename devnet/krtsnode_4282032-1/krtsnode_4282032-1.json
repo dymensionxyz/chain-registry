@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "website": "https://embed.ipfscdn.io/ipfs/bafybeigdie2yyiazou7grjowoevmuip6akk33nqb55vrpezqdwfssrxyfy/erc1155.html?contract=0xdDB204D75e4D9324be2578A9E227619D57aA157D&chain=%7B%22name%22%3A%22krtsnode_4282032-1%22%2C%22chain%22%3A%22%22%2C%22rpc%22%3A%5B%22https%3A%2F%2Fevmrpc.krtsnode.click%22%5D%2C%22nativeCurrency%22%3A%7B%22symbol%22%3A%22KRT%22%2C%22name%22%3A%22KRT%22%2C%22decimals%22%3A18%7D%2C%22shortName%22%3A%22krtsnode4282032-1%22%2C%22chainId%22%3A4282032%2C%22testnet%22%3Atrue%2C%22slug%22%3A%22krtsnode4282032-1%22%7D&clientId=abb3e872cad426008d5fba20df03ea8a&tokenId=0&theme=light&primaryColor=purple",
   "logo": "/logos/krtsnode_4282032-1.png",
   "ibc": {
     "hubChannel": "channel-9580",
