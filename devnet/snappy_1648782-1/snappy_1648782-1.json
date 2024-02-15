@@ -1,0 +1,36 @@
+{
+  "chainId": "snappy_1648782-1",
+  "chainName": "snappy_1648782-1",
+  "rpc": "http://172.166.185.200:26657",
+  "rest": "http://172.166.185.200:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SNP",
+      "baseDenom": "uSNP",
+      "decimals": 18,
+      "logo": "/logos/snappy_1648782-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://snappylabs.org",
+  "logo": "/logos/snappy_1648782-1.png",
+  "ibc": {
+    "hubChannel": "channel-9564",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x19288e",
+    "rpc": "http://172.166.185.200:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Fast Payments POS",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5G17gxAQq9kYoZEE8kJniSmLW2zuvhwPgWSBHxxn6uZGMTNE"
+}
+}
