@@ -1,8 +1,8 @@
 {
   "chainId": "thuongdh_6695025-1",
   "chainName": "ThuongDZai",
-  "rpc": "http://195.201.148.24:26657",
-  "rest": "http://195.201.148.24:1317",
+  "rpc": "https://rollapp.thuongdh.click/status",
+  "rest": "https://rollapp.thuongdh.click/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x662871",
-    "rpc": "http://195.201.148.24:8545"
+    "rpc": "https://rollapp.thuongdh.click/evm"
   },
   "type": "RollApp",
   "da": "Avail",
