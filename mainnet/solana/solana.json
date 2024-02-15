@@ -1,8 +1,8 @@
 {
     "chainId": "900",
     "chainName": "Solana",
-    "explorerUrl": "https://solscan.io/",
     "exploreTxUrl": "https://solscan.io/tx/",
+        "explorerUrl": "https://solscan.io/",
     "currencies": [
         {
             "displayDenom": "SOL",
