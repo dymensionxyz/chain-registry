@@ -15,7 +15,7 @@
     ],
     "active": false,
     "staging": true,
-    "logo": "/logos/arbitrum-arb-logo.svg",
+    "logo": "/logos/solana.svg",
     "type": "Solana",
     "website": "https://solana.com/"
 }
