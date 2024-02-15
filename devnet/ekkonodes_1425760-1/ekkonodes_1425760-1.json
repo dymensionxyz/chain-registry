@@ -1,7 +1,7 @@
 {
   "chainId": "ekkonodes_1425760-1",
   "chainName": "ekkonodes_1425760-1",
-  "rpc": "https://rollapp.ekkonodes.online/status",
+  "rpc": "https://rollapp.ekkonodes.online/rpc",
   "rest": "https://rollapp.ekkonodes.online/rest",
   "bech32Prefix": "ethm",
   "currencies": [
@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "website": "https://ekkonodes-dymension-rollapp.framer.website/",
   "logo": "/logos/ekkonodes_1425760-1.png",
   "ibc": {
     "hubChannel": "channel-8909",
