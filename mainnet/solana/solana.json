@@ -1,5 +1,5 @@
 {
-    "chainId": "900",
+    "chainId": "solana",
     "chainName": "Solana",
     "exploreTxUrl": "https://solscan.io/tx/",
         "explorerUrl": "https://solscan.io/",
