@@ -1,8 +1,8 @@
 {
   "chainId": "handd_2799212-1",
   "chainName": "handd_2799212-1",
-  "rpc": "http://95.217.236.2:26657",
-  "rest": "http://95.217.236.2:1317",
+  "rpc": "https://rollapp.handd.click/status",
+  "rest": "https://rollapp.handd.click/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2ab66c",
-    "rpc": "http://95.217.236.2:8545"
+    "rpc": "https://rollapp.handd.click/evm"
   },
   "type": "RollApp",
   "da": "Avail",
