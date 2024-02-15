@@ -1,8 +1,8 @@
 {
   "chainId": "serotonin_3433423-1",
   "chainName": "serotonin",
-  "rpc": "https://rollapp-26657.serotonins.com.tr",
-  "rest": "https://rollapp-1317.serotonins.com.tr",
+  "rpc": "https://froopyland.dymension.xyz/19/serotonin_3433423-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/19/serotonin_3433423-1/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3463cf",
-    "rpc": "https://rollapp-8545.serotonins.com.tr"
+    "rpc": "https://froopyland.dymension.xyz/19/serotonin_3433423-1/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
