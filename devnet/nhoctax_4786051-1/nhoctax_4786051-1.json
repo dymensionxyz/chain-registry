@@ -1,8 +1,8 @@
 {
   "chainId": "nhoctax_4786051-1",
   "chainName": "nhoctax_4786051-1",
-  "rpc": "http://37.60.225.116:26657",
-  "rest": "http://37.60.225.116:1317",
+  "rpc": "https://nhoctax.site/nhoctax_26657",
+  "rest": "https://nhoctax.site/nhoctax_1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x490783",
-    "rpc": "http://37.60.225.116:8545"
+    "rpc": "https://nhoctax.site/nhoctax_8545"
   },
   "type": "RollApp",
   "da": "Avail",
