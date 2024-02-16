@@ -9,14 +9,14 @@
       "displayDenom": "AVAIL",
       "baseDenom": "uAVAIL",
       "decimals": 18,
-      "logo": "/logos/outerspace_staking_logo.png",
+      "logo": "outerspacestaking_9690709-1.png",
       "type": "main"
     }
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
   "website": "",
-  "logo": "/logos/outerspace_staking_logo.png",
+  "logo": "outerspacestaking_9690709-1.png",
   "ibc": {
     "hubChannel": "channel-8406",
     "channel": "channel-0",
