@@ -1,8 +1,8 @@
 {
   "chainId": "hamedche_5045380-1",
   "chainName": "hamedche_5045380-1",
-  "rpc": "http://37.27.39.104:26657",
-  "rest": "http://37.27.39.104:1317",
+  "rpc": "https://hamedche.myrollup.xyz/status",
+  "rest": "https://hamedche.myrollup.xyz/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x4cfc84",
-    "rpc": "http://37.27.39.104:8545"
+    "rpc": "https://hamedche.myrollup.xyz/evm"
   },
   "type": "RollApp",
   "da": "Avail",
