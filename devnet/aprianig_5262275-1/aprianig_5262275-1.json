@@ -28,6 +28,8 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "$NIG Token Free For All!",
-  "analytics": true
+  "description": "$NIG free for all",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FLNLwKKekqKz36oRsfgCKiQZCjUp8EvkRpnFaE2THg4uLBS"
 }
