@@ -1,8 +1,8 @@
 {
   "chainId": "olartiklutfen_9965421-1",
   "chainName": "olartiklutfen",
-  "rpc": "https://38.242.227.60:26657",
-  "rest": "https://38.242.227.60:1317",
+  "rpc": "https://ns1.availrollapp.com",
+  "rest": "https://ns2.availrollapp.com",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x980f6d",
-   "rpc": "https://38.242.227.60:8545"
+   "rpc": "https://ns3.availrollapp.com"
   },
   "type": "RollApp",
   "da": "Avail",
