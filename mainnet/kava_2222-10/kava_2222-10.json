@@ -1,0 +1,34 @@
+{
+    "chainId": "noble-1",
+    "chainName": "Noble",
+    "rpc": "https://kava-rpc.polkachu.com",
+    "rest": "https://kava-api.polkachu.com",
+    "explorerUrl": "https://www.mintscan.io/kava/",
+    "exploreTxUrl": "https://www.mintscan.io/kava/txs/",
+    "bech32Prefix": "noble",
+    "active": false,
+    "stating": true,
+    "priority": 1,
+    "currencies": [
+        {
+            "displayDenom": "USDt",
+            "baseDenom": "uusdt",
+            "decimals": 6,
+            "logo": "/logos/usdt-logo.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 118,
+    "ibc": {
+        "timeout": 172800000,
+        "hubChannel": "channel-3",
+        "channel": "channel-144"
+    },
+    "gasPriceSteps": {
+        "low": 0.1,
+        "average": 0.1,
+        "high": 0.2
+    },
+    "logo": "/logos/kava-logo.svg",
+    "type": "Regular"
+}
