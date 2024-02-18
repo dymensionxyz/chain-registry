@@ -8,7 +8,6 @@
     "bech32Prefix": "kava",
     "active": false,
     "staging": true,
-    "priority": 1,
     "currencies": [
         {
             "displayDenom": "USDt",
