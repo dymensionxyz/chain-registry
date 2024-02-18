@@ -21,6 +21,7 @@
         "timeout": 172800000,
         "hubChannel": "channel-1",
         "channel": "channel-794"
+        "allowedDenoms": ["uatom","adym"]
     },
     "gasPriceSteps": {
         "low": 0.01,
