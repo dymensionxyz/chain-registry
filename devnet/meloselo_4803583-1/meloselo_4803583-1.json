@@ -19,7 +19,7 @@
   "logo": "/logos/meloselo_4803583-1.png",
   "ibc": {
     "hubChannel": "channel-9730",
-    "channel": "channel-0",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {
