@@ -21,7 +21,7 @@
         "timeout": 172800000,
         "hubChannel": "channel-6",
         "channel": "channel-62",
-        "allowedDenoms": ["uusdc"]
+        "allowedDenoms": ["uusdc","adym"]
     },
     "coinType": 118,
     "gasPriceSteps": {
