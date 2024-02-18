@@ -24,11 +24,11 @@
   },
   "evm": {
     "chainId": "0x76d6d4",
-    "rpc": "https://173.249.36.48:8545"
+    "rpc": "https://rollapp.0xseeder.xyz/evm"
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "Clash of Nodes Campaign: My first RollApp",
+  "description": "Clash of Nodes Campaign My first RollApp",
   "analytics": true,
   "goldberg": true,
   "availAddress": 5Fy7KJB7vEMCuL9fnF5qqiyL4h5vx6jjtxLKo9vSZW8PzuW2
