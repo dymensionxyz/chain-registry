@@ -20,7 +20,8 @@
     "ibc": {
         "timeout": 172800000,
         "hubChannel": "channel-2",
-        "channel": "channel-19774"
+        "channel": "channel-19774",
+        "allowedDenoms": ["uosmo","adym"]
     },
     "gasPriceSteps": {
         "low": 0.0025,
