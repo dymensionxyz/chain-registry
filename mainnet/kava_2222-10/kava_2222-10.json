@@ -9,6 +9,10 @@
     "active": false,
     "staging": true,
     "priority": 1,
+    "evm": {
+        "chainId": "0x8AE",
+        "rpc": "https://evm.kava.io"
+    },
     "currencies": [
         {
             "displayDenom": "USDt",
