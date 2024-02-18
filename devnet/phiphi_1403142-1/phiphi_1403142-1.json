@@ -1,8 +1,8 @@
 {
   "chainId": "phiphi_1403142-1",
   "chainName": "phiphi_1403142-1",
-  "rpc": "https://dinhcongtac221.space/rpc",
-  "rest": "https://dinhcongtac221.space/rest",
+  "rpc": "https://rpc.dinhcongtac221.space",
+  "rest": "https://api.dinhcongtac221.space",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x156906",
-    "rpc": "https://dinhcongtac221.space/evm"
+    "rpc": "https://evm.dinhcongtac221.space"
   },
   "type": "RollApp",
   "da": "Avail",
