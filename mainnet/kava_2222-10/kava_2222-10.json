@@ -15,6 +15,13 @@
             "baseDenom": "erc20/tether/usdt",
             "decimals": 6,
             "logo": "/logos/usdt-logo.svg",
+            "type": "regular"
+        },
+        {
+            "displayDenom": "Kava",
+            "baseDenom": "ukava",
+            "decimals": 6,
+            "logo": "/logos/kava-logo.svg",
             "type": "main"
         }
     ],
