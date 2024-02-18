@@ -18,7 +18,7 @@
   "website": "https://meloselo.xyz/mint",
   "logo": "/logos/meloselo_4803583-1.png",
   "ibc": {
-    "hubChannel": "channel-9260",
+    "hubChannel": "channel-9730",
     "channel": "channel-0",
     "timeout": 172800000
   },
