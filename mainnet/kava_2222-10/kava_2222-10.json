@@ -29,7 +29,7 @@
         "timeout": 172800000,
         "hubChannel": "channel-3",
         "channel": "channel-144",
-        "allowedDenoms": ["uusdt","ukava","adym"]
+        "allowedDenoms": ["erc20/tether/usdt","ukava","adym"]
     },
     "gasPriceSteps": {
         "low": 0.1,
