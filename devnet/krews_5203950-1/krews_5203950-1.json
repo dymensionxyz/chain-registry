@@ -1,6 +1,6 @@
 {
   "chainId": "krews_5203950-1",
-  "chainName": "krews_5203950-1",
+  "chainName": "Krews",
   "rpc": "https://rpc-dym.krews.xyz",
   "rest": "https://rest-dym.krews.xyz",
   "bech32Prefix": "ethm",
@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "https://krews.xyz",
+  "website": "https://dymhotel.xyz",
   "logo": "/logos/krews_5203950-1.png",
   "ibc": {
     "hubChannel": "channel-8393",
