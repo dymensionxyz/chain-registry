@@ -29,7 +29,7 @@
         "timeout": 172800000,
         "hubChannel": "channel-0",
         "channel": "channel-197",
-        "allowedDenoms": ["ustrd", "usttia", "adym"]
+        "allowedDenoms": ["ustrd", "stutia", "adym"]
     },
     "gasPriceSteps": {
         "low": 0.0005,
