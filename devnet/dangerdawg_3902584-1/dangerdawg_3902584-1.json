@@ -1,8 +1,8 @@
 {
   "chainId": "dangerdawg_3902584-1",
   "chainName": "dangerdawg_3902584-1",
-  "rpc": "http://185.182.187.142:26657",
-  "rest": "http://185.182.187.142:1317",
+  "rpc": "https://devpetrate.xyz/status",
+  "rest": "https://devpetrate.xyz/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3b8c78",
-    "rpc": "http://185.182.187.142:8545"
+    "rpc": "https://devpetrate.xyz/evm"
   },
   "type": "RollApp",
   "da": "Avail",
