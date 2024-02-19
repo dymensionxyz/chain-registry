@@ -6,7 +6,7 @@
     "explorerUrl": "https://www.mintscan.io/kava/",
     "exploreTxUrl": "https://www.mintscan.io/kava/txs/",
     "bech32Prefix": "kava",
-    "active": false,
+    "active": true,
     "staging": true,
     "currencies": [
         {
