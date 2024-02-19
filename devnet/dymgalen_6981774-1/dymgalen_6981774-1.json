@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "website": "https://availgalen.vercel.app/",
   "logo": "/logos/dymgalen_6981774-1.jpg",
   "ibc": {
     "hubChannel": "channel-7053",
@@ -26,8 +26,9 @@
     "chainId": "0x6a888e",
     "rpc": "https://froopyland.dymension.xyz/18/dymgalen_6981774-1/evmrpc"
   },
+  "type": "RollApp",
   "da": "Avail",
-  "description": "availgalen",
+  "description": "",
   "analytics": true,
   "goldberg": true,
   "availAddress": "5DvHYiSucAcvhCydgqULvGSnVB2EL4u9nFoRCRKQTrLeykqA"
