@@ -14,8 +14,8 @@
     }
   ],
   "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "https://medium.com/@trilink07",
+  "faucetUrl": "https://seederda-faucet.vercel.app/",
+  "website": "https://seederda.vercel.app/",
   "logo": "/logos/seederda_7788244-1.png",
   "ibc": {
     "hubChannel": "channel-9600",
