@@ -1,0 +1,42 @@
+{
+    "chainId": "stride-1",
+    "chainName": "Stride",
+    "rpc": "https://stride-rpc.polkachu.com",
+    "rest": "https://stride-api.polkachu.com",
+    "explorerUrl": "https://www.mintscan.io/stride/",
+    "exploreTxUrl": "https://www.mintscan.io/stride/tx/",
+    "active": false,
+    "staging": true,
+    "bech32Prefix": "stride",
+    "currencies": [
+        {
+            "displayDenom": "STRD",
+            "baseDenom": "ustrd",
+            "decimals": 6,
+            "logo": "/logos/stride-logo.svg",
+            "type": "main"
+        },
+        {
+            "displayDenom": "stTIA",
+            "baseDenom": "stutia",
+            "decimals": 6,
+            "logo": "/logos/sttia-logo.png",
+            "type": "main"
+        }
+    ],
+    "coinType": 118,
+    "ibc": {
+        "timeout": 172800000,
+        "hubChannel": "channel-0",
+        "channel": "channel-197",
+        "allowedDenoms": ["ustrd", "stutia", "adym"]
+    },
+    "gasPriceSteps": {
+        "low": 0.0005,
+        "average": 0.001,
+        "high": 0.002
+    },
+    "logo": "/logos/stride-logo.svg",
+    "type": "Regular",
+    "website": "https://www.stride.zone/"
+}
