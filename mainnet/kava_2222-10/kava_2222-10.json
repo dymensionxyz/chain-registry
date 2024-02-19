@@ -10,7 +10,7 @@
     "staging": true,
     "currencies": [
         {
-            "displayDenom": "USDt",
+            "displayDenom": "USDT",
             "baseDenom": "erc20/tether/usdt",
             "decimals": 6,
             "logo": "/logos/usdt-logo.svg",
