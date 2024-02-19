@@ -1,0 +1,41 @@
+{
+    "chainId": "kava_2222-10",
+    "chainName": "Kava",
+    "rpc": "https://kava-rpc.polkachu.com",
+    "rest": "https://kava-api.polkachu.com",
+    "explorerUrl": "https://www.mintscan.io/kava/",
+    "exploreTxUrl": "https://www.mintscan.io/kava/txs/",
+    "bech32Prefix": "kava",
+    "active": false,
+    "staging": true,
+    "currencies": [
+        {
+            "displayDenom": "USDt",
+            "baseDenom": "erc20/tether/usdt",
+            "decimals": 6,
+            "logo": "/logos/usdt-logo.svg",
+            "type": "regular"
+        },
+        {
+            "displayDenom": "Kava",
+            "baseDenom": "ukava",
+            "decimals": 6,
+            "logo": "/logos/kava-logo.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 118,
+    "ibc": {
+        "timeout": 172800000,
+        "hubChannel": "channel-3",
+        "channel": "channel-144",
+        "allowedDenoms": ["erc20/tether/usdt","ukava","adym"]
+    },
+    "gasPriceSteps": {
+        "low": 0.1,
+        "average": 0.1,
+        "high": 0.2
+    },
+    "logo": "/logos/kava-logo.svg",
+    "type": "Regular"
+}

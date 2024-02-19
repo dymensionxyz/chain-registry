@@ -1,0 +1,35 @@
+{
+  "chainId": "daics_9875763-1",
+  "chainName": "daics_9875763-1",
+  "rpc": "https://dymavail.daic.capital/rpc",
+  "rest": "https://dymavail.daic.capital/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "daics",
+      "baseDenom": "udaics",
+      "decimals": 18,
+      "logo": "/logos/daics_9875763-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://daic.capital",
+  "logo": "/logos/daics_9875763-1.png",
+  "ibc": {
+    "hubChannel": "channel-9263",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x96b133",
+    "rpc": "https://dymavail.daic.capital/eth"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "DAICs dymension rollapp on avail da",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5F6euditczfrh3PzFT8cC995YFxTWBKBrruWGR1MqDb3sAau"
+}
