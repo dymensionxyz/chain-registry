@@ -1,9 +1,9 @@
 {
   "chainId": "danielvo_9828108-1",
   "chainName": "danielvo",
-  "rpc": "http://173.212.198.10:26657",
-  "rest": "http://173.212.198.10:1317",
-  "bech32Prefix": "ethm",
+  "rpc": "https://rpc.dv-cosmos.xyz",
+  "rest": "https://rest.dv-cosmos.xyz",
+  "bech32Prefix": "dvom",
   "currencies": [
     {
       "displayDenom": "DVO",
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "9828108",
-    "rpc": "http://173.212.198.10:8545"
+    "rpc": "https://rpc2.dv-cosmos.xyz"
   },
   "type": "RollApp",
   "da": "Avail",
