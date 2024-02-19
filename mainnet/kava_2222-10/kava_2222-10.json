@@ -6,11 +6,11 @@
     "explorerUrl": "https://www.mintscan.io/kava/",
     "exploreTxUrl": "https://www.mintscan.io/kava/txs/",
     "bech32Prefix": "kava",
-    "active": false,
+    "active": true,
     "staging": true,
     "currencies": [
         {
-            "displayDenom": "USDt",
+            "displayDenom": "USDT",
             "baseDenom": "erc20/tether/usdt",
             "decimals": 6,
             "logo": "/logos/usdt-logo.svg",
