@@ -17,12 +17,13 @@
             "type": "main"
         }
     ],
-    "coinType": 118,
     "ibc": {
         "timeout": 172800000,
         "hubChannel": "channel-6",
-        "channel": "channel-62"
+        "channel": "channel-62",
+        "allowedDenoms": ["uusdc","adym"]
     },
+    "coinType": 118,
     "gasPriceSteps": {
         "low": 0.1,
         "average": 0.1,
