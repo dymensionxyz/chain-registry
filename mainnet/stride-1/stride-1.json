@@ -21,7 +21,7 @@
             "baseDenom": "stutia",
             "decimals": 6,
             "logo": "/logos/sttia-logo.png",
-            "type": "main"
+            "type": "regular"
         }
     ],
     "coinType": 118,
