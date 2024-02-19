@@ -1,0 +1,23 @@
+{
+    "chainId": "solana",
+    "chainName": "Solana",
+    "exploreTxUrl": "https://solscan.io/tx/",
+        "explorerUrl": "https://solscan.io/",
+    "currencies": [
+        {
+            "displayDenom": "SOL",
+            "baseDenom": "ibc/6490A7EAB61059BFC1CDDEB05917DD70BDF3A611654162A1A47DB930D40D8AF4",
+            "bridgeDenom": "So11111111111111111111111111111111111111112",
+            "decimals": 9,
+            "logo": "/logos/solana.svg",
+            "type": "main"
+        }
+    ],
+    "ibc": {
+        "allowedDenoms": ["ibc/6490A7EAB61059BFC1CDDEB05917DD70BDF3A611654162A1A47DB930D40D8AF4"]
+    },
+    "active": false,
+    "logo": "/logos/solana.svg",
+    "type": "Solana",
+    "website": "https://solana.com/"
+}
