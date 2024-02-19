@@ -1,8 +1,8 @@
 {
   "chainId": "zhangyc_3905346-1",
   "chainName": "zhangyc_3905346-1",
-  "rpc": "http://217.76.59.68:26657",
-  "rest": "http://217.76.59.68:1317",
+  "rpc": "https://zycchain.xyz/rpc",
+  "rest": "https://zycchain.xyz/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x3b9742",
-    "rpc": "http://217.76.59.68:8545"
+    "rpc": "https://zycchain.xyz/evmrpc"
   },
   "type": "RollApp",
   "da": "Avail",
