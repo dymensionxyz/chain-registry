@@ -6,8 +6,8 @@
     "explorerUrl": "https://www.mintscan.io/noble/",
     "exploreTxUrl": "https://www.mintscan.io/noble/txs/",
     "bech32Prefix": "noble",
-    "active": false,
-    "staging": true,
+    "active": true,
+    "priority": 1,
     "currencies": [
         {
             "displayDenom": "USDC",
@@ -17,12 +17,13 @@
             "type": "main"
         }
     ],
-    "coinType": 118,
     "ibc": {
         "timeout": 172800000,
         "hubChannel": "channel-6",
-        "channel": "channel-62"
+        "channel": "channel-62",
+        "allowedDenoms": ["uusdc","adym"]
     },
+    "coinType": 118,
     "gasPriceSteps": {
         "low": 0.1,
         "average": 0.1,
