@@ -1,8 +1,8 @@
 {
   "chainId": "lay_4295783-1",
   "chainName": "lay_4295783-1",
-  "rpc": "http://164.68.111.223:26657",
-  "rest": "http://164.68.111.223:1317",
+  "rpc": "https://sairensu-rpc.xyz/status",
+  "rest": "https://sairensu-rpc.xyz/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,12 +24,12 @@
   },
   "evm": {
     "chainId": "0x418c67",
-    "rpc": "http://164.68.111.223:8545"
+    "rpc": "https://sairensu-rpc.xyz/act"
   },
   "type": "RollApp",
   "da": "Avail",
   "description": "As a node operator, we maintain the blockchain for safe operation and ensure the smooth operation of rollups.",
   "analytics": true,
   "goldberg": true,
-  "availAddress": "5HTUwWbqp9GTFAVpCp6dr7APqLJCZJNKLuga5VdPyzHiP21J"
+  "availAddress": "5EvJqxWAwVTgxa2pVVGdK7oSuUVMtVwHstGQyBSwZyVpC4om"
 }
