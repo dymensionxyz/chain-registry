@@ -1,8 +1,8 @@
 {
    "chainId":"astral_5427518-1",
    "chainName":"astral_5427518-1",
-   "rpc":"http://172.245.128.18:26657",
-   "rest":"http://172.245.128.18:1317",
+   "rpc":"https://rpc.neostarnode.com",
+   "rest":"https://rest.neostarnode.com",
    "bech32Prefix":"ethm",
    "currencies":[
       {
@@ -24,7 +24,7 @@
    },
    "evm":{
       "chainId":"0x52d13e",
-      "rpc":"http://172.245.128.18:8545"
+      "rpc":"https://evm.neostarnode.com"
    },
    "type":"RollApp",
    "da":"Avail",
