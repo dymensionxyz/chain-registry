@@ -1,0 +1,33 @@
+{
+  "chainId": "ssseccc_4546184-1",
+  "chainName": "ssseccc_4546184-1",
+  "rpc": "http://65.109.213.77:26657",
+  "rest": "http://65.109.213.77:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "TTECHH",
+      "baseDenom": "uTTECHH",
+      "decimals": 18,
+      "logo": "/logos/ssseccc_4546184-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/ssseccc_4546184-1.png",
+  "ibc": {
+    "hubChannel": "channel-9743",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x455e88",
+    "rpc": "http://65.109.213.77:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "As a node operator, I skillfully manage and maintain blockchain nodes and commit to ensure their optimal performance and security.",
+  "analytics": true
+}
