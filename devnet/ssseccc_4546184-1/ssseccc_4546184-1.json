@@ -1,8 +1,8 @@
 {
   "chainId": "ssseccc_4546184-1",
   "chainName": "ssseccc_4546184-1",
-  "rpc": "http://65.109.213.77:26657",
-  "rest": "http://65.109.213.77:1317",
+  "rpc": "https://rollapp.ltrjohn.store/status",
+  "rest": "https://rollapp.ltrjohn.store/rest",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x455e88",
-    "rpc": "http://65.109.213.77:8545"
+    "rpc": "https://rollapp.ltrjohn.store/evm"
   },
   "type": "RollApp",
   "da": "Avail",
