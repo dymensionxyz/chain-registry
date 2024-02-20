@@ -27,7 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/18/yaznodes_4221705-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Yaznodes - Get ready for new excitements",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5E4vxxSiA9rZ5fJWscFm6Taoy1AKiwbBXGyDz5X3sEXR4b2X"
 }
