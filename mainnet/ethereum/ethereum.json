@@ -9,7 +9,7 @@
     "currencies": [
         {
             "displayDenom": "ETH",
-            "baseDenom": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC",
+            "baseDenom": "ibc/E3AB0DFDE9E782262B770C32DF94AC2A92B93DC4825376D6F6C874D3C877864E",
             "bridgeDenom": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "decimals": 18,
             "logo": "/logos/ethereum-logo.svg",
