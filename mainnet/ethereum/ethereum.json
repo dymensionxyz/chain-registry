@@ -1,0 +1,24 @@
+{
+    "chainId": "ethereum",
+    "chainName": "Ethereum",
+    "explorerUrl": "https://etherscan.io//",
+    "exploreTxUrl": "https://testnet.axelarscan.io/tx/",
+    "evm": {
+        "chainId": "0x1"
+    },
+    "currencies": [
+        {
+            "displayDenom": "ETH",
+            "baseDenom": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC",
+            "bridgeDenom": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
+            "decimals": 6,
+            "logo": "/logos/ethereum-logo.svg",
+            "type": "main"
+        }
+    ],
+    "active": false,
+    "staging": true,
+    "logo": "/logos/ethereum-logo.svg",
+    "type": "EVM",
+    "website": "https://ethereum.org/"
+}
