@@ -11,7 +11,7 @@
             "displayDenom": "ETH",
             "baseDenom": "ibc/EA1D43981D5C9A1C4AAEA9C23BB1D4FA126BA9BC7020A25E0AE4AA841EA25DC",
             "bridgeDenom": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
-            "decimals": 6,
+            "decimals": 18,
             "logo": "/logos/ethereum-logo.svg",
             "type": "main"
         }
