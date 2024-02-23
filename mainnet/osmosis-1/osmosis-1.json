@@ -17,7 +17,7 @@
         },
         {
             "displayDenom": "milkTIA",
-            "baseDenom": "ibc/9A76CDF0CBCEF37923F32518FA15E5DC92B9F56128292BC4D63C4AEA76CBB110",
+            "baseDenom": "",
             "decimals": 6,
             "logo": "/logos/milkTIA-logo.svg",
             "type": "regular"
