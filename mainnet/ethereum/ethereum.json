@@ -25,7 +25,7 @@
         }
     ],
     "active": false,
-    "staging": false,
+    "staging": true,
     "logo": "/logos/ethereum-logo.svg",
     "type": "EVM",
     "website": "https://ethereum.org/"
