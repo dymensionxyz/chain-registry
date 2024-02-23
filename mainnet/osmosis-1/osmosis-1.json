@@ -14,6 +14,13 @@
             "decimals": 6,
             "logo": "/logos/osmosis-logo.svg",
             "type": "main"
+        },
+        {
+            "displayDenom": "milkTIA",
+            "baseDenom": "ibc/9A76CDF0CBCEF37923F32518FA15E5DC92B9F56128292BC4D63C4AEA76CBB110",
+            "decimals": 6,
+            "logo": "/logos/milkTIA-logo.svg",
+            "type": "regular"
         }
     ],
     "coinType": 118,
