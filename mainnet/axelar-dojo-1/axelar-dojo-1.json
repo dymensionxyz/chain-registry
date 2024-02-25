@@ -1,0 +1,41 @@
+{
+    "chainId": "axelar-dojo-1",
+    "chainName": "Axelar",
+    "rpc": "https://axelar-rpc.polkachu.com",
+    "rest": "https://axelar-api.polkachu.com",
+    "explorerUrl": "https://www.mintscan.io/axelar/",
+    "exploreTxUrl": "https://www.mintscan.io/axelar/txs/",
+    "bech32Prefix": "axelar",
+    "active": false,
+    "staging": true,
+    "currencies": [
+        {
+            "displayDenom": "AXL",
+            "baseDenom": "uaxl",
+            "decimals": 6,
+            "logo": "/logos/axelar-logo.svg",
+            "type": "main"
+        },
+        {
+            "displayDenom": "ETH",
+            "baseDenom": "weth-wei",
+            "decimals": 18,
+            "logo": "/logos/ethereum-logo.svg",
+            "type": "regular"
+        }
+    ],
+    "coinType": 118,
+    "ibc": {
+        "timeout": 172800000,
+        "hubChannel": "channel-5",
+        "channel": "channel-138",
+        "allowedDenoms": [ "weth-wei", "uaxl" ]
+    },
+    "gasPriceSteps": {
+        "low": 0.1,
+        "average": 0.1,
+        "high": 0.2
+    },
+    "logo": "/logos/axelar-logo.svg",
+    "type": "Regular"
+}
