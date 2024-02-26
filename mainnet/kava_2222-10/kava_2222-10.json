@@ -4,8 +4,8 @@
     "rpc": "https://kava-rpc.polkachu.com",
     "rest": "https://kava-api.polkachu.com",
     "explorerUrl": "https://www.mintscan.io/kava/",
-    "exploreTxUrl": "https://www.mintscan.io/kava/txs/",
     "bech32Prefix": "kava",
+    "exploreTxUrl": "https://www.mintscan.io/kava/txs/",
     "active": true,
     "staging": true,
     "currencies": [
