@@ -9,7 +9,7 @@
     "currencies": [
         {
             "displayDenom": "ETH",
-            "baseDenom": "-",
+            "baseDenom": "ibc/E3AB0DFDE9E782262B770C32DF94AC2A92B93DC4825376D6F6C874D3C877864E",
             "bridgeDenom": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "decimals": 18,
             "logo": "/logos/ethereum-logo.svg",
@@ -24,6 +24,9 @@
             "type": "regular"
         }
     ],
+    "ibc": {
+        "allowedDenoms": [ "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4" ]
+    },
     "active": false,
     "staging": true,
     "logo": "/logos/ethereum-logo.svg",
