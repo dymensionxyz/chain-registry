@@ -9,7 +9,7 @@
     "currencies": [
         {
             "displayDenom": "ETH",
-            "baseDenom": "",
+            "baseDenom": "-",
             "bridgeDenom": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "decimals": 18,
             "logo": "/logos/ethereum-logo.svg",
