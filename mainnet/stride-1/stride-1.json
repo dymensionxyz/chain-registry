@@ -5,7 +5,7 @@
     "rest": "https://stride-api.polkachu.com",
     "explorerUrl": "https://www.mintscan.io/stride/",
     "exploreTxUrl": "https://www.mintscan.io/stride/tx/",
-    "active": false,
+    "active": true,
     "staging": true,
     "bech32Prefix": "stride",
     "currencies": [
