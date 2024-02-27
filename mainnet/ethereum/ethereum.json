@@ -7,12 +7,13 @@
         "chainId": "0x1"
     },
     "ibc": {
-        "allowedDenoms": [ "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4" ]
+        "allowedDenoms": [ "uusdc" ]
     },
     "currencies": [
         {
             "displayDenom": "ETH",
-            "baseDenom": "ibc/E3AB0DFDE9E782262B770C32DF94AC2A92B93DC4825376D6F6C874D3C877864E",
+            "baseDenom": "weth-we",
+            "ibcRepresentation": "ibc/E3AB0DFDE9E782262B770C32DF94AC2A92B93DC4825376D6F6C874D3C877864E",
             "bridgeDenom": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "decimals": 18,
             "logo": "/logos/ethereum-logo.svg",
@@ -20,7 +21,8 @@
         },
         {
             "displayDenom": "USDC",
-            "baseDenom": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
+            "baseDenom": "uusdc",
+            "ibcRepresentation": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
             "bridgeDenom": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
             "decimals": 6,
             "logo": "/logos/usdc-logo.svg",
