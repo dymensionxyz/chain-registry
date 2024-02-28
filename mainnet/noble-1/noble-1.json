@@ -14,7 +14,8 @@
             "baseDenom": "uusdc",
             "decimals": 6,
             "logo": "/logos/usdc-logo.svg",
-            "type": "main"
+            "type": "main",
+            "cctp": true
         }
     ],
     "ibc": {
