@@ -28,14 +28,6 @@
             "logo": "/logos/usdc-logo.svg",
             "type": "regular",
             "cctp": true
-        },
-        {
-            "displayDenom": "USDT",
-            "baseDenom": "erc20/tether/usdt",
-            "ibcRepresentation": "ibc/B72B5B3F7AD44783584921DC33354BCE07C8EB0A7F0349247C3DAD38C3B6E6A5",
-            "bridgeDenom": "0x7f5373AE26c3E8FfC4c77b7255DF7eC1A9aF52a6",
-            "decimals": 6,
-            "type": "regular"
         }
     ],
     "active": false,
