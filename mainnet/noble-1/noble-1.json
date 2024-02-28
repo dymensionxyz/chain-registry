@@ -31,5 +31,6 @@
         "high": 0.2
     },
     "logo": "/logos/noble-icon.png",
-    "type": "Regular"
+    "type": "Regular",
+    "cctp": true
 }
