@@ -1,8 +1,8 @@
 {
     "chainId": "ethereum",
     "chainName": "Ethereum",
-    "explorerUrl": "https://etherscan.io//",
-    "exploreTxUrl": "https://testnet.axelarscan.io/tx/",
+    "explorerUrl": "https://etherscan.io/",
+    "exploreTxUrl": "https://etherscan/tx/",
     "evm": {
         "chainId": "0x1"
     },
