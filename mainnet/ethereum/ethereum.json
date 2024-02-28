@@ -12,7 +12,7 @@
     "currencies": [
         {
             "displayDenom": "ETH",
-            "baseDenom": "weth-we",
+            "baseDenom": "weth-wei",
             "ibcRepresentation": "ibc/E3AB0DFDE9E782262B770C32DF94AC2A92B93DC4825376D6F6C874D3C877864E",
             "bridgeDenom": "0xEeeeeEeeeEeEeeEeEeEeeEEEeeeeEeeeeeeeEEeE",
             "decimals": 18,
