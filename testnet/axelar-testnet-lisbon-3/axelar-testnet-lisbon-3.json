@@ -19,7 +19,7 @@
             "displayDenom": "USDC",
             "baseDenom": "uusdc",
             "decimals": 6,
-            "logo": "/logos/axelar-logo.svg",
+            "logo": "/logos/usdc-logo.svg",
             "type": "main"
         }
     ],
