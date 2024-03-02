@@ -17,9 +17,9 @@
             "type": "main"
         },
         {
-            "displayDenom": "USDC",
+            "displayDenom": "aUSDC",
             "baseDenom": "uusdc",
-            "ibcRepresentation": "ibc/6490A7EAB61059BFC1CDDEB05917DD70BDF3A611654162A1A47DB930D40D8AF4",
+            "ibcRepresentation": "ibc/5BDD47E9E73BF91C14497E254F0A751F1A7D3A6084343F66EA7CEE834A384651",
             "bridgeDenom": "0x254d06f33bDc5b8ee05b2ea472107E300226659A",
             "decimals": 6,
             "logo": "/logos/usdc-logo.svg",
