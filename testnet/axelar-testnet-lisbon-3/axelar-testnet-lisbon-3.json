@@ -17,7 +17,7 @@
         },
         {
             "displayDenom": "aUSDC",
-            "baseDenom": "uaxl",
+            "baseDenom": "ausdc",
             "decimals": 6,
             "logo": "/logos/axelar-logo.svg",
             "type": "main"
