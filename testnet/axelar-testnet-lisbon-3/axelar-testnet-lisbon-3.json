@@ -1,11 +1,11 @@
 {
     "chainId": "axelar-testnet-lisbon-3",
     "chainName": "Axelar Testnet",
-    "rpc": "https://axelar-rpc.polkachu.com",
-    "rest": "https://axelar-api.polkachu.com",
-    "explorerUrl": "https://www.mintscan.io/axelar/",
+    "rpc": "https://axelar-testnet-rpc.polkachu.com",
+    "rest": "https://axelar-testnet-api.polkachu.com",
+    "explorerUrl": "https://www.mintscan.io/axelar-testnet/",
     "bech32Prefix": "axelar",
-    "exploreTxUrl": "https://www.mintscan.io/axelar/txs/",
+    "exploreTxUrl": "https://www.mintscan.io/axelar-testnet/txs/",
     "active": true,
     "currencies": [
         {
