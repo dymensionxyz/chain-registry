@@ -29,7 +29,7 @@
         "timeout": 172800000,
         "hubChannel": "channel-5",
         "channel": "channel-138",
-        "allowedDenoms": [ "weth-wei", "uaxl" ]
+        "allowedDenoms": [ "uaxl" ]
     },
     "gasPriceSteps": {
         "low": 0.1,
