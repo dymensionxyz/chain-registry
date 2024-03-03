@@ -6,7 +6,7 @@
     "explorerUrl": "https://www.mintscan.io/axelar/",
     "exploreTxUrl": "https://www.mintscan.io/axelar/txs/",
     "bech32Prefix": "axelar",
-    "active": false,
+    "active": true,
     "staging": true,
     "currencies": [
         {
