@@ -7,7 +7,7 @@
         "chainId": "0x1"
     },
     "ibc": {
-        "allowedDenoms": [ "weth-wei", "uusdc", "uusdt" ]
+        "allowedDenoms": [ "uusdc"]
     },
     "currencies": [
         {
