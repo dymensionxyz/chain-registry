@@ -30,7 +30,7 @@
             "cctp": true
         }
     ],
-    "active": true,
+    "active": false,
     "staging": true,
     "logo": "/logos/ethereum-logo.svg",
     "type": "EVM",
