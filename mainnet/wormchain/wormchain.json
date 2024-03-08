@@ -4,7 +4,7 @@
     "bech32Prefix": "wormhole",
     "active": false,
     "staging": true,
-    "visible": false,
+    "hidden": true,
     "currencies": [
         {
             "displayDenom": "SOL",
