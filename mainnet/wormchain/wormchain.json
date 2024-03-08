@@ -5,7 +5,7 @@
     "rest": "https://wormchain-lcd.quickapi.com",
     "explorerUrl": "",
     "exploreTxUrl": "",
-    "bech32Prefix": "wormchain",
+    "bech32Prefix": "wormhole",
     "active": false,
     "staging": true,
     "currencies": [
