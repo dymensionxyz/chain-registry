@@ -1,7 +1,7 @@
 {
     "chainId": "wormchain",
     "chainName": "Wormchain",
-    "rpc": "https://tncnt-eu-wormchain-main-01.rpc.p2p.world'",
+    "rpc": "https://tncnt-eu-wormchain-main-01.rpc.p2p.world",
     "rest": "",
     "explorerUrl": "",
     "exploreTxUrl": "",
