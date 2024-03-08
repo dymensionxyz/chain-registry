@@ -1,0 +1,34 @@
+{
+    "chainId": "wormchain",
+    "chainName": "Wormchain",
+    "rpc": "https://axelar-rpc.polkachu.com",
+    "rest": "https://axelar-api.polkachu.com",
+    "explorerUrl": "https://www.mintscan.io/axelar/",
+    "exploreTxUrl": "https://www.mintscan.io/axelar/txs/",
+    "bech32Prefix": "wormchain",
+    "active": false,
+    "staging": true,
+    "currencies": [
+        {
+            "displayDenom": "SOL",
+            "baseDenom": "factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA",
+            "decimals": 9,
+            "logo": "/logos/axelar-logo.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 118,
+    "ibc": {
+        "timeout": 172800000,
+        "hubChannel": "channel-36",
+        "channel": "channel-15",
+        "allowedDenoms": [ "factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA" ]
+    },
+    "gasPriceSteps": {
+        "low": 0.1,
+        "average": 0.1,
+        "high": 0.2
+    },
+    "logo": "/logos/axelar-logo.svg",
+    "type": "Regular"
+}
