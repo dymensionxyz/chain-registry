@@ -1,13 +1,10 @@
 {
     "chainId": "wormchain",
     "chainName": "Wormchain",
-    "rpc": "https://tncnt-eu-wormchain-main-01.rpc.p2p.world",
-    "rest": "https://wormchain-lcd.quickapi.com",
-    "explorerUrl": "",
-    "exploreTxUrl": "",
     "bech32Prefix": "wormhole",
     "active": false,
     "staging": true,
+    "visible": false,
     "currencies": [
         {
             "displayDenom": "SOL",
@@ -22,7 +19,7 @@
         "timeout": 172800000,
         "hubChannel": "channel-36",
         "channel": "channel-15",
-        "allowedDenoms": [ "factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA" ]
+        "allowedDenoms": []
     },
     "gasPriceSteps": {
         "low": 0.1,
