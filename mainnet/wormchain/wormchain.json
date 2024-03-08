@@ -2,7 +2,7 @@
     "chainId": "wormchain",
     "chainName": "Wormchain",
     "rpc": "https://tncnt-eu-wormchain-main-01.rpc.p2p.world",
-    "rest": "",
+    "rest": "https://tncnt-eu-wormchain-main-01.rpc.p2p.world/lcd",
     "explorerUrl": "",
     "exploreTxUrl": "",
     "bech32Prefix": "wormchain",
