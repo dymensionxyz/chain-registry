@@ -18,8 +18,8 @@
   "website": "https://hawkeye.evmverse.xyz/",
   "logo": "/logos/hawkeye_5369724-1.png",
   "ibc": {
-    "hubChannel": "channel-9242",
-    "channel": "channel-0",
+    "hubChannel": "channel-9682",
+    "channel": "channel-1",
     "timeout": 172800000
   },
   "evm": {
