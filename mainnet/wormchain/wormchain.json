@@ -2,6 +2,7 @@
     "chainId": "wormchain",
     "chainName": "Wormchain",
     "bech32Prefix": "wormhole",
+    "rpc": "https://tncnt-eu-wormchain-main-01.rpc.p2p.world",
     "active": false,
     "staging": true,
     "hidden": true,
@@ -18,8 +19,7 @@
     "ibc": {
         "timeout": 720000,
         "hubChannel": "channel-36",
-        "channel": "channel-15",
-        "allowedDenoms": []
+        "channel": "channel-15"
     },
     "gasPriceSteps": {
         "low": 0.1,
