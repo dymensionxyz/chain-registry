@@ -1,6 +1,7 @@
 {
     "chainId": "solana",
     "chainName": "Solana",
+    "wormholeChain": "Solana",
     "rpc": "https://solana-mainnet.g.alchemy.com/v2/Mbaw2zqhViFTXpmU_491k5M1b-hMc22q",
     "exploreTxUrl": "https://solscan.io/tx/",
     "explorerUrl": "https://solscan.io/",

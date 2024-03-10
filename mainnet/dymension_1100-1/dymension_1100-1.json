@@ -1,6 +1,7 @@
 {
     "chainId": "dymension_1100-1",
     "chainName": "Dymension",
+    "wormholeChain": "Dymension",
     "rpc": "https://dymension.blockpi.network/rpc/v1/648a6f092eeda6ddbd8b7e4991e40c7eb31143f1",
     "rest": "https://dymension.blockpi.network/lcd/v1/648a6f092eeda6ddbd8b7e4991e40c7eb31143f1",
     "evm": {
