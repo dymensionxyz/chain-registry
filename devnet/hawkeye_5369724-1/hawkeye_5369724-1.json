@@ -1,8 +1,8 @@
 {
   "chainId": "hawkeye_5369724-1",
   "chainName": "HawkEye",
-  "rpc": "https://dym.evmverse.xyz/",
-  "rest": "https://rest.evmverse.xyz/",
+  "rpc": "https://rpc.evmverse.xyz/",
+  "rest": "https://api.evmverse.xyz/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x51ef7c",
-    "rpc": "https://rpc.evmverse.xyz"
+    "rpc": "https://evm.evmverse.xyz"
   },
   "type": "RollApp",
   "da": "Avail",
