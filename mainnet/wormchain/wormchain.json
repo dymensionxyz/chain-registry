@@ -11,7 +11,7 @@
         {
             "displayDenom": "SOL",
             "baseDenom": "factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA",
-            "decimals": 8,
+            "decimals": 9,
             "logo": "/logos/solana.svg",
             "type": "main"
         }
