@@ -16,6 +16,7 @@
     "currencies": [
         {
             "displayDenom": "DYM",
+            "common": true,
             "baseDenom": "adym",
             "decimals": 18,
             "logo": "/logos/dymension-logo.svg",

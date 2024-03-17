@@ -13,6 +13,7 @@
             "displayDenom": "USDC",
             "baseDenom": "uusdc",
             "decimals": 6,
+            "common": true,
             "logo": "/logos/usdc-logo.svg",
             "type": "main",
             "cctp": true

@@ -13,6 +13,7 @@
             "displayDenom": "USDT",
             "baseDenom": "erc20/tether/usdt",
             "decimals": 6,
+            "common": true,
             "logo": "/logos/usdt-logo.svg",
             "type": "regular"
         },
