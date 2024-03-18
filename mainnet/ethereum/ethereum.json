@@ -32,6 +32,7 @@
     ],
     "active": true,
     "staging": true,
+    "common": true,
     "logo": "/logos/ethereum-logo.svg",
     "type": "EVM",
     "website": "https://ethereum.org/"
