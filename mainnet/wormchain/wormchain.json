@@ -28,5 +28,6 @@
         "high": 0.2
     },
     "logo": "/logos/axelar-logo.svg",
-    "type": "Regular"
+    "type": "Regular",
+    "website": "https://wormhole.com/"
 }

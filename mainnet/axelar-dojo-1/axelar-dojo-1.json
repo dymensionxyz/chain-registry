@@ -37,6 +37,7 @@
         "average": 0.1,
         "high": 0.2
     },
+    "website": "https://axelar.network/",
     "logo": "/logos/axelar-logo.svg",
     "type": "Regular"
 }

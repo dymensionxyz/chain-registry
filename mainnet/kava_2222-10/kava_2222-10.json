@@ -37,6 +37,7 @@
         "average": 0.1,
         "high": 0.2
     },
+    "website": "https://www.kava.io/",
     "logo": "/logos/kava-logo.svg",
     "type": "Regular"
 }

@@ -33,5 +33,6 @@
     },
     "logo": "/logos/noble-icon.png",
     "type": "Regular",
-    "cctp": true
+    "cctp": true,
+    "website": "https://nobleassets.xyz/"
 }
