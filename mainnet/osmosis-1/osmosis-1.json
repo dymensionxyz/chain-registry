@@ -27,7 +27,7 @@
             "baseDenom": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
             "decimals": 8,
             "logo": "/logos/wbtc-logo.svg",
-            "type": "regular",
+            "type": "regular"
         }
     ],
     "coinType": 118,
