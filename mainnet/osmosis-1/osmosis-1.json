@@ -28,7 +28,6 @@
             "decimals": 8,
             "logo": "/logos/wbtc-logo.svg",
             "type": "regular",
-            "common": true
         }
     ],
     "coinType": 118,
