@@ -13,7 +13,8 @@
             "baseDenom": "utia",
             "decimals": 6,
             "logo": "/logos/celestia-logo-purple.svg",
-            "type": "main"
+            "type": "main",
+            "common": true
         }
     ],
     "coinType": 118,
