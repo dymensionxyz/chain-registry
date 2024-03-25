@@ -1,6 +1,6 @@
 {
     "chainId": "dymension_100-1",
-    "chainName": "Dymension",
+    "chainName": "Dymension Devnet",
     "rpc": "http://3.71.160.88:36657",
     "rest": "http://3.71.160.88:1318",
     "evm": {
