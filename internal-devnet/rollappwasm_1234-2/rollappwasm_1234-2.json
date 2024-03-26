@@ -8,6 +8,7 @@
         "rpc": "http://18.199.53.161:26657"
     },
     "bech32Prefix": "rol",
+    "da": "Celestia",
     "currencies": [
         {
             "displayDenom": "RAX",
