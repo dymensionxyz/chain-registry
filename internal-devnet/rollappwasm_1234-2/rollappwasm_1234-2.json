@@ -23,6 +23,7 @@
     },
     "logo": "/logos/rollapp-wasm.png",
     "type": "RollApp",
+    "wasm": true,
     "analytics": true,
     "collectData": true
 }
