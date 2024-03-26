@@ -3,17 +3,13 @@
     "chainName": "RollApp Wasm",
     "rpc": "https://rpc.wasm.rollapp.noisnemyd.xyz",
     "rest": "https://rest.wasm.rollapp.noisnemyd.xyz",
-    "evm": {
-        "chainId": "0x4D2",
-        "rpc": "https://json-rpc.wasm.rollapp.noisnemyd.xyz"
-    },
     "bech32Prefix": "rol",
     "da": "Celestia",
     "currencies": [
         {
             "displayDenom": "RAX",
             "baseDenom": "urax",
-            "decimals": 18,
+            "decimals": 6,
             "logo": "/logos/rollapp-wasm.png",
             "type": "main"
         }
@@ -24,11 +20,6 @@
         "timeout": 172800000,
         "hubChannel": "channel-0",
         "channel": "channel-0"
-    },
-    "gasPriceSteps": {
-        "low": 20000000000,
-        "average": 20000000000,
-        "high": 20000000000
     },
     "logo": "/logos/rollapp-wasm.png",
     "type": "RollApp",
