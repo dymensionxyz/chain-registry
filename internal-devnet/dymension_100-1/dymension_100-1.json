@@ -31,5 +31,7 @@
     "logo": "/logos/dymension-logo.svg",
     "type": "Hub",
     "analytics": true,
+    "common": true,
+    "collectData": true,
     "website": "https://internal-devnet.dymension.xyz"
 }

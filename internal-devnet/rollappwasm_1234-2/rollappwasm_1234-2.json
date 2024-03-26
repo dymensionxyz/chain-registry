@@ -1,0 +1,37 @@
+{
+    "chainId": "rollappwasm_1234-2",
+    "chainName": "RollApp Wasm",
+    "rpc": "http://18.199.53.161:26657",
+    "rest": "http://18.199.53.161:26657",
+    "evm": {
+        "chainId": "0x4D2",
+        "rpc": "http://18.199.53.161:26657"
+    },
+    "bech32Prefix": "rol",
+    "currencies": [
+        {
+            "displayDenom": "RAX",
+            "baseDenom": "urax",
+            "decimals": 18,
+            "logo": "/logos/rollapp-wasm.png",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+    "ibc": {
+        "timeout": 172800000,
+        "hubChannel": "channel-0",
+        "channel": "channel-0"
+    },
+    "gasPriceSteps": {
+        "low": 20000000000,
+        "average": 20000000000,
+        "high": 20000000000
+    },
+    "logo": "/logos/rollapp-wasm.png",
+    "type": "RollApp",
+    "analytics": true,
+    "collectData": true,
+    "website": "https://internal-devnet.dymension.xyz"
+}
