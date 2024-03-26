@@ -10,7 +10,7 @@
             "displayDenom": "RAX",
             "baseDenom": "urax",
             "decimals": 6,
-            "logo": "/logos/rollapp-wasm.png",
+            "logo": "/logos/rollapp-wasm.svg",
             "type": "main"
         }
     ],
@@ -21,7 +21,7 @@
         "hubChannel": "channel-0",
         "channel": "channel-0"
     },
-    "logo": "/logos/rollapp-wasm.png",
+    "logo": "/logos/rollapp-wasm.svg",
     "type": "RollApp",
     "wasm": true,
     "analytics": true,
