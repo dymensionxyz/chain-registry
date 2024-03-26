@@ -4,7 +4,8 @@
     "rpc": "https://rpc.wasm.rollapp.noisnemyd.xyz",
     "rest": "https://rest.wasm.rollapp.noisnemyd.xyz",
     "evm": {
-        "chainId": "0x4D2"
+        "chainId": "0x4D2",
+        "rpc": "https://json-rpc.wasm.rollapp.noisnemyd.xyz"
     },
     "bech32Prefix": "rol",
     "da": "Celestia",
