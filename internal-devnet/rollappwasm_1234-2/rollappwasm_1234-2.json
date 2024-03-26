@@ -34,5 +34,4 @@
     "type": "RollApp",
     "analytics": true,
     "collectData": true,
-    "website": "https://internal-devnet.dymension.xyz"
 }
