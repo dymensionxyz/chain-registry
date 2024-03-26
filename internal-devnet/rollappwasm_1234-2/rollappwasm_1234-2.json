@@ -14,7 +14,7 @@
             "type": "main"
         }
     ],
-    "coinType": 60,
+    "coinType": 118,
     "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
     "ibc": {
         "timeout": 172800000,
