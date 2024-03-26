@@ -1,11 +1,10 @@
 {
     "chainId": "rollappwasm_1234-2",
     "chainName": "RollApp Wasm",
-    "rpc": "http://18.199.53.161:26657",
-    "rest": "http://18.199.53.161:1317",
+    "rpc": "https://rpc.wasm.rollapp.noisnemyd.xyz",
+    "rest": "https://rest.wasm.rollapp.noisnemyd.xyz",
     "evm": {
-        "chainId": "0x4D2",
-        "rpc": "http://18.199.53.161:26657"
+        "chainId": "0x4D2"
     },
     "bech32Prefix": "rol",
     "da": "Celestia",
