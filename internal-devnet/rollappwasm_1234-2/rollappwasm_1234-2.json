@@ -4,6 +4,7 @@
     "rpc": "https://rpc.wasm.rollapp.noisnemyd.xyz",
     "rest": "https://rest.wasm.rollapp.noisnemyd.xyz",
     "bech32Prefix": "rol",
+    "website": "https://hub.epicwarzone.com",
     "da": "Celestia",
     "currencies": [
         {
