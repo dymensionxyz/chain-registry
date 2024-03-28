@@ -7,7 +7,7 @@
     "da": "Celestia",
     "evm": {
         "chainId": "0x16C8",
-        "rpc": "json-rpc.rolintdev.evm.rollapp.noisnemyd.xyz"
+        "rpc": "https://json-rpc.rolintdev.evm.rollapp.noisnemyd.xyz"
     },
     "currencies": [
         {
