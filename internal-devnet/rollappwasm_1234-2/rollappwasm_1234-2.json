@@ -1,38 +1,31 @@
 {
     "chainId": "rollappwasm_1234-2",
     "chainName": "RollApp Wasm",
-    "rpc": "http://18.199.53.161:26657",
-    "rest": "http://18.199.53.161:1317",
-    "evm": {
-        "chainId": "0x4D2",
-        "rpc": "http://18.199.53.161:26657"
-    },
+    "rpc": "https://rpc.wasm.rollapp.noisnemyd.xyz",
+    "rest": "https://rest.wasm.rollapp.noisnemyd.xyz",
     "bech32Prefix": "rol",
+    "website": "https://hub.epicwarzone.com",
     "da": "Celestia",
     "currencies": [
         {
             "displayDenom": "RAX",
             "baseDenom": "urax",
-            "decimals": 18,
-            "logo": "/logos/rollapp-wasm.png",
+            "decimals": 6,
+            "logo": "/logos/rollapp-wasm.svg",
             "type": "main"
         }
     ],
-    "coinType": 60,
+    "coinType": 118,
+    "gasAdjustment": 1.5,
     "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
     "ibc": {
         "timeout": 172800000,
         "hubChannel": "channel-0",
         "channel": "channel-0"
     },
-    "gasPriceSteps": {
-        "low": 20000000000,
-        "average": 20000000000,
-        "high": 20000000000
-    },
-    "logo": "/logos/rollapp-wasm.png",
+    "logo": "/logos/rollapp-wasm.svg",
     "type": "RollApp",
+    "wasm": true,
     "analytics": true,
-    "collectData": true,
-    "website": "https://internal-devnet.dymension.xyz"
+    "collectData": true
 }
