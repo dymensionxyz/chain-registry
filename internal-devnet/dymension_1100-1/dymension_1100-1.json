@@ -1,11 +1,11 @@
 {
-    "chainId": "dymension_100-1",
-    "chainName": "Dymension Devnet",
-    "rpc": "https://rpc.hub.internal-devnet.noisnemyd.xyz",
-    "rest": "https://rest.hub.internal-devnet.noisnemyd.xyz",
+    "chainId": "dymension_1100-1",
+    "chainName": "Dymension Mainnet - Test",
+    "rpc": "https://rpc.hwpd.noisnemyd.xyz",
+    "rest": "https://rest.hwpd.noisnemyd.xyz",
     "evm": {
-        "chainId": "0x64",
-        "rpc": "https://json-rpc.hub.internal-devnet.noisnemyd.xyz"
+        "chainId": "0x44C",
+        "rpc": "https://json-rpc.hwpd.noisnemyd.xyz"
     },
     "bech32Prefix": "dym",
     "currencies": [

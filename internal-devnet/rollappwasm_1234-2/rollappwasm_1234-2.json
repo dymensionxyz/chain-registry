@@ -27,5 +27,6 @@
     "type": "RollApp",
     "wasm": true,
     "analytics": true,
-    "collectData": true
+    "collectData": true,
+    "active": "false"
 }
