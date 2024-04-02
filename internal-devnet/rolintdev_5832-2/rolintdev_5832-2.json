@@ -4,7 +4,6 @@
     "rpc": "https://rpc.rolintdev.evm.rollapp.noisnemyd.xyz",
     "rest": "https://rest.rolintdev.evm.rollapp.noisnemyd.xyz",
     "bech32Prefix": "ethm",
-    "active": "false",
     "website": "https://evm-gamehub.xuanphuctech.com",
     "da": "Celestia",
     "evm": {

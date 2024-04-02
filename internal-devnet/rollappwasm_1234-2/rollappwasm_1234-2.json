@@ -28,5 +28,4 @@
     "wasm": true,
     "analytics": true,
     "collectData": true,
-    "active": "false"
 }
