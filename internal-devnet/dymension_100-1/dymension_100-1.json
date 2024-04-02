@@ -3,11 +3,11 @@
     "chainName": "Dymension Devnet",
     "rpc": "https://rpc.hub.internal-devnet.noisnemyd.xyz",
     "rest": "https://rest.hub.internal-devnet.noisnemyd.xyz",
+    "bech32Prefix": "dym",
     "evm": {
         "chainId": "0x64",
         "rpc": "https://json-rpc.hub.internal-devnet.noisnemyd.xyz"
     },
-    "bech32Prefix": "dym",
     "currencies": [
         {
             "displayDenom": "DYM",
