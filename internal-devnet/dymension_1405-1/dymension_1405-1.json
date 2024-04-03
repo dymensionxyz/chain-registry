@@ -1,6 +1,6 @@
 {
     "chainId": "dymension_1405-1",
-    "chainName": "Dymension Mainnet - Test",
+    "chainName": "Dymension Test",
     "rpc": "https://rpc.hwpd.noisnemyd.xyz",
     "rest": "https://rest.hwpd.noisnemyd.xyz",
     "bech32Prefix": "dym",
