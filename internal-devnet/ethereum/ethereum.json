@@ -1,0 +1,39 @@
+{
+    "chainId": "ethereum",
+    "chainName": "Ethereum",
+    "explorerUrl": "https://etherscan.io/",
+    "exploreTxUrl": "https://etherscan.io/tx/",
+    "evm": {
+        "chainId": "0x1"
+    },
+    "ibc": {
+        "allowedDenoms": [ "uusdc", "weth-wei" ]
+    },
+    "currencies": [
+        {
+            "displayDenom": "ETH",
+            "baseDenom": "weth-wei",
+            "ibcRepresentation": "ibc/E3AB0DFDE9E782262B770C32DF94AC2A92B93DC4825376D6F6C874D3C877864E",
+            "bridgeDenom": "ethereum-native",
+            "decimals": 18,
+            "logo": "/logos/ethereum-logo.svg",
+            "type": "main"
+        },
+        {
+            "displayDenom": "USDC",
+            "baseDenom": "uusdc",
+            "ibcRepresentation": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
+            "bridgeDenom": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "decimals": 6,
+            "logo": "/logos/usdc-logo.svg",
+            "type": "regular",
+            "cctp": true
+        }
+    ],
+    "active": true,
+    "staging": true,
+    "common": true,
+    "logo": "/logos/ethereum-logo.svg",
+    "type": "EVM",
+    "website": "https://ethereum.org/"
+}
