@@ -26,6 +26,7 @@
     "logo": "/logos/rollapp-wasm.svg",
     "type": "RollApp",
     "wasm": true,
+    "active": false,
     "analytics": true,
     "collectData": true,
 }

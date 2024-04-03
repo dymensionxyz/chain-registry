@@ -29,6 +29,7 @@
     },
     "logo": "/logos/logo_rolintdev.png",
     "type": "RollApp",
+    "active": false,
     "analytics": true,
     "collectData": true
 }
