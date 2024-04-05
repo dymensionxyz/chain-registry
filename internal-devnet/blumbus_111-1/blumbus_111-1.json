@@ -32,7 +32,7 @@
         "high": 20000000000
     },
     "logo": "/logos/dymension-logo.svg",
-    "type": "Hub",
+    "type": "Regular",
     "analytics": true,
     "website": "https://testnet.dymension.xyz"
 }
