@@ -29,7 +29,7 @@
   },
   "logo": "/logos/logo_wasm.png",
   "type": "RollApp",
-  "active": false,
+  "active": true,
   "analytics": true,
   "collectData": true
 }
