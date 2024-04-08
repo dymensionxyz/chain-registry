@@ -7,7 +7,7 @@
         "chainId": "0x1"
     },
     "ibc": {
-        "allowedDenoms": [ "uusdc", "weth-wei" ]
+        "allowedDenoms": [ "uusdc", "weth-wei", "erc20/tether/usdt" ]
     },
     "currencies": [
         {
@@ -28,6 +28,16 @@
             "logo": "/logos/usdc-logo.svg",
             "type": "regular",
             "cctp": true
+        },
+        {
+            "displayDenom": "USDT",
+            "baseDenom": "erc20/tether/usdt",
+            "ibcRepresentation": "ibc/B72B5B3F7AD44783584921DC33354BCE07C8EB0A7F0349247C3DAD38C3B6E6A5",
+            "bridgeDenom": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
+            "decimals": 6,
+            "logo": "/logos/usdt-logo.svg",
+            "type": "regular",
+            "staging": true
         }
     ],
     "active": true,
