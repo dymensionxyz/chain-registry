@@ -24,8 +24,8 @@
     "validatorsLogosStorageDir": "hub",
     "faucetUrl": "https://discord.com/channels/956961633165529098/1196803789911498763",
     "ibc": {
-        "hubChannel": "channel-51",
-        "channel": "channel-8",
+        "hubChannel": "channel-46",
+        "channel": "channel-9",
         "timeout": 172800000
     },
     "gasPriceSteps": {
