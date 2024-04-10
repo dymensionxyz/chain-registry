@@ -1,14 +1,14 @@
 {
-  "chainId": "evma_10002-2",
+  "chainId": "evma_10010-1",
   "chainName": "EVM Rollapp",
-  "rpc": "https://rpc.evma.evm.rollapp.noisnemyd.xyz",
-  "rest": "https://rest.evma.evm.rollapp.noisnemyd.xyz",
+  "rpc": "https://rpc.evma.evm.ra.intdev.noisnemyd.xyz",
+  "rest": "rest.evma.evm.ra.intdev.noisnemyd.xyz",
   "bech32Prefix": "ethm",
   "website": "https://evm-gamehub.xuanphuctech.com",
   "da": "Celestia",
   "evm": {
-    "chainId": "0x22B8",
-    "rpc": "https://json-rpc.evma.evm.rollapp.noisnemyd.xyz"
+    "chainId": "0x271A",
+    "rpc": "json-rpc.evma.evm.ra.intdev.noisnemyd.xyz"
   },
   "currencies": [
     {
@@ -24,7 +24,7 @@
   "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
   "ibc": {
     "timeout": 172800000,
-    "hubChannel": "channel-47",
+    "hubChannel": "channel-0",
     "channel": "channel-0"
   },
   "logo": "/logos/logo.png",
