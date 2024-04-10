@@ -2,13 +2,13 @@
   "chainId": "evma_10010-1",
   "chainName": "EVM Rollapp",
   "rpc": "https://rpc.evma.evm.ra.intdev.noisnemyd.xyz",
-  "rest": "rest.evma.evm.ra.intdev.noisnemyd.xyz",
+  "rest": "https://rest.evma.evm.ra.intdev.noisnemyd.xyz",
   "bech32Prefix": "ethm",
   "website": "https://evm-gamehub.xuanphuctech.com",
   "da": "Celestia",
   "evm": {
     "chainId": "0x271A",
-    "rpc": "json-rpc.evma.evm.ra.intdev.noisnemyd.xyz"
+    "rpc": "https://json-rpc.evma.evm.ra.intdev.noisnemyd.xyz"
   },
   "currencies": [
     {
