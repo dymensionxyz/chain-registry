@@ -7,8 +7,8 @@
   "website": "https://ai.nim.network/",
   "da": "Celestia",
   "evm": {
-    "chainId": "0x2714",
-    "rpc": "https://json-rpc.evmb.evm.ra.intdev.noisnemyd.xyz"
+    "chainId": "0x462",
+    "rpc": "https://json-rpc.nim.evm.ra.blumbus.noisnemyd.xyz"
   },
   "currencies": [
     {
