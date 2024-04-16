@@ -27,6 +27,11 @@
     "hubChannel": "channel-12",
     "channel": "channel-0"
   },
+  "gasPriceSteps": {
+      "low": 10000000000 ,
+      "average": 10000000000,
+      "high": 10000000000 
+  },
   "logo": "/logos/logo.png",
   "type": "RollApp",
   "active": true,
