@@ -8,7 +8,7 @@
   "da": "Celestia",
   "evm": {
     "chainId": "0x462",
-    "rpc": "https://json-rpc.evmb.evm.ra.intdev.noisnemyd.xyz/"
+    "rpc": "https://json-rpc.evmb.evm.ra.intdev.noisnemyd.xyz"
   },
   "currencies": [
     {
