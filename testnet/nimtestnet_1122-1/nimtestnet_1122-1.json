@@ -23,7 +23,7 @@
   "gasAdjustment": 1.5,
   "faucetUrl": "",
   "ibc": {
-    "timeout": 604800000,
+    "timeout": 600000,
     "hubChannel": "channel-12",
     "channel": "channel-0"
   },
