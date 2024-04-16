@@ -4,7 +4,7 @@
   "rpc": "https://rpc.nim.evm.ra.blumbus.noisnemyd.xyz",
   "rest": "https://rest.nim.evm.ra.blumbus.noisnemyd.xyz",
   "bech32Prefix": "ethm",
-  "website": "https://nim.network",
+  "website": "https://ai.nim.network/",
   "da": "Celestia",
   "evm": {
     "chainId": "0x462",
