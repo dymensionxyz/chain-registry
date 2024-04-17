@@ -7,7 +7,7 @@
   "website": "https://docs.dymension.xyz",
   "da": "Celestia",
   "evm": {
-    "chainId": "0xAB001",
+    "chainId": "0xAAE61",
     "rpc": "https://json-rpc.rolx.evm.ra.blumbus.noisnemyd.xyz"
   },
   "currencies": [
