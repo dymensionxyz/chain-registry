@@ -1,5 +1,5 @@
 {
-  "chainId": "rollappx_696969-1",
+  "chainId": "rollappx_700001-1",
   "chainName": "RAX",
   "rpc": "https://rpc.rolx.evm.ra.blumbus.noisnemyd.xyz",
   "rest": "https://rest.rolx.evm.ra.blumbus.noisnemyd.xyz",
@@ -7,7 +7,7 @@
   "website": "https://docs.dymension.xyz",
   "da": "Celestia",
   "evm": {
-    "chainId": "0xaa289",
+    "chainId": "0xAB001",
     "rpc": "https://json-rpc.rolx.evm.ra.blumbus.noisnemyd.xyz"
   },
   "currencies": [
