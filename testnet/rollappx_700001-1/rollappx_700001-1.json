@@ -1,6 +1,6 @@
 {
   "chainId": "rollappx_700001-1",
-  "chainName": "RAX",
+  "chainName": "RollApp X EVM",
   "rpc": "https://rpc.rolx.evm.ra.blumbus.noisnemyd.xyz",
   "rest": "https://rest.rolx.evm.ra.blumbus.noisnemyd.xyz",
   "bech32Prefix": "ethm",
