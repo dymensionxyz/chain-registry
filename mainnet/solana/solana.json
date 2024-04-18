@@ -1,24 +1,23 @@
 {
     "chainId": "solana",
     "chainName": "Solana",
-    "wormholeChain": "Solana",
-    "rpc": "https://solana-mainnet.g.alchemy.com/v2/Mbaw2zqhViFTXpmU_491k5M1b-hMc22q",
     "exploreTxUrl": "https://solscan.io/tx/",
     "explorerUrl": "https://solscan.io/",
+    "ibc": {
+        "allowedDenoms": [ "uusdc" ]
+    },
     "currencies": [
         {
-            "displayDenom": "SOL",
-            "baseDenom": "factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA",
-            "ibcRepresentation": "ibc/2CC29C87BAF5E5E5E26EEA24B87F1863BFB13B29927B9A3625892EA1795337AA",
-            "bridgeDenom": "native",
-            "decimals": 9,
-            "logo": "/logos/solana.svg",
-            "type": "main"
+            "displayDenom": "USDC",
+            "baseDenom": "uusdc",
+            "ibcRepresentation": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
+            "bridgeDenom": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "decimals": 6,
+            "logo": "/logos/usdc-logo.svg",
+            "type": "main",
+            "cctp": true
         }
     ],
-    "ibc": {
-        "allowedDenoms": [ "factory/wormhole14ejqjyq8um4p3xfqj74yld5waqljf88fz25yxnma0cngspxe3les00fpjx/8sYgCzLRJC3J7qPn2bNbx6PiGcarhyx8rBhVaNnfvHCA" ]
-    },
     "active": false,
     "staging": true,
     "logo": "/logos/solana.svg",
