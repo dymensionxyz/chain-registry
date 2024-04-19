@@ -15,7 +15,8 @@
             "decimals": 6,
             "logo": "/logos/usdc-logo.svg",
             "type": "main",
-            "cctp": true
+            "cctp": true,
+            "solanaMintAccount": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         }
     ],
     "active": false,
