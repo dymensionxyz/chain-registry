@@ -1,0 +1,28 @@
+{
+    "chainId": "42161",
+    "chainName": "Arbitrum",
+    "explorerUrl": "https://arbiscan.io/",
+    "exploreTxUrl": "https://arbiscan.io/tx/",
+    "evm": {
+        "chainId": "0xa4b1"
+    },
+    "ibc": {
+        "allowedDenoms": ["eth-wei"]
+    },
+    "currencies": [
+        {
+            "displayDenom": "ETH",
+            "baseDenom": "eth-wei",
+            "ibcRepresentation": "ibc/E3AB0DFDE9E782262B770C32DF94AC2A92B93DC4825376D6F6C874D3C877864E",
+            "bridgeDenom": "0x82af49447d8a07e3bd95bd0d56f35241523fbab1",
+            "decimals": 18,
+            "logo": "/logos/ethereum-eth-logo.svg",
+            "type": "main"
+        }
+    ],
+    "active": false,
+    "staging": false,
+    "logo": "/logos/arbitrum-arb-logo.svg",
+    "type": "EVM",
+    "website": "https://arbitrum.io/"
+}
