@@ -34,5 +34,6 @@
     "logo": "/logos/dymension-logo.svg",
     "type": "Hub",
     "analytics": true,
-    "website": "https://testnet.dymension.xyz"
+    "website": "https://testnet.dymension.xyz",
+    "xAccount": "dymension"
 }

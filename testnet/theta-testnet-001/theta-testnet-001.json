@@ -31,5 +31,6 @@
     "logo": "/logos/cosmos-hub-logo.svg",
     "type": "Regular",
     "analytics": false,
-    "website": "https://cosmos.network/"
+    "website": "https://cosmos.network/",
+    "xAccount": "cosmoshub"
 }

@@ -29,5 +29,6 @@
     "active": true,
     "logo": "/logos/arbitrum-arb-logo.svg",
     "type": "EVM",
-    "website": "https://arbitrum.io/"
+    "website": "https://arbitrum.io/",
+    "xAccount": "arbitrum"
 }

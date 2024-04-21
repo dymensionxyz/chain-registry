@@ -31,5 +31,6 @@
     "logo": "/logos/noble-icon.png",
     "type": "Regular",
     "analytics": false,
-    "website": ""
+    "website": "",
+    "xAccount": "noble_xyz"
 }
