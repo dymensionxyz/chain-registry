@@ -24,8 +24,8 @@
   "faucetUrl": "",
   "ibc": {
     "timeout": 600000,
-    "hubChannel": "",
-    "channel": ""
+    "hubChannel": "channel-9999",
+    "channel": "channel-9999"
   },
   "gasPriceSteps": {
     "low": 10000000000,
