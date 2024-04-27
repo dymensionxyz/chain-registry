@@ -12,7 +12,7 @@
   },
   "currencies": [
     {
-      "displayDenom": "NIM",
+      "displayDenom": "NIMTWO",
       "baseDenom": "anim",
       "decimals": 18,
       "logo": "/logos/logo.png",
