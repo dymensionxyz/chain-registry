@@ -1,6 +1,6 @@
 {
   "chainId": "rolx_100004-1",
-  "chainName": "Rollapp X",
+  "chainName": "RollApp X",
   "rpc": "https://rpc.rolxtwo.evm.ra.blumbus.noisnemyd.xyz",
   "rest": "https://rest.rolxtwo.evm.ra.blumbus.noisnemyd.xyz",
   "bech32Prefix": "rolx",
