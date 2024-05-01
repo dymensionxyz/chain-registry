@@ -1,8 +1,8 @@
 {
   "chainId": "nim_1122-1",
   "chainName": "Nim Network",
-  "rpc": "https://rpc.nim.evm.ra.mainnet.noisnemyd.xyz",
-  "rest": "https://rest.nim.evm.ra.mainnet.noisnemyd.xyz",
+  "rpc": "https://nim-mainnet-tendermint.public.blastapi.io",
+  "rest": "https://nim-mainnet-rest.public.blastapi.io",
   "bech32Prefix": "nim",
   "website": "https://ai.nim.network/",
   "explorerUrl": "https://dym.fyi/r/nim",
@@ -10,7 +10,7 @@
   "da": "Celestia",
   "evm": {
     "chainId": "0x462",
-    "rpc": "https://json-rpc.nim.evm.ra.mainnet.noisnemyd.xyz"
+    "rpc": "https://nim-mainnet.public.blastapi.io"
   },
   "currencies": [
     {
