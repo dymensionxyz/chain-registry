@@ -36,7 +36,7 @@
   },
   "logo": "/logos/logo.png",
   "type": "RollApp",
-  "active": false,
+  "active": true,
   "analytics": true,
   "collectData": true
 }
