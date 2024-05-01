@@ -1,0 +1,41 @@
+{
+  "chainId": "nim_1122-1",
+  "chainName": "Nim Network",
+  "rpc": "https://rpc.nim.evm.ra.mainnet.noisnemyd.xyz",
+  "rest": "https://rest.nim.evm.ra.mainnet.noisnemyd.xyz",
+  "bech32Prefix": "nim",
+  "website": "https://ai.nim.network/",
+  "da": "Celestia",
+  "evm": {
+    "chainId": "0x462",
+    "rpc": "https://json-rpc.nim.evm.ra.mainnet.noisnemyd.xyz"
+  },
+  "currencies": [
+    {
+      "displayDenom": "NIM",
+      "baseDenom": "anim",
+      "decimals": 18,
+      "logo": "/logos/logo.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "gasAdjustment": 1.5,
+  "faucetUrl": "",
+  "ibc": {
+    "timeout": 600000,
+    "hubChannel": "channel-49",
+    "channel": "channel-0"
+  },
+  "gasPriceSteps": {
+    "low": 10000000000,
+    "average": 10000000000,
+    "high": 10000000000
+  },
+  "logo": "/logos/logo.png",
+  "type": "RollApp",
+  "staging": true,
+  "active": false,
+  "analytics": true,
+  "collectData": true
+}
