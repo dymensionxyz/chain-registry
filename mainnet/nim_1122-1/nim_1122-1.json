@@ -5,6 +5,8 @@
   "rest": "https://rest.nim.evm.ra.mainnet.noisnemyd.xyz",
   "bech32Prefix": "nim",
   "website": "https://ai.nim.network/",
+  "explorerUrl": "https://dym.fyi/r/nim",
+  "exploreTxUrl": "https://dym.fyi/r/nim/tx/",
   "da": "Celestia",
   "evm": {
     "chainId": "0x462",
