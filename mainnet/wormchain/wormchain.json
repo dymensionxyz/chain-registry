@@ -18,7 +18,7 @@
     ],
     "coinType": 118,
     "ibc": {
-        "timeout": 720000,
+        "timeout": 600000,
         "hubChannel": "channel-36",
         "channel": "channel-15"
     },
