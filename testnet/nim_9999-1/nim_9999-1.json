@@ -1,6 +1,6 @@
 {
   "chainId": "nim_9999-1",
-  "chainName": "NIMTWO",
+  "chainName": "NIM",
   "rpc": "https://rpc.nimtwo.evm.ra.blumbus.noisnemyd.xyz",
   "rest": "https://rest.nimtwo.evm.ra.blumbus.noisnemyd.xyz",
   "bech32Prefix": "nim",
@@ -12,7 +12,7 @@
   },
   "currencies": [
     {
-      "displayDenom": "NIMTWO",
+      "displayDenom": "NIM",
       "baseDenom": "anim",
       "decimals": 18,
       "logo": "/logos/logo.png",
