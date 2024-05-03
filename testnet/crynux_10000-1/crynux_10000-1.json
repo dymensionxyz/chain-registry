@@ -4,7 +4,7 @@
   "rpc": "https://rpc.crynux.evm.ra.blumbus.noisnemyd.xyz",
   "rest": "https://rest.crynux.evm.ra.blumbus.noisnemyd.xyz",
   "bech32Prefix": "cry",
-  "website": "https://ai.nim.network/",
+  "website": "https://crynux.ai/",
   "da": "Celestia",
   "evm": {
     "chainId": "0x2710",
