@@ -27,7 +27,8 @@
   "ibc": {
     "timeout": 600000,
     "hubChannel": "channel-49",
-    "channel": "channel-0"
+    "channel": "channel-0",
+    "flushUrl": "https://relayer.nim.evm.ra.mainnet.noisnemyd.xyz/flush-ra"
   },
   "gasPriceSteps": {
     "low": 10000000000,
