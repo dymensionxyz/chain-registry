@@ -13,7 +13,7 @@
   "currencies": [
     {
       "displayDenom": "nDYM",
-      "baseDenom": "andym",
+      "baseDenom": "undym",
       "decimals": 18,
       "logo": "/logos/logo.png",
       "type": "main"
