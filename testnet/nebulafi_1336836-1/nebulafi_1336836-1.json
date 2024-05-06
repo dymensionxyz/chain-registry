@@ -12,8 +12,8 @@
   },
   "currencies": [
     {
-      "displayDenom": "NBL",
-      "baseDenom": "anbl",
+      "displayDenom": "NEB",
+      "baseDenom": "aneb",
       "decimals": 18,
       "logo": "/logos/logo.png",
       "type": "main"
