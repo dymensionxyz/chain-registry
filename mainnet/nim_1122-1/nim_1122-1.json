@@ -1,43 +1,43 @@
 {
-  "chainId": "nim_1122-1",
-  "chainName": "Nim Network",
-  "rpc": "https://nim-mainnet-tendermint.public.blastapi.io",
-  "rest": "https://nim-mainnet-rest.public.blastapi.io",
-  "bech32Prefix": "nim",
-  "website": "https://ai.nim.network/",
-  "explorerUrl": "https://dym.fyi/r/nim",
-  "exploreTxUrl": "https://dym.fyi/r/nim/tx/",
-  "da": "Celestia",
-  "evm": {
-    "chainId": "0x462",
-    "rpc": "https://nim-mainnet.public.blastapi.io"
-  },
-  "currencies": [
-    {
-      "displayDenom": "NIM",
-      "baseDenom": "anim",
-      "decimals": 18,
-      "logo": "/logos/logo.png",
-      "type": "main"
-    }
-  ],
-  "coinType": 60,
-  "gasAdjustment": 1.5,
-  "faucetUrl": "",
-  "ibc": {
-    "timeout": 600000,
-    "hubChannel": "channel-49",
-    "channel": "channel-0",
-    "flushUrl": "https://relayer.nim.evm.ra.mainnet.noisnemyd.xyz/flush-ra"
-  },
-  "gasPriceSteps": {
-    "low": 10000000000,
-    "average": 10000000000,
-    "high": 10000000000
-  },
-  "logo": "/logos/logo.png",
-  "type": "RollApp",
-  "active": true,
-  "analytics": true,
-  "collectData": true
+    "chainId": "nim_1122-1",
+    "chainName": "Nim Network",
+    "rpc": "https://nim-mainnet-tendermint.public.blastapi.io",
+    "rest": "https://nim-mainnet-rest.public.blastapi.io",
+    "bech32Prefix": "nim",
+    "website": "https://ai.nim.network/",
+    "explorerUrl": "https://dym.fyi/r/nim",
+    "exploreTxUrl": "https://dym.fyi/r/nim/tx/",
+    "da": "Celestia",
+    "evm": {
+        "chainId": "0x462",
+        "rpc": "https://nim-mainnet.public.blastapi.io"
+    },
+    "currencies": [
+        {
+            "displayDenom": "NIM",
+            "baseDenom": "anim",
+            "decimals": 18,
+            "logo": "/logos/logo.png",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "gasAdjustment": 1.5,
+    "faucetUrl": "",
+    "ibc": {
+        "timeout": 600000,
+        "hubChannel": "channel-49",
+        "channel": "channel-0",
+        "flushUrl": "https://relayer.nim.evm.ra.mainnet.noisnemyd.xyz"
+    },
+    "gasPriceSteps": {
+        "low": 10000000000,
+        "average": 10000000000,
+        "high": 10000000000
+    },
+    "logo": "/logos/logo.png",
+    "type": "RollApp",
+    "active": true,
+    "analytics": true,
+    "collectData": true
 }

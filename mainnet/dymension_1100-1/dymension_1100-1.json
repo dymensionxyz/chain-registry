@@ -27,7 +27,7 @@
     "validatorsLogosStorageDir": "hub",
     "ibc": {
         "timeout": 600000,
-        "flushUrl": "https://relayer.nim.evm.ra.mainnet.noisnemyd.xyz/flush-hub"
+        "flushUrl": "https://relayer.nim.evm.ra.mainnet.noisnemyd.xyz"
     },
     "gasPriceSteps": {
         "low": 20000000000,
