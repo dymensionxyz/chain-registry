@@ -12,8 +12,8 @@
   },
   "currencies": [
     {
-      "displayDenom": "CRY",
-      "baseDenom": "acry",
+      "displayDenom": "CNX",
+      "baseDenom": "acnx",
       "decimals": 18,
       "logo": "/logos/logo.png",
       "type": "main"
