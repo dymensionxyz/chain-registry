@@ -3,7 +3,7 @@
   "chainName": "Nebula Finance",
   "rpc": "https://rpc.nebula.evm.ra.blumbus.noisnemyd.xyz",
   "rest": "https://rest.nebula.evm.ra.blumbus.noisnemyd.xyz",
-  "bech32Prefix": "nbl",
+  "bech32Prefix": "neb",
   "website": "https://nebulafi.xyz/",
   "da": "Celestia",
   "evm": {
