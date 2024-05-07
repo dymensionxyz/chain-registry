@@ -3,7 +3,7 @@
   "chainName": "Nebula Finance",
   "rpc": "https://rpc.nebula.evm.ra.blumbus.noisnemyd.xyz",
   "rest": "https://rest.nebula.evm.ra.blumbus.noisnemyd.xyz",
-  "bech32Prefix": "neb",
+  "bech32Prefix": "nbl",
   "website": "https://nebulafi.xyz/",
   "da": "Celestia",
   "evm": {
@@ -12,8 +12,8 @@
   },
   "currencies": [
     {
-      "displayDenom": "nDYM",
-      "baseDenom": "undym",
+      "displayDenom": "NBL",
+      "baseDenom": "anbl",
       "decimals": 18,
       "logo": "/logos/logo.png",
       "type": "main"
@@ -34,7 +34,7 @@
   },
   "logo": "/logos/logo.png",
   "type": "RollApp",
-  "active": false,
-  "analytics": false,
-  "collectData": false
+  "active": true,
+  "analytics": true,
+  "collectData": true
 }
