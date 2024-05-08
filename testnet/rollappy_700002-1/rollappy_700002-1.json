@@ -4,12 +4,8 @@
   "rpc": "https://rpc.roly.wasm.ra.blumbus.noisnemyd.xyz",
   "rest": "https://rest.roly.wasm.ra.blumbus.noisnemyd.xyz",
   "bech32Prefix": "roly",
-  "website": "https://nebulafi.xyz/",
+  "website": "",
   "da": "Celestia",
-  "evm": {
-    "chainId": "0x1465FF",
-    "rpc": "https://json-rpc.roly.wasm.ra.blumbus.noisnemyd.xyz/"
-  },
   "currencies": [
     {
       "displayDenom": "ROLY",
