@@ -1,6 +1,6 @@
 {
   "chainId": "rollappy_700002-1",
-  "chainName": "Rollapp Y",
+  "chainName": "RollApp Y",
   "rpc": "https://rpc.roly.wasm.ra.blumbus.noisnemyd.xyz",
   "rest": "https://rest.roly.wasm.ra.blumbus.noisnemyd.xyz",
   "bech32Prefix": "roly",
