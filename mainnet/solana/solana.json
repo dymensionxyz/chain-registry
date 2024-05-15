@@ -19,7 +19,7 @@
             "solanaMintAccount": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
         }
     ],
-    "active": false,
+    "active": true,
     "staging": true,
     "logo": "/logos/solana.svg",
     "type": "Solana",
