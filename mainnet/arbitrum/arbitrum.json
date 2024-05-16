@@ -1,5 +1,5 @@
 {
-    "chainId": "42161",
+    "chainId": "arbitrum",
     "chainName": "Arbitrum",
     "explorerUrl": "https://arbiscan.io/",
     "exploreTxUrl": "https://arbiscan.io/tx/",
