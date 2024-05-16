@@ -1,0 +1,29 @@
+{
+    "chainId": "base",
+    "chainName": "Base",
+    "explorerUrl": "https://base.blockscout.com",
+    "exploreTxUrl": "https://base.blockscout.com/tx/",
+    "evm": {
+        "chainId": "0x2105"
+    },
+    "ibc": {
+        "allowedDenoms": ["uusdc"]
+    },
+    "currencies": [
+        {
+            "displayDenom": "USDC",
+            "baseDenom": "uusdc",
+            "ibcRepresentation": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
+            "bridgeDenom": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+            "decimals": 6,
+            "logo": "/logos/usdc-logo.svg",
+            "type": "regular",
+            "cctp": true
+        }
+    ],
+    "active": false,
+    "staging": true,
+    "logo": "/logos/base-logo.svg",
+    "type": "EVM",
+    "website": "https://www.base.org/"
+}
