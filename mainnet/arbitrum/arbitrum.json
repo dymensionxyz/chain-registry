@@ -14,7 +14,7 @@
             "displayDenom": "USDC",
             "baseDenom": "uusdc",
             "ibcRepresentation": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
-            "bridgeDenom": "0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48",
+            "bridgeDenom": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
             "decimals": 6,
             "logo": "/logos/usdc-logo.svg",
             "type": "regular",
