@@ -1,0 +1,29 @@
+{
+    "chainId": "optimism",
+    "chainName": "Optimism",
+    "explorerUrl": "https://optimistic.etherscan.io/",
+    "exploreTxUrl": "https://optimistic.etherscan.io/tx/",
+    "evm": {
+        "chainId": "0xa"
+    },
+    "ibc": {
+        "allowedDenoms": ["uusdc"]
+    },
+    "currencies": [
+        {
+            "displayDenom": "USDC",
+            "baseDenom": "uusdc",
+            "ibcRepresentation": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
+            "bridgeDenom": "0x0b2C639c533813f4Aa9D7837CAf62653d097Ff85",
+            "decimals": 6,
+            "logo": "/logos/usdc-logo.svg",
+            "type": "regular",
+            "cctp": true
+        }
+    ],
+    "active": false,
+    "staging": true,
+    "logo": "/logos/optimism-logo.svg",
+    "type": "EVM",
+    "website": "https://www.optimism.io/"
+}
