@@ -22,7 +22,7 @@
         }
     ],
     "active": false,
-    "staging": false,
+    "staging": true,
     "logo": "/logos/arbitrum-arb-logo.svg",
     "type": "EVM",
     "website": "https://arbitrum.io/"
