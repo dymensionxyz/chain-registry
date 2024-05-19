@@ -39,5 +39,6 @@
     "type": "RollApp",
     "active": true,
     "analytics": true,
-    "collectData": true
+    "collectData": true,
+    "shortDescription": "NIM network unlocks AI ownership with games"
 }
