@@ -1,8 +1,8 @@
 {
   "chainId": "koltigin_1540493-1",
   "chainName": "KolTigin",
-  "rpc": "https://froopyland.dymension.xyz/9/koltigin_1540493-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/9/koltigin_1540493-1/rest",
+  "rpc": "https://avail.rpc.koltigin.fun",
+  "rest": "https://avail.rest.koltigin.fun",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -14,8 +14,8 @@
     }
   ],
   "coinType": 60,
-  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
-  "website": "",
+  "faucetUrl": "https://dymension-faucet.koltigin.fun",
+  "website": "https://dymension.koltigin.fun",
   "logo": "/logos/koltigin_1540493-1.png",
   "ibc": {
     "hubChannel": "channel-6041",
@@ -24,10 +24,12 @@
   },
   "evm": {
     "chainId": "0x17818d",
-    "rpc": "https://froopyland.dymension.xyz/9/koltigin_1540493-1/evmrpc"
+    "rpc": "https://avail.evmrpc.koltigin.fun"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true
+  "da": "Avail",
+  "description": "Always forward with the Anatolian Team",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CwAzDdtkhYUVHnGeUcob8k2uyJPHH2TxXGhwEdCnnUZqxpc"
 }
