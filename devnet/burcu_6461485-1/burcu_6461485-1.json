@@ -15,7 +15,7 @@
   ],
   "coinType": 60,
   "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
-  "website": "",
+  "website": "https://dragon-nft-eosin.vercel.app/",
   "logo": "/logos/burcu_6461485-1.jpg",
   "ibc": {
     "hubChannel": "channel-5463",
@@ -27,8 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/4/burcu_6461485-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true,
-  "rewards": true
+  "goldberg": true,
+  "availAddress": "5ES2EeFSn6ZS3NeYmqYMtUiss8KHu9H7z8s6QUk8PBSYWvcc",
+  "analytics": true
 }
