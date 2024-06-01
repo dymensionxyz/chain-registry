@@ -1,0 +1,33 @@
+{
+  "chainId": "hodor_1665461-1",
+  "chainName": "hodor_1665461-1",
+  "rpc": "https://rabin1.com/status",
+  "rest": "https://rabin1.com/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HDR",
+      "baseDenom": "uHDR",
+      "decimals": 18,
+      "logo": "/logos/hodor_1665461-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://twitter.com/hood0r",
+  "logo": "/logos/hodor_1665461-1.png",
+  "ibc": {
+    "hubChannel": "channel-9577",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1969b5",
+    "rpc": "https://rabin1.com/evm"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "this app build with Love!",
+  "analytics": true
+}
