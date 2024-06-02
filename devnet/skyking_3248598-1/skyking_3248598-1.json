@@ -1,0 +1,33 @@
+{
+  "chainId": "skyking_3248598-1",
+  "chainName": "skyking_3248598-1",
+  "rpc": "http://149.102.140.118:26657"
+  "rest": "http://149.102.140.118:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SKY",
+      "baseDenom": "uSKY",
+      "decimals": 18,
+      "logo": "/logos/skyking_3248598-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/skyking_3248598-1.png",
+  "ibc": {
+    "hubChannel": "channel-9291",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x3191d6",
+    "rpc": "http://149.102.140.118:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
