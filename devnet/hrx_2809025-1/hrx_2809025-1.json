@@ -1,8 +1,8 @@
 {
   "chainId": "hrx_2809025-1",
   "chainName": "hrx_2809025-1",
-  "rpc": "http://45.14.194.111:26657",
-  "rest": "http://45.14.194.111:1317",
+  "rpc": "https://rpc.herculesrollap.store",
+  "rest": "https://rest.herculesrollap.store",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x2adcc1",
-    "rpc": "http://45.14.194.111:8545"
+    "rpc": "https://evmrpc.herculesrollap.store"
   },
   "type": "RollApp",
   "da": "Avail",
