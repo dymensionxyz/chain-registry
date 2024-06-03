@@ -1,8 +1,8 @@
 {
   "chainId": "hurber_7215204-1",
-  "chainName": "Hurber",
-  "rpc": "https://froopyland.dymension.xyz/11/hurber_7215204-1/rpc",
-  "rest": "https://froopyland.dymension.xyz/11/hurber_7215204-1/rest",
+  "chainName": "hurber_7215204-1",
+  "rpc": "https://65.108.151.33:26657",
+  "rest": "https://65.108.151.33:1317",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,11 +24,13 @@
   },
   "evm": {
     "chainId": "0x6e1864",
-    "rpc": "https://froopyland.dymension.xyz/11/hurber_7215204-1/evmrpc"
+    "rpc": "https://65.108.151.33:8545"
   },
   "type": "RollApp",
-  "da": "Celestia",
+  "da": "Avail",
   "description": "",
-  "analytics": true
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "<5EFZmpRrxDQkuUVGaE36g3FynzuKRXfjJgu8CKoKupj81iZb>"
 }
 
