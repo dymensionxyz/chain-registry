@@ -4,7 +4,7 @@
   "rpc": "https://rpc.mande.evm.ra.blumbus.noisnemyd.xyz",
   "rest": "https://rest.mande.evm.ra.blumbus.noisnemyd.xyz",
   "bech32Prefix": "mande",
-  "website": "https://docs.dymension.xyz",
+  "website": "https://mande.network/",
   "da": "Celestia",
   "evm": {
     "chainId": "0x186A4",
