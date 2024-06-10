@@ -1,14 +1,14 @@
 {
   "chainId": "mande_18071918-1",
   "chainName": "Mande",
-  "rpc": "https://rpc.mande.evm.ra.mainnet.noisnemyd.xyz",
-  "rest": "https://rest.mande.evm.ra.mainnet.noisnemyd.xyz",
+  "rpc": "",
+  "rest": "",
   "bech32Prefix": "mande",
   "website": "https://mande.network/",
   "da": "Celestia",
   "evm": {
     "chainId": "0x113C16E",
-    "rpc": "https://json-rpc.mande.evm.ra.mainnet.noisnemyd.xyz"
+    "rpc": ""
   },
   "currencies": [
     {
