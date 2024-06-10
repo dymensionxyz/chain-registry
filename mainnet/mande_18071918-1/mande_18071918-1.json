@@ -19,6 +19,38 @@
       "type": "main"
     }
   ],
+"apps": [
+    {
+        "name": "Trustdrops",
+        "description": "A credibility staking platform on Mande Network! Credibility is the currency of trust, invaluable yet hard-earned.",
+        "image": "/logos/apps/trustdrops.jpeg",
+        "url": "https://app.mande.network"
+    },
+    {
+        "name": "P2PX",
+        "description": "Fully decentralized, peer-to-peer on/off ramp, for developing countries.",
+        "image": "/logos/apps/p2px.jpeg",
+        "url": "https://www.p2px.finance"
+    },
+    {
+        "name": "Zerolend",
+        "description": "Decentralised Micro-Finance Protocol (Non-collateral lending)",
+        "image": "/logos/apps/zerolend.jpeg",
+        "url": "https://www.zerolend.pro"
+    },
+    {
+        "name": "Modelverse",
+        "description": "Decentralised AI-as-a-Service Marketplace.",
+        "image": "/logos/apps/modelverse.jpeg",
+        "url": "https://www.modelverse.xyz"
+    },
+    {
+        "name": "Sakura",
+        "description": "Privacy preserving Dating app with Zk-Credentials!",
+        "image": "/logos/apps/sakura.jpeg",
+        "url": "https://www.sakura.community"
+    }
+],
   "coinType": 60,
   "gasAdjustment": 1.5,
   "faucetUrl": "",
