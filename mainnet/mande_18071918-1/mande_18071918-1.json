@@ -1,0 +1,41 @@
+{
+  "chainId": "mande_18071918-1",
+  "chainName": "Mande",
+  "rpc": "https://rpc.mande.evm.ra.mainnet.noisnemyd.xyz",
+  "rest": "https://rest.mande.evm.ra.mainnet.noisnemyd.xyz",
+  "bech32Prefix": "mande",
+  "website": "https://mande.network/",
+  "da": "Celestia",
+  "evm": {
+    "chainId": "0x113C16E",
+    "rpc": "https://json-rpc.mande.evm.ra.mainnet.noisnemyd.xyz"
+  },
+  "currencies": [
+    {
+      "displayDenom": "MAND",
+      "baseDenom": "amand",
+      "decimals": 18,
+      "logo": "/logos/logo.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "gasAdjustment": 1.5,
+  "faucetUrl": "",
+  "ibc": {
+    "timeout": 600000,
+    "hubChannel": "channel-51",
+    "channel": "channel-0"
+  },
+  "gasPriceSteps": {
+    "low": 10000000000,
+    "average": 10000000000,
+    "high": 10000000000
+  },
+  "logo": "/logos/logo.png",
+  "type": "RollApp",
+  "active": false,
+  "analytics": false,
+  "collectData": true,
+  "staging": true
+}
