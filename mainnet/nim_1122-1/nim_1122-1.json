@@ -6,7 +6,7 @@
     "bech32Prefix": "nim",
     "website": "https://nim.network/",
     "explorerUrl": "https://explorer.nim.network/",
-    "exploreTxUrl": "https://explorer.nim.network/tx/",
+    "exploreTxUrl": "https://explorer.nim.network/txs/",
     "da": "Celestia",
     "evm": {
         "chainId": "0x462",
