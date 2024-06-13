@@ -5,6 +5,8 @@
   "rest": "",
   "bech32Prefix": "mande",
   "website": "https://mande.network/",
+  "explorerUrl": "https://dym.fyi/r/mande/",
+  "exploreTxUrl": "https://dym.fyi/r/mande/tx/",
   "da": "Celestia",
   "evm": {
     "chainId": "0x113C16E",
