@@ -4,7 +4,7 @@
     "rpc": "https://nim-mainnet-tendermint.public.blastapi.io",
     "rest": "https://nim-mainnet-rest.public.blastapi.io",
     "bech32Prefix": "nim",
-    "website": "https://ai.nim.network/",
+    "website": "https://nim.network/",
     "explorerUrl": "https://dym.fyi/r/nim",
     "exploreTxUrl": "https://dym.fyi/r/nim/tx/",
     "da": "Celestia",
