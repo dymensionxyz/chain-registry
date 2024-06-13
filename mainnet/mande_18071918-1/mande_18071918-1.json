@@ -68,6 +68,7 @@
   "type": "RollApp",
   "active": false,
   "analytics": true,
+  "shortDescription": "An open onchain reputation layer on Web3, recording credit scores, ratings, activities, reputation, and digital identity accomplishments.",
   "collectData": true,
   "staging": true
 }
