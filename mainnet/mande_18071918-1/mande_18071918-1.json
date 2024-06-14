@@ -1,8 +1,8 @@
 {
   "chainId": "mande_18071918-1",
   "chainName": "Mande",
-  "rpc": "",
-  "rest": "",
+  "rpc": "https://mande-mainnet-tendermint.public.blastapi.io",
+  "rest": "https://mande-mainnet-rest.public.blastapi.io",
   "bech32Prefix": "mande",
   "website": "https://mande.network/",
   "explorerUrl": "https://dym.fyi/r/mande/",
@@ -10,7 +10,7 @@
   "da": "Celestia",
   "evm": {
     "chainId": "0x113C16E",
-    "rpc": ""
+    "rpc": "https://mande-mainnet.public.blastapi.io"
   },
   "currencies": [
     {
