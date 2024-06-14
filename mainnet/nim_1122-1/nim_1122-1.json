@@ -4,9 +4,9 @@
     "rpc": "https://nim-mainnet-tendermint.public.blastapi.io",
     "rest": "https://nim-mainnet-rest.public.blastapi.io",
     "bech32Prefix": "nim",
-    "website": "https://ai.nim.network/",
-    "explorerUrl": "https://dym.fyi/r/nim",
-    "exploreTxUrl": "https://dym.fyi/r/nim/tx/",
+    "website": "https://nim.network/",
+    "explorerUrl": "https://explorer.nim.network/",
+    "exploreTxUrl": "https://explorer.nim.network/tx/",
     "da": "Celestia",
     "evm": {
         "chainId": "0x462",
