@@ -1,0 +1,40 @@
+{
+  "chainId": "lucyna_504-1",
+  "chainName": "Lucyna",
+  "rpc": "https://rpc.lucyna.evm.ra.blumbus.noisnemyd.xyz",
+  "rest": "https://rest.lucyna.evm.ra.blumbus.noisnemyd.xyz",
+  "bech32Prefix": "lucy",
+  "website": "https://docs.dymension.xyz",
+  "da": "Celestia",
+  "evm": {
+    "chainId": "0x1F8",
+    "rpc": "https://json-rpc.lucyna.evm.ra.blumbus.noisnemyd.xyz"
+  },
+  "currencies": [
+    {
+      "displayDenom": "LUCY",
+      "baseDenom": "alucy",
+      "decimals": 18,
+      "logo": "/logos/logo.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "gasAdjustment": 1.5,
+  "faucetUrl": "",
+  "ibc": {
+    "timeout": 600000,
+    "hubChannel": "channel-29",
+    "channel": "channel-0"
+  },
+  "gasPriceSteps": {
+    "low": 10000000000,
+    "average": 10000000000,
+    "high": 10000000000
+  },
+  "logo": "/logos/logo.png",
+  "type": "RollApp",
+  "active": true,
+  "analytics": true,
+  "collectData": true
+}
