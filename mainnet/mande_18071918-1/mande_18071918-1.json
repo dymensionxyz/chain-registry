@@ -42,7 +42,7 @@
     "average": 10000000000,
     "high": 10000000000
   },
-  "selfReportedCirculatingSupply": 10000000000000000000,
+  "selfReportedCirculatingSupply": 10000000,
   "logo": "/logos/logo.png",
   "type": "RollApp",
   "active": true,
