@@ -1,7 +1,7 @@
 {
     "chainId": "blumbus_111-1",
     "chainName": "Dymension Blumbus",
-    "rpc": "https://blumbus.blockpi.network/rpc/v1/6da67406c258d5e7849590c843ae7d7324d03079",
+    "rpc": "https://dymension-testnet-tendermint.public.blastapi.io",
     "rest": "https://blumbus.blockpi.network/lcd/v1/6da67406c258d5e7849590c843ae7d7324d03079",
     "collectData": true,
     "evm": {
