@@ -1,12 +1,12 @@
 {
     "chainId": "dymension_100-1",
-    "rpc": "https://rpc.tzachi.hub.dev.noisnemyd.xyz",
-    "rest": "https://rest.tzachi.hub.dev.noisnemyd.xyz",
+    "rpc": "http://rpc-dymension-pg.mzonder.com:36657",
+    "rest": "http://api-dymension-pg.mzonder.com:1318",
         "chainName": "Dymension Test",
     "bech32Prefix": "dym",
     "evm": {
         "chainId": "0x64",
-        "rpc": "https://json-rpc.tzachi.hub.dev.noisnemyd.xyz"
+        "rpc": "http://jsonrpc-dymension-pg.mzonder.com:9546"
     },
     "currencies": [
         {
