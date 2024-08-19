@@ -23,10 +23,16 @@
   ],
 "apps": [
     {
-        "name": "Trustdrops",
+        "name": "Credibility staking",
         "description": "A credibility staking platform on Mande Network! Credibility is the currency of trust, invaluable yet hard-earned.",
         "image": "/logos/apps/trustdrops.jpg",
         "url": "https://app.mande.network"
+    },
+   {
+        "name": "Credible Mandela",
+        "description": "Homepage of Mande Network",
+        "image": "/logos/apps/credible-mandela.jpg",
+        "url": "https://crediblemandela.xyz/"
     }
 ],
   "coinType": 60,
@@ -42,6 +48,7 @@
     "average": 10000000000,
     "high": 10000000000
   },
+  "selfReportedCirculatingSupply": 10000000,
   "logo": "/logos/logo.png",
   "type": "RollApp",
   "active": true,

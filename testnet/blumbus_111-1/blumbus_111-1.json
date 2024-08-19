@@ -1,12 +1,12 @@
 {
     "chainId": "blumbus_111-1",
     "chainName": "Dymension Blumbus",
-    "rpc": "https://blumbus.blockpi.network/rpc/v1/6da67406c258d5e7849590c843ae7d7324d03079",
-    "rest": "https://blumbus.blockpi.network/lcd/v1/6da67406c258d5e7849590c843ae7d7324d03079",
+    "rpc": "https://dymension-testnet-tendermint.blastapi.io/291f79ab-77c1-4c90-b769-8218b1816f5c",
+    "rest": "https://dymension-testnet-rest.blastapi.io/291f79ab-77c1-4c90-b769-8218b1816f5c",
     "collectData": true,
     "evm": {
         "chainId": "0x6F",
-        "rpc": "https://blumbus-evm.blockpi.network/v1/rpc/dbeb685fec89bc544f4316bd1b70e9eb4c23df89"
+        "rpc": "https://dymension-testnet.blastapi.io/291f79ab-77c1-4c90-b769-8218b1816f5c"
     },
     "explorerUrl": "https://bb.dym.fyi",
     "exploreTxUrl": "https://bb.dym.fyi/tx/",
