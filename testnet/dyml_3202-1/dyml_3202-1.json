@@ -6,7 +6,7 @@
   "collectData": true,
   "evm": {
     "chainId": "0xC82",
-    "rpc": "https://rpc-apollo.dymension-league.xyz"
+    "rpc": "https://evm-rpc-apollo.dymension-league.xyz"
   },
   "bech32Prefix": "dyml",
   "currencies": [
