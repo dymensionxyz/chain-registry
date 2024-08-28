@@ -1,0 +1,33 @@
+{
+  "chainId": "dyml_3202-1",
+  "chainName": "Dymension League - Apollo",
+  "rpc": "https://rpc-apollo.dymension-league.xyz",
+  "rest": "https://api-apollo.dymension-league.xyz",
+  "collectData": true,
+  "evm": {
+    "chainId": "0xC82",
+    "rpc": "https://evm-rpc-apollo.dymension-league.xyz"
+  },
+  "bech32Prefix": "dyml",
+  "currencies": [
+    {
+      "displayDenom": "DYML",
+      "baseDenom": "adyml",
+      "decimals": 18,
+      "logo": "/logos/dymension-league-logo.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "validatorsLogosStorageDir": "hub",
+  "faucetUrl": "https://faucet.dymension-league.xyz/",
+  "gasPriceSteps": {
+    "low": 20000000000,
+    "average": 20000000000,
+    "high": 20000000000
+  },
+  "logo": "/logos/dymension-league-logo.png",
+  "type": "Hub",
+  "analytics": true,
+  "website": "https://testnet.dymension.xyz"
+}
