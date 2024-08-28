@@ -19,12 +19,17 @@
     }
   ],
   "coinType": 60,
-  "validatorsLogosStorageDir": "hub",
+  "gasAdjustment": 1.5,
   "faucetUrl": "https://faucet.dymension-league.xyz/",
   "gasPriceSteps": {
     "low": 20000000000,
     "average": 20000000000,
     "high": 20000000000
+  },
+    "ibc": {
+    "timeout": 600000,
+    "hubChannel": "",
+    "channel": "channel-0"
   },
   "logo": "/logos/dymension-league-logo.png",
   "type": "RollApp",
