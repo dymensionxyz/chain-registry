@@ -27,7 +27,7 @@
     "high": 20000000000
   },
   "logo": "/logos/dymension-league-logo.png",
-  "type": "Hub",
+  "type": "RollApp",
   "active":true,
   "analytics": true,
   "website": "https://testnet.dymension.xyz"
