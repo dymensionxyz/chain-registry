@@ -28,6 +28,7 @@
   },
   "logo": "/logos/dymension-league-logo.png",
   "type": "Hub",
+  "active":true,
   "analytics": true,
   "website": "https://testnet.dymension.xyz"
 }
