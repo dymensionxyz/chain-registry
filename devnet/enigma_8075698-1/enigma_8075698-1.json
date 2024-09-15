@@ -28,7 +28,9 @@
   },
   "type": "RollApp",
   "da": "Avail",
-  "description": "",
+  "description": "Enigma's Rollapp",
   "analytics": true,
+  "goldberg": true,
+  "availAddress": "5E7MFFGw9QptcpELtAHBnt4xgt9jdRqMAQn4q5tvXWvUPvyo"
   "validator": true
 }
