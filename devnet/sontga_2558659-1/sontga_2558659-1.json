@@ -1,0 +1,35 @@
+{
+  "chainId": "sontga_2558659-1",
+  "chainName": "sontga_2558659-1",
+  "rpc": "https://rpc.rollapdymentionavail.xyz",
+  "rest": "https://rest.rollapdymentionavail.xyz",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SON",
+      "baseDenom": "uSON",
+      "decimals": 18,
+      "logo": "/logos/sontga_2558659-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/sontga_2558659-1.png",
+  "ibc": {
+    "hubChannel": "channel-9486",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x270ac3",
+    "rpc": "https://evm.rollapdymentionavail.xyz"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DJXDStAHRmz2u9NvTuVjom85m6GtRCuP58853peNdzGdBMH"
+}
