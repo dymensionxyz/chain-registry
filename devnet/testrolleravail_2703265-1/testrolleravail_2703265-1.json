@@ -1,8 +1,8 @@
 {
   "chainId": "testrolleravail_2703265-1",
   "chainName": "SuperChain",
-  "rpc": "http://84.247.168.31:26657",
-  "rest": "http://84.247.168.31:1317",
+  "rpc": "https://rpc-superchain.tilapialabs.xyz/",
+  "rest": "https://api-superchain.tilapialabs.xyz/",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x293fa1",
-    "rpc": "http://84.247.168.31:8545"
+    "rpc": "https://jsonrpc-superchain.tilapialabs.xyz/"
   },
   "type": "RollApp",
   "da": "Avail",
