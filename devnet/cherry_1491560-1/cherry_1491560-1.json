@@ -1,8 +1,8 @@
 {
   "chainId": "cherry_1491560-1",
   "chainName": "cherry_1491560-1",
-  "rpc": "http://37.27.42.54:26657",
-  "rest": "http://37.27.42.54:1317",
+  "rpc": "https://dym-rpc.cherryvalidator.us",
+  "rest": "https://dym-rest.cherryvalidator.us",
   "bech32Prefix": "ethm",
   "currencies": [
     {
@@ -24,7 +24,7 @@
   },
   "evm": {
     "chainId": "0x16c268",
-    "rpc": "http://37.27.42.54:8545"
+    "rpc": "https://dymevm-rpc.cherryvalidator.us"
   },
   "type": "RollApp",
   "da": "Avail",
