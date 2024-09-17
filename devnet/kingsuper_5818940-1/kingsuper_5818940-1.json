@@ -1,0 +1,35 @@
+{
+  "chainId": "kingsuper_5818940-1",
+  "chainName": "KingSuper",
+  "rpc": "https://chainrpc-rollapp.kingsuper.services",
+  "rest": "https://api-rollapp.kingsuper.services",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "king",
+      "baseDenom": "uking",
+      "decimals": 18,
+      "logo": "/logos/kingsuper_5818940-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://faucet-rollapp.kingsuper.services",
+  "website": "https://rollvote.kingsuper.services",
+  "logo": "/logos/kingsuper_5818940-1.png",
+  "ibc": {
+    "hubChannel": "channel-9722",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x58ca3c",
+    "rpc": "https://rpc-rollapp.kingsuper.services"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "KingSuper Rollapp runs a custom on-chain EVM voting application which lets users post on-chain proposals and vote on them",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DwSBoPjeEg8a4uMQh5v81gB4BFEw3i62uVGDhLWwbpc8agt"
+}
