@@ -27,8 +27,9 @@
     "rpc": "https://froopyland.dymension.xyz/24/coinhunterstr_9628364-1/evmrpc"
   },
   "type": "RollApp",
-  "da": "Celestia",
-  "description": "",
-  "analytics": true,
-  "validator": true
+  "da": "Avail",
+  "description": "Coin Hunters Community",
+  "goldberg": true,
+  "availAddress": "5E7RvG9HW1jdYRYXTUKnMNC1wpip5M4gb4x5L33JJWkgwpCj",
+  "analytics": true
 }
