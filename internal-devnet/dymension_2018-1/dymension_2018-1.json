@@ -7,7 +7,7 @@
     "explorerUrl": "https://pg.dym.fyi/",
     "exploreTxUrl": "https://pg.dym.fyi/tx/",
     "evm": {
-        "chainId": "0x64",
+        "chainId": "0x7E2",
         "rpc": "https://jsonrpc-dymension-playground.mzonder.com"
     },
     "currencies": [
