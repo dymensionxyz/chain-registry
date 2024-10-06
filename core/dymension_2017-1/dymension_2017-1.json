@@ -19,10 +19,10 @@
             "type": "main"
         }
     ],
-    "coinType": 60,
     "ibc": {
         "timeout": 172800000
     },
+    "coinType": 60,
     "gasPriceSteps": {
         "low": 20000000000,
         "average": 20000000000,
