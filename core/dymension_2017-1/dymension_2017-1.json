@@ -1,0 +1,37 @@
+{
+    "chainId": "dymension_2017-1",
+    "rpc": "https://rpc-dymension-playground-internal.mzonder.com",
+    "rest": "https://api-dymension-playground-internal.mzonder.com",
+    "bech32Prefix": "dym",
+    "chainName": "Dymension Test",
+    "explorerUrl": "https://pg.dym.fyi/",
+    "exploreTxUrl": "https://pg.dym.fyi/tx/",
+    "evm": {
+        "chainId": "0x7E1",
+        "rpc": "https://jsonrpc-dymension-playground-internal.mzonder.com"
+    },
+    "currencies": [
+        {
+            "displayDenom": "DYM",
+            "baseDenom": "adym",
+            "decimals": 18,
+            "logo": "/logos/dymension-logo.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 60,
+    "ibc": {
+        "timeout": 172800000
+    },
+    "gasPriceSteps": {
+        "low": 20000000000,
+        "average": 20000000000,
+        "high": 20000000000
+    },
+    "logo": "/logos/dymension-logo.svg",
+    "type": "Hub",
+    "analytics": true,
+    "common": true,
+    "collectData": true,
+    "website": "https://internal-devnet.dymension.xyz"
+}
