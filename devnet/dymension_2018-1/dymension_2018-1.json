@@ -35,5 +35,5 @@
     "analytics": true,
     "common": true,
     "collectData": true,
-    "website": "https://internal-devnet.dymension.xyz"
+    "website": "https://playground.dymension.xyz"
 }
