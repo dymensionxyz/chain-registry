@@ -2,8 +2,8 @@
     "chainId": "dymension_2018-1",
     "rpc": "https://rpc-dymension-playground.mzonder.com",
     "rest": "https://api-dymension-playground.mzonder.com",
-    "bech32Prefix": "dym",
     "chainName": "Dymension Test",
+    "bech32Prefix": "dym",
     "explorerUrl": "https://pg.dym.fyi/",
     "exploreTxUrl": "https://pg.dym.fyi/tx/",
     "evm": {
