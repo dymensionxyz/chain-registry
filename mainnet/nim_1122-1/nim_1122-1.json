@@ -10,7 +10,7 @@
     "da": "Celestia",
     "evm": {
         "chainId": "0x462",
-        "rpc": "https://nim-mainnet.public.blastapi.io"
+        "rpc": "https://evm-rpc.mainnet.nimnet.tech"
     },
     "currencies": [
         {
