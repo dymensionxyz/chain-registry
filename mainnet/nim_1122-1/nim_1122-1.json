@@ -1,8 +1,8 @@
 {
     "chainId": "nim_1122-1",
     "chainName": "Nim Network",
-    "rpc": "https://nim-mainnet-tendermint.public.blastapi.io",
-    "rest": "https://nim-mainnet-rest.public.blastapi.io",
+    "rpc": "https://rpc.mainnet.nimnet.tech",
+    "rest": "https://rest.mainnet.nimnet.tech",
     "bech32Prefix": "nim",
     "website": "https://nim.network/",
     "explorerUrl": "https://explorer.nim.network/",
