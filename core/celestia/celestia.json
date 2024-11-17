@@ -1,0 +1,35 @@
+{
+    "chainId": "celestia",
+    "chainName": "Celestia",
+    "rpc": "https://public-celestia-rpc.numia.xyz",
+    "rest": "https://public-celestia-lcd.numia.xyz",
+    "explorerUrl": "https://www.mintscan.io/celestia/",
+    "exploreTxUrl": "https://www.mintscan.io/celestia/tx/",
+    "active": true,
+    "bech32Prefix": "celestia",
+    "currencies": [
+        {
+            "displayDenom": "TIA",
+            "baseDenom": "utia",
+            "decimals": 6,
+            "logo": "/logos/celestia-logo-purple.svg",
+            "type": "main",
+            "common": true
+        }
+    ],
+    "coinType": 118,
+    "ibc": {
+        "timeout": 600000,
+        "hubChannel": "channel-4",
+        "channel": "channel-27",
+        "allowedDenoms": ["utia"]
+    },
+    "gasPriceSteps": {
+        "low": 0.01,
+        "average": 0.02,
+        "high": 0.1
+    },
+    "logo": "/logos/celestia-logo-purple.svg",
+    "type": "Regular",
+    "website": "https://celestia.org/"
+}

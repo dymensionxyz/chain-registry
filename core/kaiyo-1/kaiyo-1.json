@@ -1,0 +1,35 @@
+{
+    "chainId": "kaiyo-1",
+    "chainName": "Kujira",
+    "rpc": "https://rpc-kujira.whispernode.com:443",
+    "rest": "https://lcd-kujira.whispernode.com:443",
+    "explorerUrl": "https://finder.kujira.app/",
+    "bech32Prefix": "kuji",
+    "exploreTxUrl": "https://finder.kujira.app/kaiyo-1/tx/",
+    "active": true,
+    "staging": true,
+    "currencies": [
+        {
+            "displayDenom": "Kuji",
+            "baseDenom": "ukuji",
+            "decimals": 6,
+            "logo": "/logos/kuji.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 118,
+    "ibc": {
+        "timeout": 600000,
+        "hubChannel": "channel-10",
+        "channel": "channel-160",
+        "allowedDenoms": ["ukuji", "adym"]
+    },
+    "gasPriceSteps": {
+        "low": 0.0034,
+        "average": 0.0051,
+        "high": 0.00681
+    },
+    "website": "https://kujira.app/",
+    "logo": "/logos/kuji.svg",
+    "type": "Regular"
+}
