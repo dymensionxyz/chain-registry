@@ -1,14 +1,14 @@
 {
-    "chainId": "dymension_2017-1",
-    "rpc": "https://rpc-dymension-playground-internal.mzonder.com",
-    "rest": "https://api-dymension-playground-internal.mzonder.com",
+    "chainId": "dymension_1405-1",
+    "rpc": "https://rpc-dym-migration-test.mzonder.com",
+    "rest": "https://api-dym-migration-test.mzonder.com",
     "bech32Prefix": "dym",
     "chainName": "Dymension Core",
     "exploreTxUrl": "https://pg.dym.fyi/tx/",
     "explorerUrl": "https://pg.dym.fyi/",
     "evm": {
-        "chainId": "0x7E1",
-        "rpc": "https://jsonrpc-dymension-playground-internal.mzonder.com"
+        "chainId": "0x57D",
+        "rpc": "https://jsonrpc-dym-migration-test.mzonder.com"
     },
     "currencies": [
         {
@@ -33,5 +33,5 @@
     "analytics": true,
     "common": true,
     "collectData": true,
-    "website": "https://core.dymension.xyz"
+    "website": "https://dymension-portal-core.web.app"
 }
