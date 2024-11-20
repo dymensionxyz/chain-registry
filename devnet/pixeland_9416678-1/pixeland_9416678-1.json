@@ -1,0 +1,33 @@
+{
+  "chainId": "pixeland_9416678-1",
+  "chainName": "Pixeland",
+  "rpc": "https://pixeland.toroblocs.com/status",
+  "rest": "https://pixeland.toroblocs.com/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "PXL",
+      "baseDenom": "uPXL",
+      "decimals": 18,
+      "logo": "/logos/pixeland_9416678-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://pixeland.toroblocs.com",
+  "logo": "/logos/pixeland_9416678-1.png",
+  "ibc": {
+    "hubChannel": "channel-8971",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x8fafe6",
+    "rpc": "https://pixeland.toroblocs.com/evm"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "PXL Simple Timelock  Wallet - Lock deposits for a week or period of time after which it can be withdrawn. Time lock period can be extended",
+  "analytics": true
+}
