@@ -1,0 +1,33 @@
+{
+  "chainId": "rain_7502427-1",
+  "chainName": "rain_7502427-1",
+  "rpc": "http://37.60.252.237:26657",
+  "rest": "http://37.60.252.237:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "mom",
+      "baseDenom": "umom",
+      "decimals": 18,
+      "logo": "/logos/rain_7502427-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/rain_7502427-1.png",
+  "ibc": {
+    "hubChannel": "channel-9409",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x727a5b",
+    "rpc": "http://37.60.252.237:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
