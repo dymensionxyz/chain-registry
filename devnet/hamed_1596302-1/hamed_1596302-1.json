@@ -1,0 +1,33 @@
+{
+  "chainId": "hamed_1596302-1",
+  "chainName": "hamed_1596302-1",
+  "rpc": "http://79.98.27.190:26657",
+  "rest": "http://79.98.27.190:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HMD",
+      "baseDenom": "uHMD",
+      "decimals": 18,
+      "logo": "/logos/hamed_1596302-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/hamed_1596302-1.png",
+  "ibc": {
+    "hubChannel": "channel-8521",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x185b8e",
+    "rpc": "http://79.98.27.190:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "goldberg",
+  "analytics": true
+}
