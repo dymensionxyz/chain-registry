@@ -1,14 +1,14 @@
 {
     "chainId": "dymension_1405-1",
-    "rpc": "https://rpc-dym-migration-test.mzonder.com",
-    "rest": "https://api-dym-migration-test.mzonder.com",
+    "rpc": "https://rpc-dym-migration-test-2.mzonder.com",
+    "rest": "https://api-dym-migration-test-2.mzonder.com",
     "chainName": "Dymension Core",
     "bech32Prefix": "dym",
     "exploreTxUrl": "https://pg.dym.fyi/tx/",
     "explorerUrl": "https://pg.dym.fyi/",
     "evm": {
         "chainId": "0x57D",
-        "rpc": "https://jsonrpc-dym-migration-test.mzonder.com"
+        "rpc": "https://jsonrpc-dym-migration-test-2.mzonder.com"
     },
     "currencies": [
         {
