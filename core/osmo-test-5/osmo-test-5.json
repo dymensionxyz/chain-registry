@@ -1,8 +1,8 @@
 {
     "chainId": "osmo-test-5",
     "chainName": "Osmosis Test",
-    "rpc": "https://rpc.osmosis.zone",
-    "rest": "https://lcd.osmosis.zone",
+    "rpc": "https://rpc.testnet.osmosis.zone",
+    "rest": "https://lcd.testnet.osmosis.zone",
     "explorerUrl": "https://www.mintscan.io/osmosis/",
     "exploreTxUrl": "https://www.mintscan.io/osmosis/tx/",
     "active": true,
