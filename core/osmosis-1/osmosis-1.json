@@ -1,6 +1,6 @@
 {
-    "chainId": "osmosis-1",
-    "chainName": "Osmosis",
+    "chainId": "osmo-test-5",
+    "chainName": "Osmosis Test",
     "rpc": "https://rpc.osmosis.zone",
     "rest": "https://lcd.osmosis.zone",
     "explorerUrl": "https://www.mintscan.io/osmosis/",
@@ -33,8 +33,8 @@
     "coinType": 118,
     "ibc": {
         "timeout": 600000,
-        "hubChannel": "channel-2",
-        "channel": "channel-19774",
+        "hubChannel": "channel-53",
+        "channel": "channel-9734",
         "allowedDenoms": [
             "uosmo",
             "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
