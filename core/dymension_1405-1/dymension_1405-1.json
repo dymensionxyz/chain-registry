@@ -2,7 +2,7 @@
     "chainId": "dymension_1405-1",
     "rpc": "https://rpc-dym-migration-test-2.mzonder.com",
     "rest": "https://api-dym-migration-test-2.mzonder.com",
-    "chainName": "Dymension Core",
+    "chainName": "Dymension Testnet",
     "bech32Prefix": "dym",
     "exploreTxUrl": "https://pg.dym.fyi/tx/",
     "explorerUrl": "https://pg.dym.fyi/",
