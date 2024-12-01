@@ -1,6 +1,6 @@
 {
     "chainId": "osmo-test-5",
-    "chainName": "Osmosis Test",
+    "chainName": "Osmosis Testnet",
     "rpc": "https://rpc.testnet.osmosis.zone",
     "rest": "https://lcd.testnet.osmosis.zone",
     "explorerUrl": "https://www.mintscan.io/osmosis/",
