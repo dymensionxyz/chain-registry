@@ -11,15 +11,6 @@
     },
     "currencies": [
         {
-            "displayDenom": "ETH",
-            "baseDenom": "weth-wei",
-            "ibcRepresentation": "ibc/E3AB0DFDE9E782262B770C32DF94AC2A92B93DC4825376D6F6C874D3C877864E",
-            "bridgeDenom": "ethereum-native",
-            "decimals": 18,
-            "logo": "/logos/ethereum-logo.svg",
-            "type": "main"
-        },
-        {
             "displayDenom": "USDC",
             "baseDenom": "uusdc",
             "ibcRepresentation": "ibc/B3504E092456BA618CC28AC671A71FB08C6CA0FD0BE7C8A5B5A3E2DD933CC9E4",
