@@ -47,9 +47,9 @@
         "channel": "channel-9734",
         "allowedDenoms": [
             "uosmo",
+            "uusdc",
             "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
             "adym",
-            "uusdc",
             "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc"
         ]
     },
