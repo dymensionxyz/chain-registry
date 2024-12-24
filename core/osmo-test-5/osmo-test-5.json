@@ -1,0 +1,53 @@
+{
+    "chainId": "osmo-test-5",
+    "chainName": "Osmosis Testnet",
+    "rpc": "https://rpc.testnet.osmosis.zone",
+    "rest": "https://lcd.testnet.osmosis.zone",
+    "explorerUrl": "https://www.mintscan.io/osmosis/",
+    "exploreTxUrl": "https://www.mintscan.io/osmosis/tx/",
+    "active": true,
+    "bech32Prefix": "osmo",
+    "currencies": [
+        {
+            "displayDenom": "OSMO",
+            "baseDenom": "uosmo",
+            "decimals": 6,
+            "logo": "/logos/osmosis-logo.svg",
+            "type": "main"
+        },
+        {
+            "displayDenom": "milkTIA",
+            "baseDenom": "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
+            "decimals": 6,
+            "logo": "/logos/milkTIA-logo.svg",
+            "type": "regular"
+        },
+        {
+            "displayDenom": "WBTC",
+            "baseDenom": "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc",
+            "decimals": 8,
+            "logo": "/logos/wbtc-logo.svg",
+            "type": "regular"
+        }
+    ],
+    "coinType": 118,
+    "ibc": {
+        "timeout": 600000,
+        "hubChannel": "channel-53",
+        "channel": "channel-9734",
+        "allowedDenoms": [
+            "uosmo",
+            "factory/osmo1f5vfcph2dvfeqcqkhetwv75fda69z7e5c2dldm3kvgj23crkv6wqcn47a0/umilkTIA",
+            "adym",
+            "factory/osmo1z0qrq605sjgcqpylfl4aa6s90x738j7m58wyatt0tdzflg2ha26q67k743/wbtc"
+        ]
+    },
+    "gasPriceSteps": {
+        "low": 0.0025,
+        "average": 0.025,
+        "high": 0.04
+    },
+    "logo": "/logos/osmosis-logo.svg",
+    "type": "Regular",
+    "website": "https://osmosis.zone/"
+}
