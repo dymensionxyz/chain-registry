@@ -6,7 +6,7 @@
     "collectData": true,
     "evm": {
         "chainId": "0x6F",
-        "rpc": "jsonrpc-blumbus.mzonder.com"
+        "rpc": "https://jsonrpc-blumbus.mzonder.com"
     },
     "explorerUrl": "https://bb.dym.fyi",
     "exploreTxUrl": "https://bb.dym.fyi/tx/",
