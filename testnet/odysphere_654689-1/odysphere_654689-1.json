@@ -1,0 +1,36 @@
+{
+    "chainId": "odysphere_654689-1",
+    "chainName": "Odysphere Testnet",
+    "rpc": "https://testnet.rpc.odysphere.io",
+    "rest": "https://testnet.rest.odysphere.io",
+    "explorerUrl": "https://testnet.explorer.odysphere.io/",
+    "exploreTxUrl": "https://testnet.explorer.odysphere.io/local/tx/",
+    "bech32Prefix": "ody",
+    "currencies": [
+        {
+            "displayDenom": "Odysphere USD",
+            "baseDenom": "erc20/0x36557080D0e39Ad240bfc6E70ABef8103462d5F5",
+            "decimals": 18,
+            "logo": "/logos/odysphere-usd.jpg",
+            "type": "regular"
+        }
+    ],
+    "coinType": 118,
+    "validatorsLogosStorageDir": "",
+    "faucetUrl": "",
+    "ibc": {
+        "timeout": 600000,
+        "hubChannel": "channel-54",
+        "channel": "channel-0"
+    },
+    "gasPriceSteps": {
+        "low": 0.01,
+        "average": 0.02,
+        "high": 0.1
+    },
+    "logo": "/logos/odysphere-usd.jpg",
+    "type": "Regular",
+    "analytics": false,
+    "website": "https://odysphere.io/",
+    "xAccount": "odysphere_io"
+}
