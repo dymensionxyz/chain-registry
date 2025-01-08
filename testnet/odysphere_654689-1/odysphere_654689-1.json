@@ -1,5 +1,6 @@
 {
     "chainId": "odysphere_654689-1",
+    "partial": true,
     "currencies": [
         {
             "displayDenom": "OUSD",
