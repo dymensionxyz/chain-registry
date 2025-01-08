@@ -1,0 +1,10 @@
+{
+    "chainId": "odysphere_654689-1",
+    "currencies": [
+        {
+            "displayDenom": "OUSD",
+            "baseDenom": "erc20/0x36557080D0e39Ad240bfc6E70ABef8103462d5F5",
+            "logo": "/logos/ousd-logo.png"
+        }
+    ]
+}
