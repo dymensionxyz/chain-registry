@@ -4,10 +4,11 @@
     "explorerUrl": "https://arbiscan.io/",
     "exploreTxUrl": "https://arbiscan.io/tx/",
     "evm": {
-        "chainId": "0xa4b1"
+        "chainId": "0xa4b1",
+        "rpc": "https://blastapi.io/chains/arbitrum"
     },
     "ibc": {
-        "allowedDenoms": ["uusdc"]
+        "allowedDenoms": [ "uusdc" ]
     },
     "currencies": [
         {
