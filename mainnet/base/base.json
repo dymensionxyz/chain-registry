@@ -4,10 +4,11 @@
     "explorerUrl": "https://base.blockscout.com",
     "exploreTxUrl": "https://base.blockscout.com/tx/",
     "evm": {
-        "chainId": "0x2105"
+        "chainId": "0x2105",
+        "rpc": "https://base-mainnet.blastapi.io/dfa72e0c-8da4-4ff8-81c9-7b841eb616bb"
     },
     "ibc": {
-        "allowedDenoms": ["uusdc"]
+        "allowedDenoms": [ "uusdc" ]
     },
     "currencies": [
         {

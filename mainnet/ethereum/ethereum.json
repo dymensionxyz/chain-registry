@@ -4,7 +4,8 @@
     "explorerUrl": "https://etherscan.io/",
     "exploreTxUrl": "https://etherscan.io/tx/",
     "evm": {
-        "chainId": "0x1"
+        "chainId": "0x1",
+        "rpc": "https://arbitrum-one.blastapi.io/07fff106-52ee-4dc7-b9a6-7df1e6c40b04"
     },
     "ibc": {
         "allowedDenoms": [ "uusdc", "weth-wei", "erc20/tether/usdt" ]

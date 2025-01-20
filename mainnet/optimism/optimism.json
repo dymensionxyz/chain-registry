@@ -4,10 +4,11 @@
     "explorerUrl": "https://optimistic.etherscan.io/",
     "exploreTxUrl": "https://optimistic.etherscan.io/tx/",
     "evm": {
-        "chainId": "0xa"
+        "chainId": "0xa",
+        "rpc": "https://optimism-mainnet.blastapi.io/81eb1bd3-8787-447c-a93a-b82158bde345"
     },
     "ibc": {
-        "allowedDenoms": ["uusdc"]
+        "allowedDenoms": [ "uusdc" ]
     },
     "currencies": [
         {
