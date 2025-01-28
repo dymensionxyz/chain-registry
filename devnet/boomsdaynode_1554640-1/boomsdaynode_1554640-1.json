@@ -1,0 +1,33 @@
+{
+  "chainId": "boomsdaynode_1554640-1",
+  "chainName": "boomsdaynode_1554640-1",
+  "rpc": "http://109.205.182.205:26657",
+  "rest": "http://109.205.182.205:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BSD",
+      "baseDenom": "uBSD",
+      "decimals": 18,
+      "logo": "/logos/boomsdaynode_1554640-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/boomsdaynode_1554640-1.png",
+  "ibc": {
+    "hubChannel": "channel-9640",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x17b8d0",
+    "rpc": "http://109.205.182.205:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
