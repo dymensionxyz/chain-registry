@@ -19,14 +19,14 @@
     "coinType": 118,
     "ibc": {
         "timeout": 600000,
-        "hubChannel": "channel-208",
-        "channel": "channel-58",
+        "hubChannel": "channel-58",
+        "channel": "channel-208",
         "allowedDenoms": ["uhuahua","adym"]
     },
     "gasPriceSteps": {
-        "low": 500,
-        "average": 1250,
-        "high": 2000
+        "low": 100,
+        "average": 250,
+        "high": 500
     },
     "website": "https://chihuahua.wtf/",
     "logo": "/logos/chihuahua-logo.svg",
