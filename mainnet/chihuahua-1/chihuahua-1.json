@@ -1,0 +1,34 @@
+{
+    "chainId": "chihuahua-1",
+    "chainName": "Chihuahua",
+    "rpc": "https://rpc.chihuahua.wtf",
+    "rest": "https://api.chihuahua.wtf",
+    "explorerUrl": "https://www.mintscan.io/chihuahua/",
+    "bech32Prefix": "chihuahua",
+    "exploreTxUrl": "https://www.mintscan.io/chihuahua/txs/",
+    "active": true,
+    "staging": true,
+    "currencies": [ {
+      "coinDenom": "HUAHUA",
+      "coinMinimalDenom": "uhuahua",
+      "coinDecimals": 6,
+      "coinGeckoId": "chihuahua-token",
+      "coinImageUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/chihuahua/images/huahua.png"
+    }
+    ],
+    "coinType": 118,
+    "ibc": {
+        "timeout": 600000,
+        "hubChannel": "channel-58",
+        "channel": "channel-208",
+        "allowedDenoms": ["uhuahua","adym"]
+    },
+    "gasPriceSteps": {
+        "low": 100,
+        "average": 250,
+        "high": 500
+    },
+    "website": "https://chihuahua.wtf/",
+    "logo": "/logos/chihuahua-logo.svg",
+    "type": "Regular"
+}
