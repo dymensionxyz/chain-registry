@@ -7,13 +7,14 @@
     "bech32Prefix": "chihuahua",
     "exploreTxUrl": "https://www.mintscan.io/chihuahua/txs/",
     "active": true,
-    "currencies": [ {
-      "coinDenom": "HUAHUA",
-      "coinMinimalDenom": "uhuahua",
-      "coinDecimals": 6,
-      "coinGeckoId": "chihuahua-token",
-      "coinImageUrl": "https://raw.githubusercontent.com/cosmos/chain-registry/refs/heads/master/chihuahua/images/huahua.png"
-    }
+    "currencies": [
+        {
+            "displayDenom": "HUAHUA",
+            "baseDenom": "uhuahua",
+            "decimals": 6,
+            "logo": "/logos/chihuahua-logo.svg",
+            "type": "main"
+        }
     ],
     "coinType": 118,
     "ibc": {
