@@ -7,7 +7,6 @@
     "bech32Prefix": "chihuahua",
     "exploreTxUrl": "https://www.mintscan.io/chihuahua/txs/",
     "active": true,
-    "staging": true,
     "currencies": [ {
       "coinDenom": "HUAHUA",
       "coinMinimalDenom": "uhuahua",
