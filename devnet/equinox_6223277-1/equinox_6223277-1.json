@@ -1,0 +1,35 @@
+{
+  "chainId": "equinox_6223277-1",
+  "chainName": "equinox_6223277-1",
+  "rpc": "https://avail-rpc.equinoxdao.xyz/",
+  "rest": "https://avail-api.equinoxdao.xyz/",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "equx",
+      "baseDenom": "uequx",
+      "decimals": 18,
+      "logo": "/logos/equinox_6223277-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/equinox_6223277-1.png",
+  "ibc": {
+    "hubChannel": "channel-8561",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5ef5ad",
+    "rpc": "https://avail-evm.equinoxdao.xyz/"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CDYDvAcQgV9NvnkDycN2eTXrtz4PKch8jKeW7N7AX4SozZS"
+}
