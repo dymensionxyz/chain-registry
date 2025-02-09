@@ -1,0 +1,35 @@
+{
+  "chainId": "wasm_9000-1",
+  "chainName": "WASM Rollapp",
+  "rpc": "https://rpc.wpd.wasm.rollapp.noisnemyd.xyz",
+  "rest": "https://rest.wpd.wasm.rollapp.noisnemyd.xyz",
+  "bech32Prefix": "rol",
+  "website": "https://evm-gamehub.xuanphuctech.com",
+  "da": "Celestia",
+  "evm": {
+    "chainId": "0x2328",
+    "rpc": "https://json-rpc.wpd.wasm.rollapp.noisnemyd.xyz"
+  },
+  "currencies": [
+    {
+      "displayDenom": "WSM",
+      "baseDenom": "awsm",
+      "decimals": 18,
+      "logo": "/logos/logo_wasm.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "gasAdjustment": 1.5,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1125047988247593010",
+  "ibc": {
+    "timeout": 172800000,
+    "hubChannel": "channel-61",
+    "channel": "channel-0"
+  },
+  "logo": "/logos/logo_wasm.png",
+  "type": "RollApp",
+  "active": true,
+  "analytics": true,
+  "collectData": true
+}
