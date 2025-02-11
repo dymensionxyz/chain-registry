@@ -1,0 +1,35 @@
+{
+  "chainId": "asima_1134438-1",
+  "chainName": "asima_1134438-1",
+  "rpc": "https://rpc-avail.asmval.xyz",
+  "rest": "https://rest-avail.asmval.xyz",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "asm",
+      "baseDenom": "uasm",
+      "decimals": 18,
+      "logo": "/logos/asima_1134438-1.svg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://asima-avail-dymension.vercel.app/",
+  "logo": "/logos/asima_1134438-1.svg",
+  "ibc": {
+    "hubChannel": "channel-9380",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x114f66",
+    "rpc": "https://evmrpc-avail.asmval.xyz"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Contribute for Avail project",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HMcBuSKLsL9aasSgTZfmUUKJzDrrgKbB1GQpeZaPaQhCkhL"
+}
