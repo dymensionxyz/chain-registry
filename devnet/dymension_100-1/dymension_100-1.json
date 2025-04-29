@@ -1,14 +1,14 @@
 {
-    "chainId": "dymension_2019-1",
-    "rpc": "https://rpc-dymension-playground-2.mzonder.com",
-    "rest": "https://api-dymension-playground-2.mzonder.com",
-    "chainName": "Dymension Test",
+    "chainId": "dymension_100-1",
+    "rpc": "https://rpc.devnet.by.hub.dn.rollapp.network",
+    "rest": "https://rest.devnet.by.hub.dn.rollapp.network",
+    "chainName": "Dymension Devnet",
     "bech32Prefix": "dym",
     "explorerUrl": "https://pg.dym.fyi/",
     "exploreTxUrl": "https://pg.dym.fyi/tx/",
     "evm": {
-        "chainId": "0x7E3",
-        "rpc": "https://jsonrpc-dymension-playground-2.mzonder.co"
+        "chainId": "0x64",
+        "rpc": "https://json-rpc.devnet.by.hub.dn.rollapp.network"
     },
     "currencies": [
         {
