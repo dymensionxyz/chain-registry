@@ -1,5 +1,5 @@
 {
-    "chainId": "dymension_100-1",
+    "chainId": "dymension_9999-1",
     "rpc": "https://rpc.devnet.by.hub.dn.rollapp.network",
     "rest": "https://rest.devnet.by.hub.dn.rollapp.network",
     "chainName": "Dymension Devnet",
@@ -35,5 +35,5 @@
     "analytics": true,
     "common": true,
     "collectData": true,
-    "website": "https://playground.dymension.xyz"
+    "website": "https://dymension-internal-devnet.web.app"
 }
