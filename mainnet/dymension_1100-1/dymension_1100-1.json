@@ -2,7 +2,7 @@
     "chainId": "dymension_1100-1",
     "chainName": "Dymension",
     "wormholeChain": "Dymension",
-    "rpc": "https://rollapp.rpc.cumulo.com.es",
+    "rpc": "https://dymension-rpc.polkachu.com",
     "rest": "https://rollapp.rest.cumulo.com.es",
     "evm": {
         "chainId": "0x44C",
