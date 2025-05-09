@@ -1,0 +1,35 @@
+{
+  "chainId": "halo_1083458-1",
+  "chainName": "halo_1083458-1",
+  "rpc": "https://froopyland.dymension.xyz/halo_1083458-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/halo_1083458-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HLO",
+      "baseDenom": "uHLO",
+      "decimals": 18,
+      "logo": "/logos/halo_1083458-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/halo_1083458-1.png",
+  "ibc": {
+    "hubChannel": "channel-9512",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x108842",
+    "rpc": "https://froopyland.dymension.xyz/halo_1083458-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DcdaVeCRZqdYR6TYL8zj9Gqo4tzpK3sLuvQzptn7HXPnFuT"
+}
