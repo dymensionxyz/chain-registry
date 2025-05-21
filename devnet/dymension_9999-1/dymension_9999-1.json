@@ -4,8 +4,8 @@
     "rest": "https://rest.devnet.by.hub.dn.rollapp.network",
     "chainName": "Dymension Devnet",
     "bech32Prefix": "dym",
-    "explorerUrl": "https://pg.dym.fyi/",
     "exploreTxUrl": "https://pg.dym.fyi/tx/",
+    "explorerUrl": "https://pg.dym.fyi/",
     "evm": {
         "chainId": "0x270F",
         "rpc": "https://json-rpc.devnet.by.hub.dn.rollapp.network"
