@@ -2,7 +2,7 @@
     "chainId": "grand-1",
     "chainName": "Noble - testnet",
     "rpc": "https://rpc.testnet.noble.xyz",
-    "rest": "https://noble-testnet-api.polkachu.com",
+    "rest": "https://api.testnet.noble.xyz",
     "explorerUrl": "https://testnet.mintscan.io/noble-testnet",
     "exploreTxUrl": "https://testnet.mintscan.io/noble-testnet/txs/",
     "bech32Prefix": "noble",
