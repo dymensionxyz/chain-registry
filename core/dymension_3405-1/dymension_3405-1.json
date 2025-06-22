@@ -1,14 +1,14 @@
 {
-    "chainId": "dymension_1405-1",
-    "rpc": "https://rpc-dym-migration-test-2.mzonder.com",
-    "rest": "https://api-dym-migration-test-2.mzonder.com",
+    "chainId": "dymension_3405-1",
+    "rpc": "https://rpc-dymension-playground35.mzonder.com",
+    "rest": "https://api-dymension-playground35.mzonder.com",
     "chainName": "Dymension Testnet",
     "bech32Prefix": "dym",
-    "exploreTxUrl": "https://pg.dym.fyi/tx/",
-    "explorerUrl": "https://pg.dym.fyi/",
+    "exploreTxUrl": "https://explorer.mzonder.com/DYM-3405/tx/",
+    "explorerUrl": "https://explorer.mzonder.com/DYM-3405/",
     "evm": {
-        "chainId": "0x57D",
-        "rpc": "https://jsonrpc-dym-migration-test-2.mzonder.com"
+        "chainId": "0xD4D",
+        "rpc": "https://jsonrpc-dymension-playground35.mzonder.com"
     },
     "currencies": [
         {
