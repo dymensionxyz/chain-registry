@@ -1,9 +1,9 @@
 {
     "chainId": "kaiyo-1",
-    "chainName": "Kujira",
     "rpc": "https://rpc-kujira.whispernode.com:443",
     "rest": "https://lcd-kujira.whispernode.com:443",
     "explorerUrl": "https://finder.kujira.app/",
+    "chainName": "Kujira",
     "bech32Prefix": "kuji",
     "exploreTxUrl": "https://finder.kujira.app/kaiyo-1/tx/",
     "active": true,

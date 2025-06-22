@@ -1,8 +1,8 @@
 {
     "chainId": "base",
-    "chainName": "Base",
     "explorerUrl": "https://base.blockscout.com",
     "exploreTxUrl": "https://base.blockscout.com/tx/",
+    "chainName": "Base",
     "evm": {
         "chainId": "0x2105"
     },

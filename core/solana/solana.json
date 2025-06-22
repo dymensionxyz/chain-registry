@@ -1,9 +1,9 @@
 {
     "chainId": "solana",
-    "chainName": "Solana",
     "exploreTxUrl": "https://solscan.io/tx/",
     "explorerUrl": "https://solscan.io/",
     "rpc": "https://melly-b3hnxf-fast-mainnet.helius-rpc.com",
+    "chainName": "Solana",
     "ibc": {
         "allowedDenoms": [ "uusdc" ]
     },

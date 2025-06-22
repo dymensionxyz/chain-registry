@@ -1,10 +1,10 @@
 {
     "chainId": "osmo-test-5",
-    "chainName": "Osmosis Testnet",
     "rpc": "https://rpc.testnet.osmosis.zone",
     "rest": "https://lcd.testnet.osmosis.zone",
     "explorerUrl": "https://www.mintscan.io/osmosis/",
     "exploreTxUrl": "https://www.mintscan.io/osmosis/tx/",
+    "chainName": "Osmosis Testnet",
     "active": true,
     "bech32Prefix": "osmo",
     "currencies": [

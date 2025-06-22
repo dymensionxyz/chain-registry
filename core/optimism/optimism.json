@@ -1,6 +1,5 @@
 {
     "chainId": "optimism",
-    "chainName": "Optimism",
     "explorerUrl": "https://optimistic.etherscan.io/",
     "exploreTxUrl": "https://optimistic.etherscan.io/tx/",
     "evm": {
@@ -9,6 +8,7 @@
     "ibc": {
         "allowedDenoms": ["uusdc"]
     },
+    "chainName": "Optimism",
     "currencies": [
         {
             "displayDenom": "USDC",

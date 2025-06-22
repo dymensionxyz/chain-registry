@@ -1,10 +1,10 @@
 {
     "chainId": "cosmoshub-4",
-    "chainName": "Cosmos Hub",
     "rpc": "https://cosmos-rpc.publicnode.com",
     "rest": "https://cosmoshub-api.lavenderfive.com",
     "explorerUrl": "https://www.mintscan.io/cosmos/",
     "exploreTxUrl": "https://www.mintscan.io/cosmos/tx/",
+    "chainName": "Cosmos Hub",
     "active": true,
     "bech32Prefix": "cosmos",
     "currencies": [

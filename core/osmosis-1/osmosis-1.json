@@ -1,10 +1,10 @@
 {
     "chainId": "osmosis-1",
-    "chainName": "Osmosis",
     "rpc": "https://rpc.osmosis.zone",
     "rest": "https://lcd.osmosis.zone",
     "explorerUrl": "https://www.mintscan.io/osmosis/",
     "exploreTxUrl": "https://www.mintscan.io/osmosis/tx/",
+    "chainName": "Osmosis",
     "active": true,
     "bech32Prefix": "osmo",
     "currencies": [

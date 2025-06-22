@@ -1,10 +1,10 @@
 {
     "chainId": "stride-1",
-    "chainName": "Stride",
     "rpc": "https://stride-rpc.polkachu.com",
     "rest": "https://stride-api.polkachu.com",
     "explorerUrl": "https://www.mintscan.io/stride/",
     "exploreTxUrl": "https://www.mintscan.io/stride/tx/",
+    "chainName": "Stride",
     "active": true,
     "staging": true,
     "bech32Prefix": "stride",

@@ -1,10 +1,10 @@
 {
     "chainId": "axelar-dojo-1",
-    "chainName": "Axelar",
     "rpc": "https://axelar-rpc.polkachu.com",
     "rest": "https://axelar-api.polkachu.com",
     "explorerUrl": "https://www.mintscan.io/axelar/",
     "exploreTxUrl": "https://www.mintscan.io/axelar/txs/",
+    "chainName": "Axelar",
     "bech32Prefix": "axelar",
     "active": true,
     "staging": true,

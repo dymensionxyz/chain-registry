@@ -1,8 +1,8 @@
 {
     "chainId": "noble-1",
-    "chainName": "Noble",
     "rpc": "https://noble-rpc.polkachu.com",
     "rest": "https://noble-api.polkachu.com",
+    "chainName": "Noble",
     "explorerUrl": "https://www.mintscan.io/noble/",
     "exploreTxUrl": "https://www.mintscan.io/noble/txs/",
     "bech32Prefix": "noble",

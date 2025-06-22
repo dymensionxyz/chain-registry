@@ -1,9 +1,9 @@
 {
     "chainId": "kava_2222-10",
-    "chainName": "Kava",
     "rpc": "https://kava-rpc.polkachu.com",
     "rest": "https://kava-api.polkachu.com",
     "explorerUrl": "https://www.mintscan.io/kava/",
+    "chainName": "Kava",
     "bech32Prefix": "kava",
     "exploreTxUrl": "https://www.mintscan.io/kava/txs/",
     "active": true,

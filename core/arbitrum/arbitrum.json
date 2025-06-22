@@ -1,8 +1,8 @@
 {
     "chainId": "arbitrum",
-    "chainName": "Arbitrum",
     "explorerUrl": "https://arbiscan.io/",
     "exploreTxUrl": "https://arbiscan.io/tx/",
+    "chainName": "Arbitrum",
     "evm": {
         "chainId": "0xa4b1"
     },
