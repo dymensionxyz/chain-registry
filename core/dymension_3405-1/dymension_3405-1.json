@@ -4,8 +4,8 @@
     "rest": "https://api-dymension-playground35.mzonder.com",
     "chainName": "Dymension Testnet",
     "bech32Prefix": "dym",
-    "exploreTxUrl": "https://explorer.mzonder.com/DYM-3405/tx/",
-    "explorerUrl": "https://explorer.mzonder.com/DYM-3405/",
+    "exploreTxUrl": "https://pg.dym.fyi/tx/",
+    "explorerUrl": "https://pg.dym.fyi/",
     "evm": {
         "chainId": "0xD4D",
         "rpc": "https://jsonrpc-dymension-playground35.mzonder.com"
