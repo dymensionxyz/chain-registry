@@ -1,0 +1,35 @@
+{
+  "chainId": "pptulliana_1762330-1",
+  "chainName": "pptulliana_1762330-1",
+  "rpc": "http://37.60.226.3:26657",
+  "rest": "http://37.60.226.3:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "PPT",
+      "baseDenom": "uPPT",
+      "decimals": 18,
+      "logo": "/logos/pptulliana_1762330-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://medium.com/@0xcoinav",
+  "logo": "/logos/pptulliana_1762330-1.png",
+  "ibc": {
+    "hubChannel": "channel-9525",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x1ae41a",
+    "rpc": "http://37.60.226.3:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "I am excited to learn and grow in this exciting field and contribute to its development.",
+  "goldberg": true,
+  "availAddress": "5F1hMw8zjzGVDr17Zc8mhTgWFLW4yzeGp7De6kTZ6sHkiveq",
+  "analytics": true
+}
