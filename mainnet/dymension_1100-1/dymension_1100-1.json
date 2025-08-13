@@ -3,10 +3,10 @@
     "chainName": "Dymension",
     "wormholeChain": "Dymension",
     "rpc": "https://dymension-rpc.polkachu.com",
-    "rest": "https://dymension-mainnet-rest.blastapi.io/cb9c0d33-94ea-4f6b-8a7b-4efb5d5fdab8",
+    "rest": "https://dymension-api.polkachu.com",
     "evm": {
         "chainId": "0x44C",
-        "rpc": "https://dymension-mainnet.blastapi.io/cb9c0d33-94ea-4f6b-8a7b-4efb5d5fdab8"
+        "rpc": "https://dymension-evm-rpc.publicnode.com"
     },
     "collectData": true,
     "explorerUrl": "https://dym.fyi/",
