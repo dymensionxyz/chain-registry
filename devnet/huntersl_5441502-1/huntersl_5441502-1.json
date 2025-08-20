@@ -1,0 +1,33 @@
+{
+  "chainId": "huntersl_5441502-1",
+  "chainName": "huntersl_5441502-1",
+  "rpc": "http://20.51.235.37:26657",
+  "rest": "http://20.51.235.37:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HSL",
+      "baseDenom": "uHSL",
+      "decimals": 18,
+      "logo": "/logos/huntersl_5441502-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://medium.com/@chathuralalinda",
+  "logo": "/logos/huntersl_5441502-1.png",
+  "ibc": {
+    "hubChannel": "channel-9671",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5307de",
+    "rpc": "http://20.51.235.37:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "As a proficient node operator, I skillfully oversee and uphold blockchain nodes, guaranteeing their peak efficiency and safety. My dedication lies in ensuring the seamless functionality and authenticity of blockchain nodes and RollApps.",
+  "analytics": true
+}
