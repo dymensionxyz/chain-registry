@@ -17,7 +17,6 @@
         }
     ],
     "active": true,
-    "staging": true,
     "logo": "/logos/kaspa-logo.svg",
     "type": "Kaspa",
     "website": "https://kaspa.org/"
