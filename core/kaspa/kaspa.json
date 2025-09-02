@@ -4,7 +4,7 @@
     "explorerUrl": "https://explorer.kaspa.org/",
     "exploreTxUrl": "https://explorer.kaspa.org/txs/",
     "ibc": {
-        "allowedDenoms": [ "akas" ]
+        "allowedDenoms": [ "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000" ]
     },
     "currencies": [
         {
