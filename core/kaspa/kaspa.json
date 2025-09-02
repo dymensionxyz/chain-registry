@@ -9,7 +9,7 @@
     "currencies": [
         {
             "displayDenom": "KAS",
-            "baseDenom": "akas",
+            "baseDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000",
             "bridgeDenom": "0x726f757465725f61707000000000000000000000000000020000000000000000",
             "decimals": 8,
             "logo": "/logos/kaspa-logo.svg",
