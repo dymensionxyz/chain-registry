@@ -6,6 +6,7 @@
     "ibc": {
         "allowedDenoms": [ "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000" ]
     },
+    "rest": "http://api-kaspa.mzonder.com",
     "currencies": [
         {
             "displayDenom": "KAS",
