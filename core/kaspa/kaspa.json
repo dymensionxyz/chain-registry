@@ -18,7 +18,8 @@
         }
     ],
     "active": true,
+    "hyperlane": true,
     "logo": "/logos/kaspa-logo.svg",
-    "type": "Hyperlane",
+    "type": "Kaspa",
     "website": "https://kaspa.org/"
 }
