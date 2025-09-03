@@ -19,6 +19,7 @@
     ],
     "active": true,
     "hyperlane": true,
+    "hyperlaneDomain": "80808082",
     "logo": "/logos/kaspa-logo.svg",
     "type": "Kaspa",
     "website": "https://kaspa.org/"
