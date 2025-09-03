@@ -33,6 +33,6 @@
     "analytics": true,
     "common": true,
     "collectData": true,
-    "hyperlaneDomain": "1260813472",
+    "hyperlaneDomain": 1260813472,
     "website": "https://dymension-portal-core.web.app"
 }
