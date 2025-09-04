@@ -16,12 +16,12 @@
             "type": "main"
         }
     ],
+    "active": true,
     "hyperlane": {
         "placeholderValue": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "escrowAddress": "kaspatest:pz2q7x7munf7p9zduvfed8dj7znkh7z4973mqd995cvrajk7qhkm57jdfl3l9",
         "domain": 80808082
     },
-    "active": true,
     "logo": "/logos/kaspa-logo.svg",
     "type": "Kaspa",
     "website": "https://kaspa.org/"
