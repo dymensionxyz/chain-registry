@@ -11,7 +11,6 @@
         {
             "displayDenom": "KAS",
             "baseDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000",
-            "bridgeDenom": "0x726f757465725f61707000000000000000000000000000020000000000000000",
             "decimals": 8,
             "logo": "/logos/kaspa-logo.svg",
             "type": "main"
@@ -19,6 +18,7 @@
     ],
     "active": true,
     "hyperlane": true,
+    "hyperlaneEscrowAddress": "kaspatest:pz2q7x7munf7p9zduvfed8dj7znkh7z4973mqd995cvrajk7qhkm57jdfl3l9",
     "hyperlaneDomain": 80808082,
     "logo": "/logos/kaspa-logo.svg",
     "type": "Kaspa",
