@@ -1,8 +1,8 @@
 {
     "chainId": "kaspa",
     "chainName": "Kaspa",
-    "explorerUrl": "https://explorer.kaspa.org/",
-    "exploreTxUrl": "https://explorer.kaspa.org/txs/",
+    "explorerUrl": "https://explorer-tn10.kaspa.org/",
+    "exploreTxUrl": "https://explorer-tn10.kaspa.org/txs/",
     "ibc": {
         "allowedDenoms": [ "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000" ]
     },
