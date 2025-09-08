@@ -22,7 +22,7 @@
         "escrowAddress": "kaspatest:pz2q7x7munf7p9zduvfed8dj7znkh7z4973mqd995cvrajk7qhkm57jdfl3l9",
         "domain": 80808082,
         "minWithdrawal": 40,
-        "maxDepositFee": 0.001
+        "maxDepositFee": 0.1
     },
     "logo": "/logos/kaspa-logo.svg",
     "type": "Kaspa",
