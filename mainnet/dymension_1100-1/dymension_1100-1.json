@@ -2,11 +2,11 @@
     "chainId": "dymension_1100-1",
     "chainName": "Dymension",
     "wormholeChain": "Dymension",
-    "rpc": "https://dymension-mainnet-tendermint.blastapi.io/cb9c0d33-94ea-4f6b-8a7b-4efb5d5fdab8",
-    "rest": "https://dymension-mainnet-rest.blastapi.io/cb9c0d33-94ea-4f6b-8a7b-4efb5d5fdab8",
+    "rpc": "https://dymension.api.onfinality.io/tendermint/public",
+    "rest": "https://dymension.api.onfinality.io/rest/public",
     "evm": {
         "chainId": "0x44C",
-        "rpc": "https://dymension-mainnet.blastapi.io/cb9c0d33-94ea-4f6b-8a7b-4efb5d5fdab8"
+        "rpc": "https://dymension.api.onfinality.io/public"
     },
     "collectData": true,
     "explorerUrl": "https://dym.fyi/",
