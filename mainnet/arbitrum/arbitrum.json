@@ -5,7 +5,7 @@
     "exploreTxUrl": "https://arbiscan.io/tx/",
     "evm": {
         "chainId": "0xa4b1",
-        "rpc": "https://arbitrum-one.blastapi.io/07fff106-52ee-4dc7-b9a6-7df1e6c40b04"
+        "rpc": "https://arb1.arbitrum.io/rpc"
     },
     "ibc": {
         "allowedDenoms": [ "uusdc" ]
