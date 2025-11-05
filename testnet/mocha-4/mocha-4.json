@@ -16,6 +16,7 @@
         }
     ],
     "coinType": 118,
+    "order": 2,
     "validatorsLogosStorageDir": "",
     "faucetUrl": "",
     "ibc": {
