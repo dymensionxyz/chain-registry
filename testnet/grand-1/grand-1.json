@@ -18,6 +18,7 @@
     "coinType": 118,
     "validatorsLogosStorageDir": "",
     "faucetUrl": "",
+    "order": 1,
     "ibc": {
         "timeout": 600000,
         "hubChannel": "channel-89",
