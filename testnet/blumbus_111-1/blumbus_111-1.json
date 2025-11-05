@@ -11,6 +11,7 @@
     "explorerUrl": "https://bb.dym.fyi",
     "exploreTxUrl": "https://bb.dym.fyi/tx/",
     "bech32Prefix": "dym",
+    "order": 0,
     "currencies": [
         {
             "displayDenom": "DYM",
