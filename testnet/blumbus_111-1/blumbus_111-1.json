@@ -8,7 +8,7 @@
         "chainId": "0x6F",
         "rpc": "https://jsonrpc-blumbus.mzonder.com"
     },
-    "explorerUrl": "https://bb.dym.fyi",
+    "explorerUrl": "https://bb.dym.fyi/",
     "exploreTxUrl": "https://bb.dym.fyi/tx/",
     "bech32Prefix": "dym",
     "order": 0,
