@@ -35,6 +35,9 @@
     "logo": "/logos/dymension-logo.svg",
     "type": "Hub",
     "analytics": true,
+    "hyperlane": {
+        "domain": 482195613
+    },
     "website": "https://testnet.dymension.xyz",
     "xAccount": "dymension"
 }

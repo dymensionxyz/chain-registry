@@ -1,0 +1,30 @@
+{
+    "chainId": "kaspa",
+    "chainName": "Kaspa",
+    "explorerUrl": "https://explorer-tn10.kaspa.org/",
+    "exploreTxUrl": "https://explorer-tn10.kaspa.org/txs/",
+    "rest": "https://kaspa-testnet-rest.mzonder.com:443",
+    "ibc": {
+        "allowedDenoms": [ "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000002" ]
+    },
+    "currencies": [
+        {
+            "displayDenom": "KAS",
+            "baseDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000002",
+            "decimals": 8,
+            "logo": "/logos/kaspa-logo.svg",
+            "type": "main"
+        }
+    ],
+    "active": true,
+    "hyperlane": {
+        "placeholderValue": "0x0000000000000000000000000000000000000000000000000000000000000000",
+        "escrowAddress": "kaspatest:pzwcd30pvdn0k4snvj5awkmlm6srzuw8d8e766ff5vwceg2akta3799nq2a3p",
+        "domain": 80808082,
+        "maxDepositLeftover": 1,
+        "minWithdrawal": 40
+    },
+    "logo": "/logos/kaspa-logo.svg",
+    "type": "Kaspa",
+    "website": "https://kaspa.org/"
+}
