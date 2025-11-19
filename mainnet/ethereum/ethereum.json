@@ -8,18 +8,9 @@
         "rpc": "https://arbitrum-one.blastapi.io/07fff106-52ee-4dc7-b9a6-7df1e6c40b04"
     },
     "ibc": {
-        "allowedDenoms": [ "uusdc", "weth-wei", "erc20/tether/usdt" ]
+        "allowedDenoms": [ "uusdc" ]
     },
     "currencies": [
-        {
-            "displayDenom": "ETH",
-            "baseDenom": "weth-wei",
-            "ibcRepresentation": "ibc/E3AB0DFDE9E782262B770C32DF94AC2A92B93DC4825376D6F6C874D3C877864E",
-            "bridgeDenom": "ethereum-native",
-            "decimals": 18,
-            "logo": "/logos/ethereum-logo.svg",
-            "type": "main"
-        },
         {
             "displayDenom": "USDC",
             "baseDenom": "uusdc",
@@ -29,20 +20,10 @@
             "logo": "/logos/usdc-logo.svg",
             "type": "regular",
             "cctp": true
-        },
-        {
-            "displayDenom": "USDT",
-            "baseDenom": "erc20/tether/usdt",
-            "ibcRepresentation": "ibc/B72B5B3F7AD44783584921DC33354BCE07C8EB0A7F0349247C3DAD38C3B6E6A5",
-            "bridgeDenom": "0xdAC17F958D2ee523a2206206994597C13D831ec7",
-            "decimals": 6,
-            "logo": "/logos/usdt-logo.svg",
-            "type": "regular"
         }
     ],
     "active": true,
     "staging": true,
-    "common": true,
     "logo": "/logos/ethereum-logo.svg",
     "type": "EVM",
     "website": "https://ethereum.org/"
