@@ -2,11 +2,11 @@
     "chainId": "dymension_1100-1",
     "chainName": "Dymension",
     "wormholeChain": "Dymension",
-    "rpc": "https://rpc-dymension.mzonder.com/",
-    "rest": "https://rest-dymension.mzonder.com/",
+    "rpc": "https://rpc-dymension.mzonder.com",
+    "rest": "https://rest-dymension.mzonder.com",
     "evm": {
         "chainId": "0x44C",
-        "rpc": "https://dymension.api.onfinality.io/public"
+        "rpc": "https://jsonrpc-dymension.mzonder.com"
     },
     "collectData": true,
     "explorerUrl": "https://dym.fyi/",
