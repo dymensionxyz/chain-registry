@@ -34,6 +34,9 @@
         "average": 20000000000,
         "high": 20000000000
     },
+    "hyperlane": {
+        "domain": 1570310961
+    },
     "logo": "/logos/dymension-logo.svg",
     "type": "Hub",
     "analytics": true,
