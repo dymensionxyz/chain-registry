@@ -17,7 +17,8 @@
             "type": "main"
         }
     ],
-    "active": true,
+    "active": false,
+    "staging": true,
     "hyperlane": {
         "placeholderValue": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "escrowAddress": "kaspa:prztt2hd2txge07syjvhaz5j6l9ql6djhc9equela058rjm6vww0uwre5dulh",
