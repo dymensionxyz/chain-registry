@@ -19,7 +19,6 @@
         {
             "displayDenom": "ETH",
             "baseDenom": "weth-wei",
-            "common": true,
             "decimals": 18,
             "logo": "/logos/ethereum-logo.svg",
             "type": "regular"
