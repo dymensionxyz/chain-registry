@@ -18,7 +18,7 @@
             "type": "main"
         }
     ],
-    "active": false,
+    "active": true,
     "staging": true,
     "hyperlane": {
         "placeholderValue": "0x0000000000000000000000000000000000000000000000000000000000000000",
