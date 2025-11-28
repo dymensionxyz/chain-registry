@@ -20,7 +20,7 @@
             "displayDenom": "axlETH",
             "baseDenom": "weth-wei",
             "decimals": 18,
-            "logo": "/logos/ethereum-logo.svg",
+            "logo": "/logos/wrapped-ethereum-logo.svg",
             "type": "regular"
         }
     ],
