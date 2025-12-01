@@ -23,7 +23,7 @@
         }
     ],
     "active": false,
-    "staging": true,
+    "staging": false,
     "logo": "/logos/optimism-logo.svg",
     "type": "EVM",
     "website": "https://www.optimism.io/"
