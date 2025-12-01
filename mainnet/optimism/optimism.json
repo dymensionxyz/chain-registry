@@ -22,7 +22,7 @@
             "cctp": true
         }
     ],
-    "active": true,
+    "active": false,
     "staging": true,
     "logo": "/logos/optimism-logo.svg",
     "type": "EVM",
