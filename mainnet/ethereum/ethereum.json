@@ -38,6 +38,7 @@
             "displayDenom": "KAS",
             "baseDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000",
             "bridgeDenom": "0x18e6C30487e61B117bDE1218aEf2D9Bd7742c4CF",
+            "networkId": "kaspa",
             "decimals": 8,
             "logo": "/logos/kaspa-logo.svg",
             "type": "regular",
