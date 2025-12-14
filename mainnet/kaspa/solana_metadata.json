@@ -1,0 +1,7 @@
+{
+    "name": "Kaspa",
+    "symbol": "KAS",
+    "description": "Warp Route for KAS token through Dymension",
+    "image": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/e562da97ee90332e3104c907c5375dcd4e3ee2bb/mainnet/kaspa/logos/kaspa-logo.svg",
+    "website": "https://kaspa.org"
+  }
