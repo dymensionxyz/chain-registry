@@ -4,6 +4,7 @@
     "rpc": "https://cosmos-rpc.publicnode.com",
     "rest": "https://cosmoshub-api.lavenderfive.com",
     "explorerUrl": "https://www.mintscan.io/cosmos/",
+    "exploreBlockUrl": "https://www.mintscan.io/cosmos/block/",
     "exploreTxUrl": "https://www.mintscan.io/cosmos/tx/",
     "active": true,
     "bech32Prefix": "cosmos",

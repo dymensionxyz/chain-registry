@@ -2,7 +2,8 @@
     "chainId": "kaspa",
     "chainName": "Kaspa",
     "explorerUrl": "https://explorer.kaspa.org/",
-    "exploreTxUrl": "https://explorer.kaspa.org/txs/",
+    "exploreBlockUrl": "https://explorer.kaspa.org/blocks/",
+    "exploreTxUrl": "https://explorer.kaspa.org/transactions/",
     "rest": "https://rest.mn.kaspa.rollapp.network:443",
     "order": 2,
     "ibc": {

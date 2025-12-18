@@ -2,6 +2,7 @@
     "chainId": "arbitrum",
     "chainName": "Arbitrum",
     "explorerUrl": "https://arbiscan.io/",
+    "exploreBlockUrl": "https://arbiscan.io/block/",
     "exploreTxUrl": "https://arbiscan.io/tx/",
     "evm": {
         "chainId": "0xa4b1",

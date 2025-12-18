@@ -4,6 +4,7 @@
     "rpc": "https://public-celestia-rpc.numia.xyz",
     "rest": "https://public-celestia-lcd.numia.xyz",
     "explorerUrl": "https://www.mintscan.io/celestia/",
+    "exploreBlockUrl": "https://www.mintscan.io/celestia/block/",
     "exploreTxUrl": "https://www.mintscan.io/celestia/tx/",
     "active": true,
     "bech32Prefix": "celestia",

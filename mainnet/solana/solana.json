@@ -2,6 +2,7 @@
     "chainId": "solana",
     "chainName": "Solana",
     "exploreTxUrl": "https://solscan.io/tx/",
+    "exploreBlockUrl": "https://solscan.io/block/",
     "explorerUrl": "https://solscan.io/",
     "rpc": "https://melly-b3hnxf-fast-mainnet.helius-rpc.com",
     "ibc": {

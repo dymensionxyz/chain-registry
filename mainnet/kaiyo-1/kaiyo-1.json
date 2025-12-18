@@ -5,6 +5,7 @@
     "rest": "https://lcd-kujira.whispernode.com:443",
     "explorerUrl": "https://finder.kujira.app/",
     "bech32Prefix": "kuji",
+    "exploreBlockUrl": "https://finder.kujira.app/kaiyo-1/block/",
     "exploreTxUrl": "https://finder.kujira.app/kaiyo-1/tx/",
     "active": true,
     "staging": true,

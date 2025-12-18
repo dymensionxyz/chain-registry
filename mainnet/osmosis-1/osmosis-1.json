@@ -4,6 +4,7 @@
     "rpc": "https://rpc.osmosis.zone",
     "rest": "https://lcd.osmosis.zone",
     "explorerUrl": "https://www.mintscan.io/osmosis/",
+    "exploreBlockUrl": "https://www.mintscan.io/osmosis/block/",
     "exploreTxUrl": "https://www.mintscan.io/osmosis/tx/",
     "active": true,
     "bech32Prefix": "osmo",

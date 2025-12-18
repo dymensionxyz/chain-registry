@@ -4,6 +4,7 @@
     "rpc": "https://stride-rpc.polkachu.com",
     "rest": "https://stride-api.polkachu.com",
     "explorerUrl": "https://www.mintscan.io/stride/",
+    "exploreBlockUrl": "https://www.mintscan.io/stride/block/",
     "exploreTxUrl": "https://www.mintscan.io/stride/tx/",
     "active": true,
     "staging": true,

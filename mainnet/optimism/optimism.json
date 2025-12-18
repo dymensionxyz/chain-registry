@@ -2,6 +2,7 @@
     "chainId": "optimism",
     "chainName": "Optimism",
     "explorerUrl": "https://optimistic.etherscan.io/",
+    "exploreBlockUrl": "https://optimistic.etherscan.io/block/",
     "exploreTxUrl": "https://optimistic.etherscan.io/tx/",
     "evm": {
         "chainId": "0xa",

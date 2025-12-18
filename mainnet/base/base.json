@@ -2,6 +2,7 @@
     "chainId": "base",
     "chainName": "Base",
     "explorerUrl": "https://base.blockscout.com",
+    "exploreBlockUrl": "https://base.blockscout.com/block/",
     "exploreTxUrl": "https://base.blockscout.com/tx/",
     "evm": {
         "chainId": "0x2105",

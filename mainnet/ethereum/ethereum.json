@@ -2,15 +2,16 @@
     "chainId": "ethereum",
     "chainName": "Ethereum",
     "explorerUrl": "https://etherscan.io/",
+    "exploreBlockUrl": "https://etherscan.io/block/",
     "exploreTxUrl": "https://etherscan.io/tx/",
     "evm": {
         "chainId": "0x1",
         "rpc": "https://ethereum-rpc.publicnode.com"
     },
     "ibc": {
-        "allowedDenoms": [ 
-            "uusdc", 
-            "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000002" 
+        "allowedDenoms": [
+            "uusdc",
+            "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000002"
         ]
     },
     "order": 3,

@@ -5,7 +5,8 @@
     "rest": "https://api.chihuahua.wtf",
     "explorerUrl": "https://www.mintscan.io/chihuahua/",
     "bech32Prefix": "chihuahua",
-    "exploreTxUrl": "https://www.mintscan.io/chihuahua/txs/",
+    "exploreBlockUrl": "https://www.mintscan.io/chihuahua/block/",
+    "exploreTxUrl": "https://www.mintscan.io/chihuahua/tx/",
     "active": true,
     "currencies": [
         {
