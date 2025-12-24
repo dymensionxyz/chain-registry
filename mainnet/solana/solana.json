@@ -20,6 +20,14 @@
             "type": "main",
             "cctp": true,
             "solanaMintAccount": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        },
+        {
+            "displayDenom": "DYM",
+            "baseDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000003",
+            "decimals": 18,
+            "logo": "/logos/dymension-logo.svg",
+            "type": "regular",
+            "staging": true
         }
     ],
     "active": true,
