@@ -6,7 +6,7 @@
     "explorerUrl": "https://solscan.io/",
     "rpc": "https://melly-b3hnxf-fast-mainnet.helius-rpc.com",
     "ibc": {
-        "allowedDenoms": [ "uusdc", "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000003" ]
+        "allowedDenoms": [ "uusdc" ]
     },
     "order": 1,
     "currencies": [
@@ -20,14 +20,6 @@
             "type": "main",
             "cctp": true,
             "solanaMintAccount": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        },
-        {
-            "displayDenom": "DYM",
-            "baseDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000003",
-            "decimals": 18,
-            "logo": "/logos/dymension-logo.svg",
-            "type": "regular",
-            "staging": true
         }
     ],
     "hyperlane": {
