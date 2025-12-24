@@ -7,12 +7,13 @@
     "rest": "https://rest.mn.kaspa.rollapp.network:443",
     "order": 2,
     "ibc": {
-        "allowedDenoms": [ "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000" ]
+        "allowedDenoms": [ "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000", "sompi" ]
     },
     "currencies": [
         {
             "displayDenom": "KAS",
             "baseDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000",
+            "hyperlaneDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000",
             "decimals": 8,
             "logo": "/logos/kaspa-logo.svg",
             "common": true,
