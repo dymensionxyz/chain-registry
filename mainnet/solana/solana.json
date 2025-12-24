@@ -6,7 +6,7 @@
     "explorerUrl": "https://solscan.io/",
     "rpc": "https://melly-b3hnxf-fast-mainnet.helius-rpc.com",
     "ibc": {
-        "allowedDenoms": [ "uusdc" ]
+        "allowedDenoms": [ "uusdc", "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000003" ]
     },
     "order": 1,
     "currencies": [
@@ -30,6 +30,9 @@
             "staging": true
         }
     ],
+    "hyperlane": {
+        "domain": 1399811149
+    },
     "active": true,
     "staging": true,
     "logo": "/logos/solana.svg",
