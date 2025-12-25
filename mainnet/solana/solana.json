@@ -20,6 +20,13 @@
             "type": "regular",
             "cctp": true,
             "solanaMintAccount": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        },
+        {
+            "displayDenom": "SOL",
+            "baseDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000003",
+            "decimals": 9,
+            "logo": "/logos/solana.svg",
+            "type": "main"
         }
     ],
     "hyperlane": {
