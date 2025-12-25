@@ -11,7 +11,7 @@
     "ibc": {
         "allowedDenoms": [ "uusdc" ]
     },
-    "order": 4,
+    "order": 5,
     "currencies": [
         {
             "displayDenom": "USDC",

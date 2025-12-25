@@ -11,7 +11,7 @@
     "ibc": {
         "allowedDenoms": [ "uusdc", "wei" ]
     },
-    "order": 3,
+    "order": 4,
     "currencies": [
         {
             "displayDenom": "USDC",

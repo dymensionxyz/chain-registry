@@ -8,7 +8,7 @@
     "ibc": {
         "allowedDenoms": [ "uusdc", "lamports" ]
     },
-    "order": 1,
+    "order": 3,
     "currencies": [
         {
             "displayDenom": "USDC",
