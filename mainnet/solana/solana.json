@@ -6,7 +6,7 @@
     "explorerUrl": "https://solscan.io/",
     "rpc": "https://melly-b3hnxf-fast-mainnet.helius-rpc.com",
     "ibc": {
-        "allowedDenoms": [ "uusdc", "lamports" ]
+        "allowedDenoms": [ "uusdc" ]
     },
     "order": 3,
     "currencies": [
