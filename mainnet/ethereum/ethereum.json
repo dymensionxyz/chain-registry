@@ -9,7 +9,7 @@
         "rpc": "https://ethereum-rpc.publicnode.com"
     },
     "ibc": {
-        "allowedDenoms": [ "uusdc", "wei" ]
+        "allowedDenoms": [ "uusdc", "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000002" ]
     },
     "order": 4,
     "currencies": [
@@ -25,8 +25,7 @@
         },
         {
             "displayDenom": "ETH",
-            "hyperlaneDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000002",
-            "baseDenom": "wei",
+            "baseDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000002",
             "decimals": 18,
             "logo": "/logos/ethereum-logo.svg",
             "type": "main",
