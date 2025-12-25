@@ -6,7 +6,7 @@
     "explorerUrl": "https://solscan.io/",
     "rpc": "https://melly-b3hnxf-fast-mainnet.helius-rpc.com",
     "ibc": {
-        "allowedDenoms": [ "uusdc" ]
+        "allowedDenoms": [ "uusdc", "lamports" ]
     },
     "order": 1,
     "currencies": [
@@ -17,9 +17,18 @@
             "bridgeDenom": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "decimals": 6,
             "logo": "/logos/usdc-logo.svg",
-            "type": "main",
+            "type": "regular",
             "cctp": true,
             "solanaMintAccount": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        },
+        {
+            "displayDenom": "SOL",
+            "hyperlaneDenom": "0x726f757465725f61707000000000000000000000000000020000000000000003",
+            "baseDenom": "lamports",
+            "decimals": 9,
+            "logo": "/logos/solana.svg",
+            "type": "main",
+            "staging": true
         }
     ],
     "hyperlane": {
