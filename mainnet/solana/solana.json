@@ -23,7 +23,7 @@
         },
         {
             "displayDenom": "SOL",
-            "baseDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000003",
+            "baseDenom": "lamports",
             "decimals": 9,
             "logo": "/logos/solana.svg",
             "type": "main"
