@@ -1,7 +1,7 @@
 {
-    "name": "Dym",
+    "name": "DYM",
     "symbol": "DYM",
     "description": "Warp Route for DYM token",
-    "image": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/a16519d97a19590960da3ce53b1ce471477726a1/mainnet/dymension_1100-1/logos/dymension-logo.svg",
+    "image": "https://raw.githubusercontent.com/dymensionxyz/chain-registry/8b267a342bbc63683207450b61a25af9f1eac7a0/mainnet/dymension_1100-1/logos/logo-dark-bg.png",
     "website": "https://dymension.xyz"
   }
