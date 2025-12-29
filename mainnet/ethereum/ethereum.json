@@ -2,18 +2,16 @@
     "chainId": "ethereum",
     "chainName": "Ethereum",
     "explorerUrl": "https://etherscan.io/",
+    "exploreBlockUrl": "https://etherscan.io/block/",
     "exploreTxUrl": "https://etherscan.io/tx/",
     "evm": {
         "chainId": "0x1",
         "rpc": "https://ethereum-rpc.publicnode.com"
     },
     "ibc": {
-        "allowedDenoms": [ 
-            "uusdc", 
-            "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000002" 
-        ]
+        "allowedDenoms": [ "uusdc", "wei" ]
     },
-    "order": 3,
+    "order": 4,
     "currencies": [
         {
             "displayDenom": "USDC",
@@ -27,20 +25,11 @@
         },
         {
             "displayDenom": "ETH",
-            "baseDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000002",
+            "hyperlaneDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000002",
+            "baseDenom": "wei",
             "decimals": 18,
             "logo": "/logos/ethereum-logo.svg",
             "type": "main",
-            "staging": true
-        },
-        {
-            "displayDenom": "KAS",
-            "baseDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000",
-            "bridgeDenom": "0x18e6C30487e61B117bDE1218aEf2D9Bd7742c4CF",
-            "networkId": "kaspa",
-            "decimals": 8,
-            "logo": "/logos/kaspa-logo.svg",
-            "type": "regular",
             "staging": true
         }
     ],

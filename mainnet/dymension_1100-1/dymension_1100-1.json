@@ -10,6 +10,7 @@
     },
     "collectData": true,
     "explorerUrl": "https://dym.fyi/",
+    "exploreBlockUrl": "https://dym.fyi/block/",
     "exploreTxUrl": "https://dym.fyi/tx/",
     "bech32Prefix": "dym",
     "gasAdjustment": 1.3,

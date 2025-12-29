@@ -5,7 +5,8 @@
     "rest": "https://kava-api.polkachu.com",
     "explorerUrl": "https://www.mintscan.io/kava/",
     "bech32Prefix": "kava",
-    "exploreTxUrl": "https://www.mintscan.io/kava/txs/",
+    "exploreBlockUrl": "https://www.mintscan.io/kava/block/",
+    "exploreTxUrl": "https://www.mintscan.io/kava/tx/",
     "active": true,
     "staging": true,
     "currencies": [

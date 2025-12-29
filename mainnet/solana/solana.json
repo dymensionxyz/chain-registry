@@ -2,12 +2,13 @@
     "chainId": "solana",
     "chainName": "Solana",
     "exploreTxUrl": "https://solscan.io/tx/",
+    "exploreBlockUrl": "https://solscan.io/block/",
     "explorerUrl": "https://solscan.io/",
     "rpc": "https://melly-b3hnxf-fast-mainnet.helius-rpc.com",
     "ibc": {
         "allowedDenoms": [ "uusdc" ]
     },
-    "order": 1,
+    "order": 3,
     "currencies": [
         {
             "displayDenom": "USDC",
@@ -16,11 +17,21 @@
             "bridgeDenom": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
             "decimals": 6,
             "logo": "/logos/usdc-logo.svg",
-            "type": "main",
+            "type": "regular",
             "cctp": true,
             "solanaMintAccount": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+        },
+        {
+            "displayDenom": "SOL",
+            "baseDenom": "lamports",
+            "decimals": 9,
+            "logo": "/logos/solana.svg",
+            "type": "main"
         }
     ],
+    "hyperlane": {
+        "domain": 1399811149
+    },
     "active": true,
     "staging": true,
     "logo": "/logos/solana.svg",
