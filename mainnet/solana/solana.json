@@ -19,7 +19,10 @@
             "logo": "/logos/usdc-logo.svg",
             "type": "regular",
             "cctp": true,
-            "solanaMintAccount": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            "solanaMintAccount": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+            "solana": {
+                "mintAccount": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
+            }
         },
         {
             "displayDenom": "SOL",
