@@ -21,7 +21,13 @@
             "baseDenom": "adym",
             "decimals": 18,
             "logo": "/logos/dymension-logo.svg",
-            "type": "main"
+            "type": "main",
+            "hyperlaneDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000010000000000000001",
+            "solana": {
+                "mintAccount": "AjnUVPffPT91gBS7KADzXgpdTPFrjJURHrKWAa1fQbHH",
+                "wrapRouteProgramId": "2ZmyhGb8fH88rWaHgSazvGun82vfzXB1DPaA8xm4Ksek",
+                "token2022": true
+            }
         }
     ],
     "coinType": 60,
