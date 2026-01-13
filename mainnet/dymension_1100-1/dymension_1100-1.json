@@ -23,6 +23,7 @@
             "logo": "/logos/dymension-logo.svg",
             "type": "main",
             "hyperlaneDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000010000000000000001",
+            "hyperlaneIgpHook": "0x726f757465725f706f73745f6469737061746368000000040000000000000001",
             "solana": {
                 "mintAccount": "AjnUVPffPT91gBS7KADzXgpdTPFrjJURHrKWAa1fQbHH",
                 "wrapRouteProgramId": "2ZmyhGb8fH88rWaHgSazvGun82vfzXB1DPaA8xm4Ksek",
