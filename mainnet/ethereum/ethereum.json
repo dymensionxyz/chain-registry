@@ -30,6 +30,7 @@
             "decimals": 18,
             "logo": "/logos/ethereum-logo.svg",
             "type": "main",
+            "hyperlaneIgpHook": "0x726f757465725f706f73745f6469737061746368000000040000000000000006",
             "staging": true
         }
     ],
