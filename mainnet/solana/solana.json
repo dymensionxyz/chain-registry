@@ -32,7 +32,8 @@
         }
     ],
     "hyperlane": {
-        "domain": 1399811149
+        "domain": 1399811149,
+        "relayerUrl": "https://solana-relayer.mzonder.com"
     },
     "active": true,
     "staging": true,
