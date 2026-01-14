@@ -17,8 +17,7 @@
             "decimals": 8,
             "logo": "/logos/kaspa-logo.svg",
             "common": true,
-            "type": "main",
-            "hyperlaneIgpHook": "0x726f757465725f706f73745f6469737061746368000000040000000000000005"
+            "type": "main"
         }
     ],
     "active": true,
