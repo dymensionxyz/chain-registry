@@ -35,7 +35,8 @@
         }
     ],
     "hyperlane": {
-        "domain": 1
+        "domain": 1,
+        "mailboxAddress": "0xc005dc82818d67AF737725bD4bf75435d065D239"
     },
     "active": true,
     "staging": true,
