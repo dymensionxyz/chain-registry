@@ -9,7 +9,7 @@
         "rpc": "https://ethereum-rpc.publicnode.com"
     },
     "ibc": {
-        "allowedDenoms": [ "uusdc", "wei" ]
+        "allowedDenoms": [ "uusdc" ]
     },
     "order": 4,
     "currencies": [
