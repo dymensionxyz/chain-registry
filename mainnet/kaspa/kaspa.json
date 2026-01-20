@@ -14,6 +14,7 @@
             "displayDenom": "KAS",
             "baseDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000",
             "hyperlaneDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000",
+            "ethereumContract": "0x18e6C30487e61B117bDE1218aEf2D9Bd7742c4CF",
             "decimals": 8,
             "logo": "/logos/kaspa-logo.svg",
             "common": true,
