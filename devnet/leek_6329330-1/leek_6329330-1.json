@@ -1,0 +1,35 @@
+{
+  "chainId": "leek_6329330-1",
+  "chainName": "leek_6329330-1",
+  "rpc": "http://184.174.33.119:26657",
+  "rest": "http://184.174.33.119:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "lee",
+      "baseDenom": "ulee",
+      "decimals": 18,
+      "logo": "/logos/leek_6329330-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://medium.com/@roaringokb",
+  "logo": "/logos/leek_6329330-1.png",
+  "ibc": {
+    "hubChannel": "channel-9545",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6093f2",
+    "rpc": "http://184.174.33.119:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "As an experienced node operator, I am dedicated to managing and maintaining blockchain nodes with expert care. My goal is to ensure optimal performance and security, and uphold the smooth operation and integrity of blockchain nodes and RollApps.",
+  "analytics": true
+  "goldberg": true,
+  "availAddress": "5GdiVK3BF2sDXuyBxQmfHVbzT4XkFzhd8YJh7PQ5AEUrpEup"
+}
