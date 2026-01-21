@@ -1,0 +1,35 @@
+{
+  "chainId": "memolisr_8935760-1",
+  "chainName": "memolisr_8935760-1",
+  "rpc": "https://rpc.memolisr.com.tr",
+  "rest": "https://rest.memolisr.com.tr",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MESR",
+      "baseDenom": "uMESR",
+      "decimals": 18,
+      "logo": "/logos/memolisr_8935760-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://memosr-nft.vercel.app/",
+  "logo": "/logos/memolisr_8935760-1.png",
+  "ibc": {
+    "hubChannel": "channel-9639",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x885950",
+    "rpc": "https://evm.memolisr.com.tr"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "memosr",
+  "goldberg": true,
+  "availAddress": "5FHWAyLn1EK8JDdjdw6KXZWxHRvFYHahX9Z7NntUvRWH2CuM",
+  "analytics": true
+}
