@@ -1,0 +1,33 @@
+{
+  "chainId": "sarox_7384835-1",
+  "chainName": "sarox_7384835-1",
+  "rpc": "https://sarox.hopto.org/rpc",
+  "rest": "https://sarox.hopto.org/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "srx",
+      "baseDenom": "usrx",
+      "decimals": 18,
+      "logo": "/sarox_7384835-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/sarox_7384835-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-9475",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x70af03",
+    "rpc": "https://sarox.hopto.org/evm"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
