@@ -1,44 +1,50 @@
 {
     "chainId": "kava_2222-10",
     "chainName": "Kava",
+    "active": true,
+    "staging": true,
+
+    /* --- Connectivity Layer --- */
     "rpc": "https://kava-rpc.polkachu.com",
     "rest": "https://kava-api.polkachu.com",
     "explorerUrl": "https://www.mintscan.io/kava/",
-    "bech32Prefix": "kava",
-    "exploreBlockUrl": "https://www.mintscan.io/kava/block/",
-    "exploreTxUrl": "https://www.mintscan.io/kava/tx/",
-    "active": true,
-    "staging": true,
+
+    [Image of Cosmos SDK architecture showing RPC and REST API interaction]
+
+    /* --- Identity & Addressing --- */
+    "bech32Prefix": "kava", // Standard prefix for Cosmos-SDK based Kava addresses
+    "coinType": 118,        // Registered coin type for Cosmos-based assets
+
+    /* --- Asset Metadata (Currencies) --- */
     "currencies": [
         {
             "displayDenom": "USDT",
-            "baseDenom": "erc20/tether/usdt",
+            "baseDenom": "erc20/tether/usdt", // Note: Kava-native ERC20 representation
             "decimals": 6,
-            "common": true,
-            "logo": "/logos/usdt-logo.svg",
             "type": "regular"
         },
         {
             "displayDenom": "Kava",
-            "baseDenom": "ukava",
+            "baseDenom": "ukava",           // 'u' stands for micro-Kava (10^-6)
             "decimals": 6,
-            "logo": "/logos/kava-logo.svg",
             "type": "main"
         }
     ],
-    "coinType": 118,
+
+    [Image of Kava Co-Chain architecture: EVM and Cosmos SDK interoperability]
+
+    /* --- Inter-Blockchain Communication (IBC) --- */
     "ibc": {
-        "timeout": 600000,
-        "hubChannel": "channel-3",
-        "channel": "channel-144",
+        "timeout": 600000,           // 10 minutes timeout for packet delivery
+        "hubChannel": "channel-3",   // Connection to Cosmos Hub or main bridge
+        "channel": "channel-144",    // Local channel ID for asset transfers
         "allowedDenoms": ["erc20/tether/usdt","ukava","adym"]
     },
+
+    /* --- Gas Policy --- */
     "gasPriceSteps": {
         "low": 0.1,
         "average": 0.1,
         "high": 0.2
-    },
-    "website": "https://www.kava.io/",
-    "logo": "/logos/kava-logo.svg",
-    "type": "Regular"
+    }
 }
