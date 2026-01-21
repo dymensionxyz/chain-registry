@@ -1,0 +1,33 @@
+{
+  "chainId": "ilanihas_8485150-1",
+  "chainName": "ilanihas_8485150-1",
+  "rpc": "https://rollapp.ilanihas.xyz/status",
+  "rest": "https://rollapp.ilanihas.xyz/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ILA",
+      "baseDenom": "uILA",
+      "decimals": 18,
+      "logo": "/logos/ilanihas_8485150-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://medium.com/@ilaNihas",
+  "logo": "/logos/ilanihas_8485150-1.png",
+  "ibc": {
+    "hubChannel": "channel-9373",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x81791e",
+    "rpc": "https://rollapp.ilanihas.xyz/evm"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "As an node operator, I expertly manage and maintain blockchain nodes, ensuring their optimal performance and security. I'm committed to the smooth operation and integrity of blockchain nodes and RollApps.",
+  "analytics": true
+}
