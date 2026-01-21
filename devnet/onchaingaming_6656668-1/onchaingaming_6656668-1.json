@@ -1,0 +1,33 @@
+{
+  "chainId": "onchaingaming_6656668-1",
+  "chainName": "Onchaingaming",
+  "rpc": "https://froopyland.blockpi.network:443/rpc/v1/public",
+  "rest": "https://froopyland.dymension.xyz/24/onchaingaming_6656668-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "uocg",
+      "baseDenom": "uocg",
+      "decimals": 18,
+      "logo": "/logos/onchaingaming_6656668-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/onchaingaming_6656668-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-7970",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2a499f",
+    "rpc": "https://froopyland.blockpi.network:443/rpc/v1/public"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
