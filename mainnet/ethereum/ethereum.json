@@ -9,7 +9,11 @@
         "rpc": "https://ethereum-rpc.publicnode.com"
     },
     "ibc": {
-        "allowedDenoms": [ "uusdc" ]
+        "allowedDenoms": [
+            "uusdc",
+            "adym",
+            "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000"
+        ]
     },
     "order": 4,
     "currencies": [
