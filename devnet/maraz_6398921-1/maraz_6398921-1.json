@@ -1,0 +1,33 @@
+{
+  "chainId": "maraz_6398921-1",
+  "chainName": "maraz_6398921-1",
+  "rpc": "rpc": "http://178.62.202.126:26657",
+  "rest": "rpc": "http://178.62.202.126:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "mrz",
+      "baseDenom": "umrz",
+      "decimals": 18,
+      "logo": "/logos/maraz_6398921-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/maraz_6398921-1.png",
+  "ibc": {
+    "hubChannel": "channel-9461",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x61a3c9",
+    "rpc": "http://178.62.202.126:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
