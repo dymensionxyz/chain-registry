@@ -1,0 +1,35 @@
+{
+  "chainId": "animus_7251253-1",
+  "chainName": "animus_7251253-1",
+  "rpc": "https://d1.animusthelight.xyz",
+  "rest": "https://d2.animusthelight.xyz",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ANI",
+      "baseDenom": "uANI",
+      "decimals": 18,
+      "logo": "/logos/animus_7251253-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/animus_7251253-1.png",
+  "ibc": {
+    "hubChannel": "channel-9481",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6ea535",
+    "rpc": "https://d3.animusthelight.xyz"
+  },
+  "goldberg": true,
+  "availAddress": "5GKDFBrYUAtdZCtxnqbHgeTzq2zyMRY2kg69j9YxgjVeb2JB",
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
