@@ -1,0 +1,33 @@
+{
+    "chainId": "saurabhshib_6702284-1",
+    "chainName": "saurabhshib_6702284-1",
+    "rpc": "http://3.99.248.186:26657",
+    "rest": "http://3.99.248.186:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "sbshib",
+        "baseDenom": "usbshib",
+        "decimals": 18,
+        "logo": "/logos/saurabhshib_6702284-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://shib.io/",
+    "logo": "/logos/saurabhshib_6702284-1.png",
+    "ibc": {
+      "hubChannel": "channel-10202",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x6644cc",
+      "rpc": "http://3.99.248.186:8545"
+    },
+    "type": "RollApp",
+    "da": "Celestia",
+    "description": "Embrace the future of decentralized possibilities with Shiba Inu. Explore, trade, and be part of our multi-million person community!",
+    "analytics": true
+  }
