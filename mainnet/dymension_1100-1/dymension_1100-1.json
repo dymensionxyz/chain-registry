@@ -28,7 +28,8 @@
             "solana": {
                 "mintAccount": "AjnUVPffPT91gBS7KADzXgpdTPFrjJURHrKWAa1fQbHH",
                 "wrapRouteProgramId": "2ZmyhGb8fH88rWaHgSazvGun82vfzXB1DPaA8xm4Ksek",
-                "token2022": true
+                "token2022": true,
+                "decimals": 9
             }
         }
     ],
