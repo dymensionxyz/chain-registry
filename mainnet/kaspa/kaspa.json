@@ -19,7 +19,12 @@
             "logo": "/logos/kaspa-logo.svg",
             "common": true,
             "type": "main",
-            "hyperlaneIgpHook": "0x726f757465725f706f73745f6469737061746368000000040000000000000005"
+            "hyperlaneIgpHook": "0x726f757465725f706f73745f6469737061746368000000040000000000000005",
+            "solana": {
+                "mintAccount": "nPZrxwwS8Da2bQ3XQr2RSzEQ8QJR2Fvfhbd8PeSeiiV",
+                "wrapRouteProgramId": "Cf7GkX6aYUV1jD8PSwKBPaUk32MLj8GWrrmWpKFp7qdd",
+                "token2022": true
+            }
         }
     ],
     "active": true,
