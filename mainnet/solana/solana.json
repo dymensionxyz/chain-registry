@@ -6,7 +6,11 @@
     "explorerUrl": "https://solscan.io/",
     "rpc": "https://solana-mainnet.g.alchemy.com/v2/rAlOmDGbfRdJgIEb1LDsk",
     "ibc": {
-        "allowedDenoms": [ "uusdc", "adym" ]
+        "allowedDenoms": [
+            "uusdc",
+            "adym",
+            "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000"
+        ]
     },
     "order": 3,
     "currencies": [
