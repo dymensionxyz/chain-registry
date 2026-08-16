@@ -9,9 +9,9 @@
         "rpc": "https://dymension.api.onfinality.io/public"
     },
     "collectData": true,
-    "explorerUrl": "https://dym.fyi/",
-    "exploreBlockUrl": "https://dym.fyi/block/",
-    "exploreTxUrl": "https://dym.fyi/tx/",
+    "explorerUrl": "https://explorer.dymension.xyz/",
+    "exploreBlockUrl": "https://explorer.dymension.xyz/block/",
+    "exploreTxUrl": "https://explorer.dymension.xyz/tx/",
     "bech32Prefix": "dym",
     "gasAdjustment": 1.3,
     "currencies": [
