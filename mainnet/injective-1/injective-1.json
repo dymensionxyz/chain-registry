@@ -8,7 +8,7 @@
     "exploreTxUrl": "https://www.mintscan.io/injective/tx/",
     "bech32Prefix": "inj",
     "active": true,
-    "order": 1,
+    "order": 100,
     "currencies": [
         {
             "displayDenom": "USDC",
