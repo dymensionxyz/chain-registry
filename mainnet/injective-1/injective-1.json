@@ -11,30 +11,39 @@
     "order": 100,
     "currencies": [
         {
+            "displayDenom": "INJ",
+            "baseDenom": "inj",
+            "decimals": 18,
+            "logo": "/logos/injective-icon.svg",
+            "type": "main"
+        },
+        {
             "displayDenom": "USDC",
-            "baseDenom": "uusdc",
+            "baseDenom": "erc20:0xa00C59fF5a080D2b954d0c75e46E22a0c371235a",
             "decimals": 6,
             "common": true,
             "logo": "/logos/usdc-logo.svg",
-            "type": "main",
-            "cctp": true
+            "type": "regular"
         }
     ],
     "ibc": {
         "timeout": 600000,
         "hubChannel": "channel-47",
         "channel": "channel-259",
-        "allowedDenoms": [ "uusdc", "adym" ]
+        "allowedDenoms": [
+            "erc20:0xa00C59fF5a080D2b954d0c75e46E22a0c371235a",
+            "inj",
+            "adym"
+        ]
     },
-    "coinType": 118,
+    "coinType": 60,
     "gasPriceSteps": {
-        "low": 0.1,
-        "average": 0.1,
-        "high": 0.2
+        "low": 500000000,
+        "average": 700000000,
+        "high": 900000000
     },
     "logo": "/logos/injective-icon.svg",
     "type": "Regular",
-    "cctp": true,
     "common": true,
     "website": "https://injective.com/"
 }
