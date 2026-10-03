@@ -1,0 +1,35 @@
+{
+  "chainId": "kg_5509948-1",
+  "chainName": "kg_5509948-1",
+  "rpc": "http://84.247.190.30:26657",
+  "rest": "http://84.247.190.30:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "kgg",
+      "baseDenom": "ukgg",
+      "decimals": 18,
+      "logo": "/logos/kg_5509948-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434                                                                                        022",
+  "website": "",
+  "logo": "/logos/kg_5509948-1.png",
+  "ibc": {
+    "hubChannel": "channel-8791",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x54133c",
+    "rpc": "http://84.247.190.30:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "goldberg": true,
+  "availAddress": "5DF57zTR1ZaZTNRTkKUXNcsLLJuHNA1AizSrrwkv1VMeN7yv",
+  "analytics": true
+}
