@@ -1,0 +1,35 @@
+{
+    "chainId": "silvercat_6597085-1",
+    "chainName": "silvercat_6597085-1",
+    "rpc": "http://37.60.226.117:26657",
+    "rest": "http://37.60.226.117:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "SIL",
+        "baseDenom": "uSIL",
+        "decimals": 18,
+        "logo": "/logos/silvercat_6597085-1.jpg",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/silvercat_6597085-1.jpg",
+    "ibc": {
+      "hubChannel": "channel-9271",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x64a9dd",
+      "rpc": ""
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "Hello,Avail degens.",
+    "analytics": true,
+    "goldberg": true,
+    "availAddress": "5C5mbKcr8hU3RxhCgx39MFjq558eoYxconJGvXnxPCC8Q7p9"
+  }
