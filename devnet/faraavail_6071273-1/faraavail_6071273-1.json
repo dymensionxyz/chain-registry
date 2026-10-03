@@ -1,0 +1,35 @@
+{
+  "chainId": "faraavail_6071273-1",
+  "chainName": "faraavail",
+  "rpc": "https://froopyland.dymension.xyz/25/faraavail_6071273-1/rpc",
+  "rest": "https://froopyland.dymension.xyz/25/faraavail_6071273-1/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "fav",
+      "baseDenom": "uFAV",
+      "decimals": 18,
+      "logo": "/logos/faraavail_6071273-1.jpg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/faraavail_6071273-1.jpg",
+  "ibc": {
+    "hubChannel": "channel-8047",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5b870d",
+    "rpc": "https://froopyland.dymension.xyz/25/faraavail_6071273-1/evmrpc"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5CUX9YH7ZF4wkWttbH3JqGhFT92y9fwH76B1BRMFyiJ9P298",
+  "description": "faraavail RollApp",
+  "analytics": true
+}
