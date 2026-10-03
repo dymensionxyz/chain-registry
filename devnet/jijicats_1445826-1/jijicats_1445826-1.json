@@ -1,0 +1,33 @@
+{
+   "chainId":"jijicats_1445826-1",
+   "chainName":"jijicats_1445826-1",
+   "rpc":"https://jijicats.f5.si/status",
+   "rest":"https://jijicats.f5.si/rest",
+   "bech32Prefix":"ethm",
+   "currencies":[
+      {
+         "displayDenom":"JIJI",
+         "baseDenom":"uJIJI",
+         "decimals":18,
+         "logo":"/logos/jijicats_1445826-1.png",
+         "type":"main"
+      }
+   ],
+   "coinType":60,
+   "faucetUrl":"https://discord.com/channels/956961633165529098/1143231362468434022",
+   "website":"https://twitter.com/jiji33464612",
+   "logo":"/logos/jijicats_1445826-1.png",
+   "ibc":{
+      "hubChannel":"channel-9502",
+      "channel":"channel-0",
+      "timeout":172800000
+   },
+   "evm":{
+      "chainId":"0x160fc2",
+      "rpc":"https://jijicats.f5.si/evm"
+   },
+   "type":"RollApp",
+   "da":"Avail",
+   "description":"To contribute to the ecosystem with a better understanding of modules and rollapp",
+   "analytics":true
+}
