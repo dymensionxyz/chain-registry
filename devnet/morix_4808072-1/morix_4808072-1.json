@@ -1,0 +1,35 @@
+{
+  "chainId": "morix_4808072-1",
+  "chainName": "morix",
+  "rpc": "http://195.248.243.84:8545",
+  "rest": "http://195.248.243.84:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MRX",
+      "baseDenom": "uMRX",
+      "decimals": 18,
+      "logo": "/logos/morix_4808072-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/morix_4808072-1.png",
+  "ibc": {
+    "hubChannel": "channel-9746",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "4808072",
+    "rpc": "http://195.248.243.84:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5DwL34d3gmDzwupRes36FaMM6ZZLKf7zxqkUv5Fqwet4nSC1"
+}
