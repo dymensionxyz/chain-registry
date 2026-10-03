@@ -1,0 +1,35 @@
+{
+  "chainId": "seederda_7788244-1",
+  "chainName": "seederda_7788244-1",
+  "rpc": "https://rollapp.0xseeder.xyz/status",
+  "rest": "https://rollapp.0xseeder.xyz/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "SDA",
+      "baseDenom": "uSDA",
+      "decimals": 18,
+      "logo": "/logos/seederda_7788244-1.svg",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://seederda-faucet.vercel.app/",
+  "website": "https://seederda.vercel.app/",
+  "logo": "/logos/seederda_7788244-1.png",
+  "ibc": {
+    "hubChannel": "channel-9600",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x76d6d4",
+    "rpc": "https://rollapp.0xseeder.xyz/evm"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Clash of Nodes Campaign My first RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Fy7KJB7vEMCuL9fnF5qqiyL4h5vx6jjtxLKo9vSZW8PzuW2"
+}
