@@ -1,0 +1,35 @@
+{
+  "chainId": "anhvtk_3193107-1",
+  "chainName": "anhvtk_3193107-1",
+  "rpc": "https://rpc.anhvtk.store",
+  "rest": "https://rest.anhvtk.store",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "VTKA",
+      "baseDenom": "uVTKA",
+      "decimals": 18,
+      "logo": "anhvtk_3193107-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "anhvtk_3193107-1.png",
+  "ibc": {
+    "hubChannel": "channel-9538",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x30b913",
+    "rpc": "https://evm-rpc.anhvtk.store"
+  },
+  "goldberg": true,
+  "availAddress": "5H3NsKfgwmEm8KY4UCRutoy2914wREt4vXEmjV4avD794GL9",
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
