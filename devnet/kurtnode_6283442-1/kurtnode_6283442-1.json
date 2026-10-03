@@ -1,0 +1,33 @@
+{
+  "chainId": "kurtnode_6283442-1",
+  "chainName": "kurtnode_6283442-1",
+  "rpc": "http://84.247.139.170:26657",
+  "rest": "http://84.247.139.170:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KURT",
+      "baseDenom": "uKURT",
+      "decimals": 18,
+      "logo": "/logos/kurtnode_6283442-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://github.com/oktaykurt",
+  "logo": "/logos/kurtnode_6283442-1.png",
+  "ibc": {
+    "hubChannel": "channel-9842",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5fe0b2",
+    "rpc": "http://84.247.139.170:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "KurtNode aims to contribute future of the blockchains. Let's decentralize!",
+  "analytics": true
+}
