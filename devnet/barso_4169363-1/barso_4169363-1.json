@@ -1,0 +1,35 @@
+{
+  "chainId": "barso_4169363-1",
+  "chainName": "BARSOFI",
+  "rpc": "https://barsoficell.store/rpc",
+  "rest": "https://barsoficell.store/rest",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "BARS",
+      "baseDenom": "uBARS",
+      "decimals": 18,
+      "logo": "/logos/barso_4169363-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://barsoficell.store",
+  "logo": "/logos/barso_4169363-1.png",
+  "ibc": {
+    "hubChannel": "channel-8047",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7f21fb",
+    "rpc": "https://barsoficell.store/evm"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Description of your RollApp",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5FNWqDk3hpYYXQmEx2evWnLPGk8tZAegXGzvru2xvr2x6K4Z"
+}
