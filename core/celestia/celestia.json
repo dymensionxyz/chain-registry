@@ -1,35 +1,61 @@
 {
-    "chainId": "celestia",
+  "chainId": "celestia",
+  "chainName": "Celestia",
+  "status": "live",
+  "networkType": "mainnet",
+  "website": "https://celestia.org/",
+  "bech32Prefix": "celestia",
+  "coinType": 118,
+  "active": true,
+  
+  // Grouped Infrastructure Endpoints
+  "node": {
     "rpc": "https://public-celestia-rpc.numia.xyz",
     "rest": "https://public-celestia-lcd.numia.xyz",
-    "explorerUrl": "https://www.mintscan.io/celestia/",
-    "exploreTxUrl": "https://www.mintscan.io/celestia/tx/",
-    "chainName": "Celestia",
-    "active": true,
-    "bech32Prefix": "celestia",
-    "currencies": [
-        {
-            "displayDenom": "TIA",
-            "baseDenom": "utia",
-            "decimals": 6,
-            "logo": "/logos/celestia-logo-purple.svg",
-            "type": "main",
-            "common": true
-        }
-    ],
-    "coinType": 118,
-    "ibc": {
-        "timeout": 600000,
-        "hubChannel": "channel-4",
-        "channel": "channel-27",
-        "allowedDenoms": ["utia"]
+    "grpc": "https://public-celestia-grpc.numia.xyz" 
+  },
+
+  // Explorer links for verification
+  "explorers": {
+    "mintscan": {
+      "url": "https://www.mintscan.io/celestia/",
+      "txUrl": "https://www.mintscan.io/celestia/tx/"
     },
-    "gasPriceSteps": {
-        "low": 0.01,
-        "average": 0.02,
-        "high": 0.1
-    },
+    "celenium": {
+      "url": "https://celenium.io/",
+      "txUrl": "https://celenium.io/tx/"
+    }
+  },
+
+  // Optimized currency definitions
+  "currencies": [
+    {
+      "displayDenom": "TIA",
+      "baseDenom": "utia",
+      "decimals": 6,
+      "logo": "/logos/celestia-logo-purple.svg",
+      "coinGeckoId": "celestia"
+    }
+  ],
+
+  // IBC Configuration for Hub interoperability
+  "ibc": {
+    "timeout": 600000,
+    "sourceChannel": "channel-27",
+    "destinationChannel": "channel-4",
+    "allowedDenoms": ["utia"]
+  },
+
+  // Fine-tuned Gas steps for network stability
+  "gasPriceSteps": {
+    "low": 0.01,
+    "average": 0.02,
+    "high": 0.1
+  },
+
+  "metadata": {
     "logo": "/logos/celestia-logo-purple.svg",
     "type": "Regular",
-    "website": "https://celestia.org/"
+    "description": "The first modular data availability network."
+  }
 }
