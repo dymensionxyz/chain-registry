@@ -24,8 +24,8 @@
             "cctp": true
         }
     ],
-    "active": true,
-    "staging": true,
+    "active": false,
+    "staging": false,
     "logo": "/logos/arbitrum-arb-logo.svg",
     "type": "EVM",
     "website": "https://arbitrum.io/"

@@ -24,8 +24,8 @@
             "cctp": true
         }
     ],
-    "active": true,
-    "staging": true,
+    "active": false,
+    "staging": false,
     "logo": "/logos/base-logo.svg",
     "type": "EVM",
     "website": "https://www.base.org/"

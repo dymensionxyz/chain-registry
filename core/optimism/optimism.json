@@ -21,8 +21,8 @@
             "cctp": true
         }
     ],
-    "active": true,
-    "staging": true,
+    "active": false,
+    "staging": false,
     "logo": "/logos/optimism-logo.svg",
     "type": "EVM",
     "website": "https://www.optimism.io/"
