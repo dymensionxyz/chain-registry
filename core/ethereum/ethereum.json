@@ -39,8 +39,8 @@
             "type": "regular"
         }
     ],
-    "active": true,
-    "staging": true,
+    "active": false,
+    "staging": false,
     "common": true,
     "logo": "/logos/ethereum-logo.svg",
     "type": "EVM",
