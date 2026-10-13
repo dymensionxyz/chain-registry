@@ -5,23 +5,11 @@
     "rpc": "https://melly-b3hnxf-fast-mainnet.helius-rpc.com",
     "chainName": "Solana",
     "ibc": {
-        "allowedDenoms": [ "erc20:0xa00C59fF5a080D2b954d0c75e46E22a0c371235a" ]
+        "allowedDenoms": []
     },
-    "currencies": [
-        {
-            "displayDenom": "USDC",
-            "baseDenom": "erc20:0xa00C59fF5a080D2b954d0c75e46E22a0c371235a",
-            "ibcRepresentation": "ibc/3713D1D8F4BA779A6B4705B8695634DBA68D84E404D39986E983914353EF5CA2",
-            "bridgeDenom": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-            "decimals": 6,
-            "logo": "/logos/usdc-logo.svg",
-            "type": "main",
-            "cctp": true,
-            "solanaMintAccount": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-        }
-    ],
-    "active": true,
-    "staging": true,
+    "currencies": [],
+    "active": false,
+    "staging": false,
     "logo": "/logos/solana.svg",
     "type": "Solana",
     "website": "https://solana.com/"
