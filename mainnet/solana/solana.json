@@ -7,26 +7,12 @@
     "rpc": "https://melly-b3hnxf-fast-mainnet.helius-rpc.com",
     "ibc": {
         "allowedDenoms": [
-            "erc20:0xa00C59fF5a080D2b954d0c75e46E22a0c371235a",
             "adym",
             "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000000"
         ]
     },
     "order": 3,
     "currencies": [
-        {
-            "displayDenom": "USDC",
-            "baseDenom": "erc20:0xa00C59fF5a080D2b954d0c75e46E22a0c371235a",
-            "ibcRepresentation": "ibc/3713D1D8F4BA779A6B4705B8695634DBA68D84E404D39986E983914353EF5CA2",
-            "bridgeDenom": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-            "decimals": 6,
-            "logo": "/logos/usdc-logo.svg",
-            "type": "regular",
-            "cctp": true,
-            "solana": {
-                "mintAccount": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v"
-            }
-        },
         {
             "displayDenom": "SOL",
             "baseDenom": "lamports",
