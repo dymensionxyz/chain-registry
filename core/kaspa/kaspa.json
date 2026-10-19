@@ -16,7 +16,7 @@
             "type": "main"
         }
     ],
-    "active": true,
+    "active": false,
     "hyperlane": {
         "placeholderValue": "0x0000000000000000000000000000000000000000000000000000000000000000",
         "escrowAddress": "kaspatest:pzzzg6pslsm8s8pxtnhmx978jvyfs83v9ehk4u9hwea7datphdtqq6vxz5k4c",
