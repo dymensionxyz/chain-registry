@@ -1,0 +1,35 @@
+{
+  "chainId": "guaydoccom_1672086-1",
+  "chainName": "guaydoccom_1672086-1",
+  "rpc": "http://37.60.246.139:26657",
+  "rest": "http://37.60.246.139:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "WLB",
+      "baseDenom": "uWLB",
+      "decimals": 18,
+      "logo": "/logos/guaydoccom_1672086-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/guaydoccom_1672086.png",
+  "ibc": {
+    "hubChannel": "channel-9513",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x198396",
+    "rpc": "http://37.60.246.139:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5CMCAoXBSrdQsYiJgkWZqepB7wLWXPhtfxnp9j5pQ6igWmqW"
+}
