@@ -1,0 +1,36 @@
+{
+  "chainId": "nodesguru_5046054-1",
+  "chainName": "Nodes.Guru",
+  "rpc": "https://rpc-1.test-rollapp.nodes.guru:443",
+  "rest": "https://api-1.test-rollapp.nodes.guru:443",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "GURU",
+      "baseDenom": "uGURU",
+      "decimals": 18,
+      "logo": "/logos/nodesguru_5046054-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://nodes.guru",
+  "logo": "/logos/nodesguru_5046054-1.png",
+  "ibc": {
+    "hubChannel": "channel-9605",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4cff26",
+    "rpc": "https://jsonrpc-1.test-rollapp.nodes.guru:443"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Nodes.Guru test rollapp",
+  "analytics": true,
+  "goldberg": true,
+  "validator": true,
+  "availAddress": "5D73q1vQ2yWV9fNKxh9tKWkemDyYs8Ehht869LdwsCx6swU7"
+}
