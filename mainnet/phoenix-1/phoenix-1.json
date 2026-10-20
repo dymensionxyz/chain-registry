@@ -1,0 +1,33 @@
+{
+    "chainId": "phoenix-1",
+    "chainName": "Terra",
+    "rpc": "https://phoenix-rpc.terra.dev",
+    "rest": "https://phoenix-lcd.terra.dev",
+    "explorerUrl": "https://www.mintscan.io/terra/",
+    "exploreTxUrl": "https://www.mintscan.io/terra/tx/",
+    "active": false,
+    "bech32Prefix": "terra",
+    "currencies": [
+        {
+            "displayDenom": "LUNA",
+            "baseDenom": "uluna",
+            "decimals": 6,
+            "logo": "/logos/luna.svg",
+            "type": "main"
+        }
+    ],
+    "coinType": 330,
+    "ibc": {
+        "timeout": 172800000,
+        "hubChannel": "",
+        "channel": ""
+    },
+    "gasPriceSteps": {
+        "low": 0.015,
+        "average": 0.015,
+        "high": 0.04
+    },
+    "logo": "/logos/terra.svg",
+    "type": "Regular",
+    "website": "https://terra.money/"
+}
