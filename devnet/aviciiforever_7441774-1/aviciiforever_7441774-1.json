@@ -1,0 +1,35 @@
+ {
+    "chainId": "aviciiforever_7441774-1",
+    "chainName": "aviciiforever_7441774-1",
+    "rpc": "http://158.247.212.170:26657",
+    "rest": "http://158.247.212.170:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "AVI",
+        "baseDenom": "uAVI",
+        "decimals": 18,
+        "logo": "/logos/aviciiforever_7441774-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "",
+    "logo": "/logos/aviciiforever_7441774-1.png",
+    "ibc": {
+        "hubChannel": "channel-9567",
+        "channel": "channel-0",
+        "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x718d6e",
+      "rpc": "http://158.247.212.170:8545"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "AVICII 4 EVER",
+    "analytics": true,
+    "goldberg": true,
+    "availAddress" "5HBjtuMEm78idS81xs6VY8FdmV7ngbABAfxAuJWJczysxDKv"
+  }
