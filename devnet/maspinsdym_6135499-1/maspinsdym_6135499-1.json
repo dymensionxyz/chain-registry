@@ -1,0 +1,35 @@
+{
+  "chainId": "maspinsdym_6135499-1",
+  "chainName": "maspinsdym_6135499-1",
+  "rpc": "rpc.madhouse.cloud",
+  "rest": "rest.madhouse.cloud",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MSP",
+      "baseDenom": "uMSP",
+      "decimals": 18,
+      "logo": "/logos/maspinsdym_6135499-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/maspinsdym_6135499-1.png",
+  "ibc": {
+    "hubChannel": "channel-9523",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x5d9ecb",
+    "rpc": "evm.madhouse.cloud"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+  "availAddress": "5Evz2konaxXUGXihKkTXbgsKx9CecVYjYfkvHj8XJQRMqpzR",
+  "analytics": true
+ }
