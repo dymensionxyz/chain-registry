@@ -1,0 +1,35 @@
+{
+  "chainId": "umbros_6907316-1",
+  "chainName": "umbros_6907316-1",
+  "rpc": "https://d1.tryscatter.xyz",
+  "rest": "https://d2.tryscatter.xyz",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "UMB",
+      "baseDenom": "uUMB",
+      "decimals": 18,
+      "logo": "/logos/umbros_6907316-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/umbros_6907316-1.png",
+  "ibc": {
+    "hubChannel": "channel-9472",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x6965b4",
+    "rpc": "https://avail.tryscatter.xyz"
+  },
+  "goldberg": true,
+  "availAddress": "5H8c4jdjza2EF8GwKjhMcwE2ELdCqwnYZVSrZqthvEGVb7jy",
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "",
+  "analytics": true
+}
