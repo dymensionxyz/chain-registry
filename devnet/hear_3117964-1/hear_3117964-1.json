@@ -1,0 +1,35 @@
+{
+  "chainId": "hear_3117964-1",
+  "chainName": "hear_3117964-1",
+  "rpc": "http://157.90.110.93:26657",
+  "rest": "http://157.90.110.93:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "HEA",
+      "baseDenom": "uHEA",
+      "decimals": 18,
+      "logo": "/logos/hear_3117964-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://twitter.com/hearingtop",
+  "logo": "/logos/hear_3117964-1.png",
+  "ibc": {
+    "hubChannel": "channel-9389",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x2f938c",
+    "rpc": "http://157.90.110.93:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "The future is modular",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HEkSKZWuXqJrjK3AAVY7ns2VYLAmHQ2RAZuHsJ8beRZbeeF"
+}
