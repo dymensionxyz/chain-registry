@@ -1,0 +1,34 @@
+{
+  "chainId": "popcat_2523759-1",
+  "chainName": "popcat_2523759-1",
+  "rpc": "https://rpc.popcat.today",
+  "rest": "https://api.popcat.today",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "POPCAT",
+      "baseDenom": "uPOPCAT",
+      "decimals": 18,
+      "logo": "/logos/popcat_2523759-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://coinfund.netlify.app/",
+  "logo": "/logos/popcat_2523759-1.png",
+  "ibc": {
+    "hubChannel": "channel-9320",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x26826f",
+    "rpc": "https://jsonrpc.popcat.today"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "A blockchain crowdfunding app to create and contribute to crowdfunding campaigns. Contributors have control over the release of funds which are stored in the contract created by the campaign manager adhering to the principles of decentralization.",
+  "analytics": true,
+  "availAddress": "5FZ4KRPfKtrLDHkHFNYuh29CMESGqgBPRHpPynTZHbx4k4tL"
+}
