@@ -1,0 +1,30 @@
+{
+    "chainId": "solanatestnet",
+    "chainName": "Solana Testnet",
+    "explorerUrl": "https://explorer.solana.com?cluster=testnet",
+    "exploreTxUrl": "https://explorer.solana.com/tx/{txHash}?cluster=testnet",
+    "rest": "TODO:",
+    "rpc": "https://api.testnet.solana.com",
+    "ibc": {
+        "allowedDenoms": [ "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000003" ]
+    },
+    "currencies": [
+        {
+            "displayDenom": "SOL",
+            "baseDenom": "hyperlane/0x726f757465725f61707000000000000000000000000000020000000000000003",
+            "decimals": 9,
+            "logo": "/logos/solana.svg",
+            "type": "main"
+        }
+    ],
+    "active": true,
+    "hyperlane": {
+        "placeholderValue": "0x720c2a8e3167ad0858f5cde09b5d00681c6b798c25761ce5135a60a8dc513f39",
+        "escrowAddress": "NOT APPLICABLE",
+        "domain": 1399811150,
+        "minWithdrawal": 0
+    },
+    "logo": "/logos/solana.svg",
+    "type": "Solana",
+    "website": "https://solana.com/"
+}
