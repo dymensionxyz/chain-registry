@@ -1,0 +1,32 @@
+{
+	"chainId": "zeseidon_4195262-1",
+	"chainName": "zeseidon_4195262-1",
+	"rpc": "http://167.86.107.34:26657",
+	"rest": "http://167.86.107.34:1317",
+	"bech32Prefix": "ethm",
+	"currencies": [
+		 {
+			"displayDenom": "ZES",
+			"baseDenom": "uZES",
+			"decimals": 18,
+			"logo": "/logos/zeseidon_4195262-1.png",
+			"type": "main"
+  		}
+	],
+	"coinType": 60,
+	"faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022", 
+ 	"website": "https://x.com/madoc_X",
+	"logo": "/logos/zeseidon_4195262-1.png",
+	"ibc": {
+  		"hubChannel": "channel-9546",
+		"channel": "channel-0",
+		"timeout": 172800000
+ 	},
+ 	"evm": { "chainId": "0x81791e",
+	"rpc": "http://167.86.107.34:8545"
+ 	},
+	"type": "RollApp",
+	"da": "Avail",
+	"description": "node runner and leaner.",
+	"analytics": true
+}
