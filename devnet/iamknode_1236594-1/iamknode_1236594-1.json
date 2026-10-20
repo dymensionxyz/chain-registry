@@ -1,0 +1,34 @@
+{
+  "chainId": "iamknode_1236594-1",
+  "chainName": "iamknode_1236594-1",
+  "rpc": "https://5.189.141.136:26657",
+  "rest": "https://5.189.141.136:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "imk",
+      "baseDenom": "uimk",
+      "decimals": 18,
+      "logo": "/logos/iamknode_1236594-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://medium.com/@firekid02",
+  "logo": "/logos/iamknode_1236594-1.png",
+  "ibc": {
+    "hubChannel": "channel-9488",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x12de72",
+    "rpc": "https://5.189.141.136:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "iamknode is a trusted Pos validator",
+  "analytics": true
+}
+
