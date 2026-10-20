@@ -1,0 +1,35 @@
+{
+  "chainId": "marso_7498810-1",
+  "chainName": "marso_7498810-1",
+  "rpc": "https://rpc.mttk.xyz",
+  "rest": "https://rest.mttk.xyz",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "MTU",
+      "baseDenom": "uMTU",
+      "decimals": 18,
+      "logo": "/logos/marso_7498810-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://marsonft.vercel.app/",
+  "logo": "/logos/marso_7498810-1.png",
+  "ibc": {
+    "hubChannel": "channel-9707",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x726c3a",
+    "rpc": "https://evm.mttk.xyz"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "marso",
+  "goldberg": true,
+  "availAddress": "5CFhTi8PptY82yJfQEciggpQAno6kwxqPyVQz6LhQzpx2DYZ",
+  "analytics": true
+}
