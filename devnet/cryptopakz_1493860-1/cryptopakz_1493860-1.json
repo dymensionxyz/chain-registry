@@ -1,0 +1,35 @@
+{
+  "chainId": "cryptopakz_1493860-1",
+  "chainName": "cryptopakz_1493860-1",
+  "rpc": "http://158.220.108.30:26657”,
+  "rest": "http://158.220.108.30:1317”,
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CPZ",
+      "baseDenom": "uCPZ",
+      "decimals": 18,
+      "logo": "/logos/cryptopakz_1493860-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/cryptopakz_1493860-1.png",
+  "ibc": {
+    "hubChannel": "channel-9331",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x16cb64",
+    "rpc": "http://158.220.108.30:8545”
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Cryptopakz RollApp",
+  "analytics": true
+  "goldberg": true,
+  "availAddress": "5GeNqZ9j4xXAyQ1ocQZ1gvD7XnAkm87nqDiRja5eDyiVnjZX"
+}
