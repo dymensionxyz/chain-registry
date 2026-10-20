@@ -1,0 +1,35 @@
+{
+  "chainId": "corekutlunew_2678643-1",
+  "chainName": "corekutlunew_2678643-1",
+  "rpc": "https://rpc.minenn.com.tr",
+  "rest": "https://rest.minenn.com.tr",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ktl",
+      "baseDenom": "uktl",
+      "decimals": 18,
+      "logo": "/logos/corekutlunew_2678643-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/corekutlunew_2678643-1.png",
+  "ibc": {
+    "hubChannel": "channel-9228",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x7c0461",
+    "rpc": "https://evm.minenn.com.tr"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "kutludymcuzdannew",
+  "goldberg": true,
+  "availAddress": "5DcRQw9SELTdiasHYsWEvHrjyL2eEWVDqig82onANxiUss8C",
+  "analytics": true
+}
