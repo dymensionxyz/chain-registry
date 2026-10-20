@@ -1,0 +1,35 @@
+{
+    "chainId": "gembit_2457748-1",
+    "chainName": "gembit_2457748-1",
+    "rpc": "http://194.163.133.146:26657",
+    "rest": "http://194.163.133.146:1317",
+    "bech32Prefix": "ethm",
+    "currencies": [
+      {
+        "displayDenom": "GEMB",
+        "baseDenom": "uGEMB",
+        "decimals": 18,
+        "logo": "/logos/gembit_2457748-1.png",
+        "type": "main"
+      }
+    ],
+    "coinType": 60,
+    "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+    "website": "https://www.gembit.net/",
+    "logo": "/logos/gembit_2457748-1.png",
+    "ibc": {
+      "hubChannel": "channel-9609",
+      "channel": "channel-0",
+      "timeout": 172800000
+    },
+    "evm": {
+      "chainId": "0x258094",
+      "rpc": "http://194.163.133.146:8545"
+    },
+    "type": "RollApp",
+    "da": "Avail",
+    "description": "Gembit is GameFi, GambleFi Project. Running test nodes on Dymension with Avail",
+    "analytics": true,
+    "goldberg": true,
+    "availAddress": "5Dw1HsJLZMVHjjrg4HVtnTrg82yFPQvKYC1ZcKtY9BL96eR4"
+  }
