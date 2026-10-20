@@ -1,0 +1,35 @@
+{
+  "chainId": "alexking_4954072-1",
+  "chainName": "alexking_4954072-1",
+  "rpc": "http://hieut3k34.ddns.net:26657",
+  "rest": "http://hieut3k34.ddns.net:1317",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "ALK",
+      "baseDenom": "uALK",
+      "decimals": 18,
+      "logo": "/alexking_4954072-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/alexking_4954072-1.png",
+  "ibc": {
+    "hubChannel": "channel-9420",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x4b97d8",
+    "rpc": "http://hieut3k34.ddns.net:8545"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Alexking",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5Cu7Rq4SmYz17LvmCfLgcZvivLYQPS9h5V2rVoTB1JCr34ha"
+}
