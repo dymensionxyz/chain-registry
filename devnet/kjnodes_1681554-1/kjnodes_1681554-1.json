@@ -1,0 +1,35 @@
+{
+  "chainId": "kjnodes_1681554-1",
+  "chainName": "kjnodes",
+  "rpc": "https://rpc.froopyland.kjnodes.com:443",
+  "rest": "https://api.froopyland.kjnodes.com:443",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "KJS",
+      "baseDenom": "uKJS",
+      "decimals": 18,
+      "logo": "/logos/kjnodes_1681554-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "https://services.kjnodes.com/",
+  "logo": "/logos/kjnodes_1681554-1.png",
+  "ibc": {
+    "hubChannel": "channel-9371",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x19a892",
+    "rpc": "https://jsonrpc.froopyland.kjnodes.com:443"
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "goldberg": true,
+  "availAddress": "5CqpNgu2cSiJqekYcWxEFTJ7Y4voqVi3f3AT9kPZgce8Jybq",
+  "description": "Powered by Avail",
+  "analytics": true
+}
