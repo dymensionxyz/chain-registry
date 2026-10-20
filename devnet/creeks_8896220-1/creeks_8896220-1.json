@@ -1,0 +1,35 @@
+{
+  "chainId": "creeks_8896220-1",
+  "chainName": "creeks_8896220-1",
+  "rpc": "",
+  "rest": "",
+  "bech32Prefix": "ethm",
+  "currencies": [
+    {
+      "displayDenom": "CRK",
+      "baseDenom": "uCRK",
+      "decimals": 18,
+      "logo": "/logos/creeks_8896220-1.png",
+      "type": "main"
+    }
+  ],
+  "coinType": 60,
+  "faucetUrl": "https://discord.com/channels/956961633165529098/1143231362468434022",
+  "website": "",
+  "logo": "/logos/creeks_8896220-1.png",
+  "ibc": {
+    "hubChannel": "channel-9626",
+    "channel": "channel-0",
+    "timeout": 172800000
+  },
+  "evm": {
+    "chainId": "0x87bedc",
+    "rpc": ""
+  },
+  "type": "RollApp",
+  "da": "Avail",
+  "description": "Your Little Creeks",
+  "analytics": true,
+  "goldberg": true,
+  "availAddress": "5HjTjHvHb8hoco6AQfyck5XUGMmE4rLRmM3ARDHvL9HMJyJj"
+}
